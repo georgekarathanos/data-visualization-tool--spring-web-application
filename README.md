@@ -1,6 +1,6 @@
 # Data Visualization tool with Spring boot
 This is a web application where general metrics about countries can be visualized via timeseries-barcharts. There is a demo-video in this repository where you can see the application in use.
-Authors: George Karathanos & Stelios Syrros
+<br />Authors: George Karathanos & Stelios Syrros
 
 #### How to set up the database - Full explanation in the report
 1) Download the DB-CREATION folder. Open phase1_1. Run the encoder.py and then the add_osi.py scripts. As a result new csv files are created in the subfolder mid_files (already happened).<br /><br />
