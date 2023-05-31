@@ -1,5 +1,8 @@
 # Data Visualization tool with Spring boot
-This is a web application where general metrics about countries can be visualized via timeseries-barcharts. There is a demo-video in this repository where you can see the application in use.
+This is a web application where general metrics about countries can be visualized via timeseries-barcharts. There is a demo-video where you can see the application in use. The demo has the following 3 parts: <br />
+-> Part 1 link: https://www.youtube.com/watch?v=jChL96myLPo<br />
+-> Part 2 link: https://www.youtube.com/watch?v=cp0lEBBz5n4<br />
+-> Part 3 link: https://www.youtube.com/watch?v=rBXYaeu-NAQ<br />
 <br />Authors: George Karathanos & Stelios Syrros
 
 #### How to set up the database - Full explanation in the report
