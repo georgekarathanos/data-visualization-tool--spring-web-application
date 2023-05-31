@@ -1,0 +1,5473 @@
+Country,ISO_Code,Year,gni_per_capita
+Afghanistan,4,1990,2193
+Albania,8,1990,4415
+Algeria,12,1990,9989
+Andorra,20,1990,49062
+Angola,24,1990,4139
+Antigua and Barbuda,28,1990,15749
+Argentina,32,1990,10932
+Armenia,51,1990,3600
+Australia,36,1990,27679
+Austria,40,1990,31587
+Azerbaijan,31,1990,8710
+Bahamas,44,1990,29469
+Bahrain,48,1990,29850
+Bangladesh,50,1990,1358
+Barbados,52,1990,13806
+Belarus,112,1990,8360
+Belgium,56,1990,30781
+Belize,84,1990,4977
+Benin,204,1990,1432
+Bhutan,64,1990,2207
+Bolivia (Plurinational State of),68,1990,3530
+Bosnia and Herzegovina,70,1990,1343
+Botswana,72,1990,8270
+Brazil,76,1990,10082
+Brunei Darussalam,96,1990,85147
+Bulgaria,100,1990,8518
+Burkina Faso,854,1990,845
+Burundi,108,1990,1014
+Cabo Verde,132,1990,1688
+Cambodia,116,1990,1381
+Cameroon,120,1990,2889
+Canada,124,1990,30384
+Central African Republic,140,1990,968
+Chad,148,1990,1096
+Chile,152,1990,8611
+China,156,1990,1530
+Colombia,170,1990,7392
+Comoros,174,1990,2576
+Congo,178,1990,5976
+Costa Rica,188,1990,7377
+Croatia,191,1990,14413
+Cuba,192,1990,4920
+Cyprus,196,1990,22853
+Czechia,203,1990,20121
+CÃ´te d'Ivoire,384,1990,2806
+Denmark,208,1990,32832
+Djibouti,262,1990,1919
+Dominica,212,1990,6484
+Dominican Republic,214,1990,5278
+Ecuador,218,1990,6878
+Egypt,818,1990,5750
+El Salvador,222,1990,4385
+Equatorial Guinea,226,1990,1424
+Eritrea,232,1990,895
+Estonia,233,1990,15020
+Eswatini (Kingdom of),748,1990,5927
+Ethiopia,231,1990,651
+Fiji,242,1990,5683
+Finland,246,1990,28133
+France,250,1990,29573
+Gabon,266,1990,19368
+Gambia,270,1990,1329
+Georgia,268,1990,7988
+Germany,276,1990,31793
+Ghana,288,1990,1863
+Greece,300,1990,21080
+Grenada,308,1990,6929
+Guatemala,320,1990,4969
+Guinea,324,1990,1272
+Guinea-Bissau,624,1990,1565
+Guyana,328,1990,2097
+Haiti,332,1990,2091
+Honduras,340,1990,3027
+Hong Kong; China (SAR),344,1990,26175
+Hungary,348,1990,16200
+Iceland,352,1990,29373
+India,356,1990,1882
+Indonesia,360,1990,4399
+Iran (Islamic Republic of),364,1990,11391
+Iraq,368,1990,11382
+Ireland,372,1990,19935
+Israel,376,1990,20001
+Italy,380,1990,30729
+Jamaica,388,1990,6597
+Japan,392,1990,30836
+Jordan,400,1990,5880
+Kazakhstan,398,1990,13703
+Kenya,404,1990,2265
+Kiribati,296,1990,2358
+Korea (Republic of),410,1990,11614
+Kuwait,414,1990,52301
+Kyrgyzstan,417,1990,3420
+Lao People's Democratic Republic,418,1990,1732
+Latvia,428,1990,14077
+Lebanon,422,1990,6794
+Lesotho,426,1990,2053
+Liberia,430,1990,923
+Libya,434,1990,20344
+Liechtenstein,438,1990,63874
+Lithuania,440,1990,15932
+Luxembourg,442,1990,60153
+Madagascar,450,1990,1590
+Malawi,454,1990,730
+Malaysia,458,1990,10175
+Maldives,462,1990,6261
+Mali,466,1990,1271
+Malta,470,1990,17386
+Marshall Islands,584,1990,3737
+Mauritania,478,1990,2675
+Mauritius,480,1990,7503
+Mexico,484,1990,13156
+Micronesia (Federated States of),583,1990,3330
+Moldova (Republic of),498,1990,6743
+Mongolia,496,1990,5048
+Morocco,504,1990,3809
+Mozambique,508,1990,373
+Myanmar,104,1990,730
+Namibia,516,1990,5821
+Nepal,524,1990,1192
+Netherlands,528,1990,32233
+New Zealand,554,1990,23099
+Nicaragua,558,1990,2860
+Niger,562,1990,872
+Nigeria,566,1990,3221
+North Macedonia,807,1990,9526
+Norway,578,1990,41798
+Oman,512,1990,34936
+Pakistan,586,1990,3195
+Palau,585,1990,11406
+Palestine; State of,275,1990,1079
+Panama,591,1990,7597
+Papua New Guinea,598,1990,2133
+Paraguay,600,1990,6484
+Peru,604,1990,4963
+Philippines,608,1990,3965
+Poland,616,1990,9946
+Portugal,620,1990,20109
+Qatar,634,1990,73168
+Romania,642,1990,11434
+Russian Federation,643,1990,20898
+Rwanda,646,1990,865
+Saint Kitts and Nevis,659,1990,15163
+Saint Lucia,662,1990,8551
+Saint Vincent and the Grenadines,670,1990,5321
+Samoa,882,1990,4768
+Sao Tome and Principe,678,1990,1816
+Saudi Arabia,682,1990,44193
+Senegal,686,1990,2262
+Serbia,688,1990,12309
+Seychelles,690,1990,13709
+Sierra Leone,694,1990,1114
+Singapore,702,1990,34576
+Slovakia,703,1990,14628
+Slovenia,705,1990,83449
+Solomon Islands,90,1990,1291
+South Africa,710,1990,9588
+Spain,724,1990,23594
+Sri Lanka,144,1990,3587
+Sudan,729,1990,1614
+Suriname,740,1990,10377
+Sweden,752,1990,30334
+Switzerland,756,1990,49156
+Syrian Arab Republic,760,1990,3432
+Tajikistan,762,1990,4147
+Tanzania (United Republic of),834,1990,1490
+Thailand,764,1990,6562
+Timor-Leste,626,1990,4069
+Togo,768,1990,1302
+Tonga,776,1990,3670
+Trinidad and Tobago,780,1990,10058
+Tunisia,788,1990,5462
+Turkey,792,1990,11214
+Turkmenistan,795,1990,8375
+Tuvalu,798,1990,4713
+Uganda,800,1990,758
+Ukraine,804,1990,10744
+United Arab Emirates,784,1990,110756
+United Kingdom,826,1990,26485
+United States,840,1990,37154
+Uruguay,858,1990,9499
+Uzbekistan,860,1990,3089
+Vanuatu,548,1990,2619
+Venezuela (Bolivarian Republic of),862,1990,14529
+Viet Nam,704,1990,1369
+Yemen,887,1990,2382
+Zambia,894,1990,2140
+Zimbabwe,716,1990,2693
+Afghanistan,4,1991,1841
+Albania,8,1991,3138
+Algeria,12,1991,9457
+Andorra,20,1991,48391
+Angola,24,1991,4528
+Antigua and Barbuda,28,1991,16439
+Argentina,32,1991,11902
+Armenia,51,1991,3327
+Australia,36,1991,27203
+Austria,40,1991,32192
+Azerbaijan,31,1991,8514
+Bahamas,44,1991,27683
+Bahrain,48,1991,40166
+Bangladesh,50,1991,1374
+Barbados,52,1991,13255
+Belarus,112,1991,8255
+Belgium,56,1991,31342
+Belize,84,1991,5441
+Benin,204,1991,1449
+Bhutan,64,1991,2126
+Bolivia (Plurinational State of),68,1991,3662
+Bosnia and Herzegovina,70,1991,1243
+Botswana,72,1991,8989
+Brazil,76,1991,10089
+Brunei Darussalam,96,1991,85355
+Bulgaria,100,1991,7743
+Burkina Faso,854,1991,897
+Burundi,108,1991,1045
+Cabo Verde,132,1991,1665
+Cambodia,116,1991,1428
+Cameroon,120,1991,2642
+Canada,124,1991,29469
+Central African Republic,140,1991,942
+Chad,148,1991,1165
+Chile,152,1991,9141
+China,156,1991,1649
+Colombia,170,1991,7434
+Comoros,174,1991,2368
+Congo,178,1991,6060
+Costa Rica,188,1991,7509
+Croatia,191,1991,11436
+Cuba,192,1991,4372
+Cyprus,196,1991,22430
+Czechia,203,1991,17774
+CÃ´te d'Ivoire,384,1991,2759
+Denmark,208,1991,33151
+Djibouti,262,1991,1819
+Dominica,212,1991,6505
+Dominican Republic,214,1991,5204
+Ecuador,218,1991,7110
+Egypt,818,1991,5874
+El Salvador,222,1991,4387
+Equatorial Guinea,226,1991,1399
+Eritrea,232,1991,996
+Estonia,233,1991,13965
+Eswatini (Kingdom of),748,1991,5914
+Ethiopia,231,1991,584
+Fiji,242,1991,5517
+Finland,246,1991,26110
+France,250,1991,29692
+Gabon,266,1991,20053
+Gambia,270,1991,1393
+Georgia,268,1991,6258
+Germany,276,1991,32995
+Ghana,288,1991,1907
+Greece,300,1991,21554
+Grenada,308,1991,7161
+Guatemala,320,1991,5107
+Guinea,324,1991,1270
+Guinea-Bissau,624,1991,1570
+Guyana,328,1991,1865
+Haiti,332,1991,2093
+Honduras,340,1991,2825
+Hong Kong; China (SAR),344,1991,27273
+Hungary,348,1991,14059
+Iceland,352,1991,29182
+India,356,1991,1859
+Indonesia,360,1991,4628
+Iran (Islamic Republic of),364,1991,12497
+Iraq,368,1991,3983
+Ireland,372,1991,20286
+Israel,376,1991,20469
+Italy,380,1991,31124
+Jamaica,388,1991,6804
+Japan,392,1991,31774
+Jordan,400,1991,5514
+Kazakhstan,398,1991,12202
+Kenya,404,1991,2213
+Kiribati,296,1991,3058
+Korea (Republic of),410,1991,12687
+Kuwait,414,1991,34139
+Kyrgyzstan,417,1991,3096
+Lao People's Democratic Republic,418,1991,1756
+Latvia,428,1991,12672
+Lebanon,422,1991,8126
+Lesotho,426,1991,2051
+Liberia,430,1991,806
+Libya,434,1991,22970
+Liechtenstein,438,1991,64199
+Lithuania,440,1991,15044
+Luxembourg,442,1991,65016
+Madagascar,450,1991,1416
+Malawi,454,1991,779
+Malaysia,458,1991,10775
+Maldives,462,1991,6327
+Mali,466,1991,1397
+Malta,470,1991,17760
+Marshall Islands,584,1991,3650
+Mauritania,478,1991,2699
+Mauritius,480,1991,7830
+Mexico,484,1991,13535
+Micronesia (Federated States of),583,1991,3390
+Moldova (Republic of),498,1991,5552
+Mongolia,496,1991,4608
+Morocco,504,1991,4000
+Mozambique,508,1991,381
+Myanmar,104,1991,715
+Namibia,516,1991,6213
+Nepal,524,1991,1235
+Netherlands,528,1991,32868
+New Zealand,554,1991,21231
+Nicaragua,558,1991,2221
+Niger,562,1991,871
+Nigeria,566,1991,3157
+North Macedonia,807,1991,8999
+Norway,578,1991,42764
+Oman,512,1991,35829
+Pakistan,586,1991,3199
+Palau,585,1991,12346
+Palestine; State of,275,1991,984
+Panama,591,1991,7914
+Papua New Guinea,598,1991,2296
+Paraguay,600,1991,6408
+Peru,604,1991,5113
+Philippines,608,1991,3892
+Poland,616,1991,9200
+Portugal,620,1991,21079
+Qatar,634,1991,70251
+Romania,642,1991,10077
+Russian Federation,643,1991,19782
+Rwanda,646,1991,866
+Saint Kitts and Nevis,659,1991,14666
+Saint Lucia,662,1991,8445
+Saint Vincent and the Grenadines,670,1991,5375
+Samoa,882,1991,4574
+Sao Tome and Principe,678,1991,1758
+Saudi Arabia,682,1991,48313
+Senegal,686,1991,2250
+Serbia,688,1991,10777
+Seychelles,690,1991,14000
+Sierra Leone,694,1991,1171
+Singapore,702,1991,35663
+Slovakia,703,1991,12404
+Slovenia,705,1991,48846
+Solomon Islands,90,1991,1396
+South Africa,710,1991,9349
+Spain,724,1991,24144
+Sri Lanka,144,1991,3704
+Sudan,729,1991,1576
+Suriname,740,1991,10448
+Sweden,752,1991,29502
+Switzerland,756,1991,48156
+Syrian Arab Republic,760,1991,3589
+Tajikistan,762,1991,3770
+Tanzania (United Republic of),834,1991,1478
+Thailand,764,1991,7023
+Timor-Leste,626,1991,4362
+Togo,768,1991,1262
+Tonga,776,1991,3866
+Trinidad and Tobago,780,1991,10247
+Tunisia,788,1991,5505
+Turkey,792,1991,11099
+Turkmenistan,795,1991,7768
+Tuvalu,798,1991,4866
+Uganda,800,1991,775
+Ukraine,804,1991,9801
+United Arab Emirates,784,1991,104110
+United Kingdom,826,1991,26133
+United States,840,1991,36597
+Uruguay,858,1991,9892
+Uzbekistan,860,1991,3002
+Vanuatu,548,1991,2339
+Venezuela (Bolivarian Republic of),862,1991,15667
+Viet Nam,704,1991,1436
+Yemen,887,1991,2423
+Zambia,894,1991,2020
+Zimbabwe,716,1991,2764
+Afghanistan,4,1992,1739
+Albania,8,1992,2857
+Algeria,12,1992,9462
+Andorra,20,1992,47002
+Angola,24,1992,1737
+Antigua and Barbuda,28,1992,16475
+Argentina,32,1992,12816
+Armenia,51,1992,1649
+Australia,36,1992,27159
+Austria,40,1992,32442
+Azerbaijan,31,1992,6489
+Bahamas,44,1992,26858
+Bahrain,48,1992,40370
+Bangladesh,50,1992,1420
+Barbados,52,1992,12347
+Belarus,112,1992,7447
+Belgium,56,1992,31688
+Belize,84,1992,5953
+Benin,204,1992,1409
+Bhutan,64,1992,2160
+Bolivia (Plurinational State of),68,1992,3688
+Bosnia and Herzegovina,70,1992,1199
+Botswana,72,1992,9082
+Brazil,76,1992,9905
+Brunei Darussalam,96,1992,86908
+Bulgaria,100,1992,7940
+Burkina Faso,854,1992,875
+Burundi,108,1992,1030
+Cabo Verde,132,1992,1797
+Cambodia,116,1992,1480
+Cameroon,120,1992,2517
+Canada,124,1992,29310
+Central African Republic,140,1992,858
+Chad,148,1992,1224
+Chile,152,1992,10081
+China,156,1992,1857
+Colombia,170,1992,7617
+Comoros,174,1992,2520
+Congo,178,1992,6307
+Costa Rica,188,1992,8009
+Croatia,191,1992,10042
+Cuba,192,1992,3856
+Cyprus,196,1992,23807
+Czechia,203,1992,17803
+CÃ´te d'Ivoire,384,1992,2686
+Denmark,208,1992,33764
+Djibouti,262,1992,1877
+Dominica,212,1992,6648
+Dominican Republic,214,1992,5734
+Ecuador,218,1992,7193
+Egypt,818,1992,5999
+El Salvador,222,1992,4674
+Equatorial Guinea,226,1992,1855
+Eritrea,232,1992,1533
+Estonia,233,1992,11494
+Eswatini (Kingdom of),748,1992,5978
+Ethiopia,231,1992,514
+Fiji,242,1992,5758
+Finland,246,1992,24833
+France,250,1992,30056
+Gabon,266,1992,18489
+Gambia,270,1992,1395
+Georgia,268,1992,3399
+Germany,276,1992,33325
+Ghana,288,1992,1928
+Greece,300,1992,21596
+Grenada,308,1992,7089
+Guatemala,320,1992,5217
+Guinea,324,1992,1292
+Guinea-Bissau,624,1992,1563
+Guyana,328,1992,2299
+Haiti,332,1992,1942
+Honduras,340,1992,2893
+Hong Kong; China (SAR),344,1992,28669
+Hungary,348,1992,13730
+Iceland,352,1992,27957
+India,356,1992,1922
+Indonesia,360,1992,4847
+Iran (Islamic Republic of),364,1992,12606
+Iraq,368,1992,5156
+Ireland,372,1992,20557
+Israel,376,1992,21259
+Italy,380,1992,31315
+Jamaica,388,1992,7013
+Japan,392,1992,32015
+Jordan,400,1992,6319
+Kazakhstan,398,1992,11595
+Kenya,404,1992,2130
+Kiribati,296,1992,3075
+Korea (Republic of),410,1992,13326
+Kuwait,414,1992,56057
+Kyrgyzstan,417,1992,2639
+Lao People's Democratic Republic,418,1992,1804
+Latvia,428,1992,8229
+Lebanon,422,1992,9163
+Lesotho,426,1992,2040
+Liberia,430,1992,533
+Libya,434,1992,21835
+Liechtenstein,438,1992,65629
+Lithuania,440,1992,11890
+Luxembourg,442,1992,64709
+Madagascar,450,1992,1416
+Malawi,454,1992,715
+Malaysia,458,1992,11402
+Maldives,462,1992,6556
+Mali,466,1992,1317
+Malta,470,1992,18161
+Marshall Islands,584,1992,3839
+Mauritania,478,1992,2688
+Mauritius,480,1992,8243
+Mexico,484,1992,13775
+Micronesia (Federated States of),583,1992,3336
+Moldova (Republic of),498,1992,3902
+Mongolia,496,1992,4058
+Morocco,504,1992,3860
+Mozambique,508,1992,340
+Myanmar,104,1992,775
+Namibia,516,1992,6324
+Nepal,524,1992,1252
+Netherlands,528,1992,33079
+New Zealand,554,1992,21294
+Nicaragua,558,1992,2027
+Niger,562,1992,791
+Nigeria,566,1992,3191
+North Macedonia,807,1992,8265
+Norway,578,1992,44456
+Oman,512,1992,36493
+Pakistan,586,1992,3306
+Palau,585,1992,11245
+Palestine; State of,275,1992,1176
+Panama,591,1992,8495
+Papua New Guinea,598,1992,2400
+Paraguay,600,1992,6325
+Peru,604,1992,4989
+Philippines,608,1992,3869
+Poland,616,1992,9314
+Portugal,620,1992,21421
+Qatar,634,1992,76947
+Romania,642,1992,9246
+Russian Federation,643,1992,16756
+Rwanda,646,1992,970
+Saint Kitts and Nevis,659,1992,14979
+Saint Lucia,662,1992,9113
+Saint Vincent and the Grenadines,670,1992,5797
+Samoa,882,1992,4362
+Sao Tome and Principe,678,1992,1732
+Saudi Arabia,682,1992,48353
+Senegal,686,1992,2233
+Serbia,688,1992,7666
+Seychelles,690,1992,15048
+Sierra Leone,694,1992,915
+Singapore,702,1992,37500
+Slovakia,703,1992,11544
+Slovenia,705,1992,16414
+Solomon Islands,90,1992,1452
+South Africa,710,1992,8951
+Spain,724,1992,24217
+Sri Lanka,144,1992,3845
+Sudan,729,1992,1689
+Suriname,740,1992,10322
+Sweden,752,1992,28487
+Switzerland,756,1992,47492
+Syrian Arab Republic,760,1992,3975
+Tajikistan,762,1992,2627
+Tanzania (United Republic of),834,1992,1434
+Thailand,764,1992,7452
+Timor-Leste,626,1992,4684
+Togo,768,1992,1189
+Tonga,776,1992,3845
+Trinidad and Tobago,780,1992,11224
+Tunisia,788,1992,5784
+Turkey,792,1992,11482
+Turkmenistan,795,1992,6418
+Tuvalu,798,1992,5066
+Uganda,800,1992,765
+Ukraine,804,1992,8609
+United Arab Emirates,784,1992,100694
+United Kingdom,826,1992,26228
+United States,840,1992,37350
+Uruguay,858,1992,10656
+Uzbekistan,860,1992,2604
+Vanuatu,548,1992,2269
+Venezuela (Bolivarian Republic of),862,1992,15945
+Viet Nam,704,1992,1559
+Yemen,887,1992,2258
+Zambia,894,1992,1969
+Zimbabwe,716,1992,2448
+Afghanistan,4,1993,1208
+Albania,8,1993,3261
+Algeria,12,1993,9171
+Andorra,20,1993,44928
+Angola,24,1993,1704
+Antigua and Barbuda,28,1993,17300
+Argentina,32,1993,13774
+Armenia,51,1993,1691
+Australia,36,1993,28112
+Austria,40,1993,32368
+Azerbaijan,31,1993,4975
+Bahamas,44,1993,26089
+Bahrain,48,1993,42512
+Bangladesh,50,1993,1458
+Barbados,52,1993,12389
+Belarus,112,1993,6865
+Belgium,56,1993,31564
+Belize,84,1993,6195
+Benin,204,1993,1470
+Bhutan,64,1993,2237
+Bolivia (Plurinational State of),68,1993,3764
+Bosnia and Herzegovina,70,1993,1216
+Botswana,72,1993,9371
+Brazil,76,1993,10142
+Brunei Darussalam,96,1993,84763
+Bulgaria,100,1993,7880
+Burkina Faso,854,1993,879
+Burundi,108,1993,949
+Cabo Verde,132,1993,1896
+Cambodia,116,1993,1502
+Cameroon,120,1993,2255
+Canada,124,1993,29820
+Central African Republic,140,1993,833
+Chad,148,1993,962
+Chile,152,1993,10638
+China,156,1993,2085
+Colombia,170,1993,7945
+Comoros,174,1993,2510
+Congo,178,1993,5676
+Costa Rica,188,1993,8372
+Croatia,191,1993,9329
+Cuba,192,1993,3261
+Cyprus,196,1993,23422
+Czechia,203,1993,17759
+CÃ´te d'Ivoire,384,1993,2579
+Denmark,208,1993,33822
+Djibouti,262,1993,1970
+Dominica,212,1993,6801
+Dominican Republic,214,1993,5946
+Ecuador,218,1993,7249
+Egypt,818,1993,6045
+El Salvador,222,1993,4887
+Equatorial Guinea,226,1993,1956
+Eritrea,232,1993,1754
+Estonia,233,1993,10529
+Eswatini (Kingdom of),748,1993,5855
+Ethiopia,231,1993,558
+Fiji,242,1993,5796
+Finland,246,1993,24381
+France,250,1993,29766
+Gabon,266,1993,18512
+Gambia,270,1993,1394
+Georgia,268,1993,2360
+Germany,276,1993,32732
+Ghana,288,1993,1960
+Greece,300,1993,21073
+Grenada,308,1993,6804
+Guatemala,320,1993,5313
+Guinea,324,1993,1346
+Guinea-Bissau,624,1993,1552
+Guyana,328,1993,2798
+Haiti,332,1993,1807
+Honduras,340,1993,3059
+Hong Kong; China (SAR),344,1993,31307
+Hungary,348,1993,14255
+Iceland,352,1993,27987
+India,356,1993,1977
+Indonesia,360,1993,5130
+Iran (Islamic Republic of),364,1993,12565
+Iraq,368,1993,6595
+Ireland,372,1993,21098
+Israel,376,1993,21553
+Italy,380,1993,31104
+Jamaica,388,1993,8003
+Japan,392,1993,31781
+Jordan,400,1993,6332
+Kazakhstan,398,1993,10600
+Kenya,404,1993,2027
+Kiribati,296,1993,2930
+Korea (Republic of),410,1993,14091
+Kuwait,414,1993,73710
+Kyrgyzstan,417,1993,2224
+Lao People's Democratic Republic,418,1993,1861
+Latvia,428,1993,7094
+Lebanon,422,1993,9474
+Lesotho,426,1993,1979
+Liberia,430,1993,361
+Libya,434,1993,20561
+Liechtenstein,438,1993,67508
+Lithuania,440,1993,10000
+Luxembourg,442,1993,65820
+Madagascar,450,1993,1409
+Malawi,454,1993,784
+Malaysia,458,1993,12273
+Maldives,462,1993,6663
+Mali,466,1993,1328
+Malta,470,1993,18609
+Marshall Islands,584,1993,4015
+Mauritania,478,1993,2752
+Mauritius,480,1993,8540
+Mexico,484,1993,13836
+Micronesia (Federated States of),583,1993,3349
+Moldova (Republic of),498,1993,3871
+Mongolia,496,1993,3837
+Morocco,504,1993,3744
+Mozambique,508,1993,357
+Myanmar,104,1993,812
+Namibia,516,1993,6105
+Nepal,524,1993,1263
+Netherlands,528,1993,33452
+New Zealand,554,1993,22228
+Nicaragua,558,1993,2058
+Niger,562,1993,775
+Nigeria,566,1993,2995
+North Macedonia,807,1993,7705
+Norway,578,1993,45390
+Oman,512,1993,37076
+Pakistan,586,1993,3263
+Palau,585,1993,9967
+Palestine; State of,275,1993,1241
+Panama,591,1993,8974
+Papua New Guinea,598,1993,2784
+Paraguay,600,1993,6829
+Peru,604,1993,5112
+Philippines,608,1993,3879
+Poland,616,1993,9698
+Portugal,620,1993,20976
+Qatar,634,1993,75006
+Romania,642,1993,9384
+Russian Federation,643,1993,15338
+Rwanda,646,1993,952
+Saint Kitts and Nevis,659,1993,15811
+Saint Lucia,662,1993,8954
+Saint Vincent and the Grenadines,670,1993,6045
+Samoa,882,1993,4561
+Sao Tome and Principe,678,1993,1705
+Saudi Arabia,682,1993,46788
+Senegal,686,1993,2177
+Serbia,688,1993,6802
+Seychelles,690,1993,15627
+Sierra Leone,694,1993,987
+Singapore,702,1993,39878
+Slovakia,703,1993,11664
+Slovenia,705,1993,13956
+Solomon Islands,90,1993,1335
+South Africa,710,1993,8855
+Spain,724,1993,23975
+Sri Lanka,144,1993,4076
+Sudan,729,1993,1769
+Suriname,740,1993,9321
+Sweden,752,1993,27527
+Switzerland,756,1993,47218
+Syrian Arab Republic,760,1993,4075
+Tajikistan,762,1993,2161
+Tanzania (United Republic of),834,1993,1407
+Thailand,764,1993,8039
+Timor-Leste,626,1993,5021
+Togo,768,1993,987
+Tonga,776,1993,3969
+Trinidad and Tobago,780,1993,11239
+Tunisia,788,1993,5707
+Turkey,792,1993,12174
+Turkmenistan,795,1993,6334
+Tuvalu,798,1993,4740
+Uganda,800,1993,814
+Ukraine,804,1993,7216
+United Arab Emirates,784,1993,100178
+United Kingdom,826,1993,26800
+United States,840,1993,37867
+Uruguay,858,1993,10876
+Uzbekistan,860,1993,2492
+Vanuatu,548,1993,2402
+Venezuela (Bolivarian Republic of),862,1993,15666
+Viet Nam,704,1993,1645
+Yemen,887,1993,2237
+Zambia,894,1993,2101
+Zimbabwe,716,1993,2440
+Afghanistan,4,1994,877
+Albania,8,1994,3600
+Algeria,12,1994,8847
+Andorra,20,1994,44747
+Angola,24,1994,1304
+Antigua and Barbuda,28,1994,18021
+Argentina,32,1994,14371
+Armenia,51,1994,1988
+Australia,36,1994,28942
+Austria,40,1994,32951
+Azerbaijan,31,1994,3940
+Bahamas,44,1994,26432
+Bahrain,48,1994,41106
+Bangladesh,50,1994,1490
+Barbados,52,1994,12786
+Belarus,112,1994,6062
+Belgium,56,1994,32720
+Belize,84,1994,6004
+Benin,204,1994,1443
+Bhutan,64,1994,2423
+Bolivia (Plurinational State of),68,1994,3879
+Bosnia and Herzegovina,70,1994,1281
+Botswana,72,1994,8495
+Brazil,76,1994,10368
+Brunei Darussalam,96,1994,85081
+Bulgaria,100,1994,8035
+Burkina Faso,854,1994,865
+Burundi,108,1994,895
+Cabo Verde,132,1994,2191
+Cambodia,116,1994,915
+Cameroon,120,1994,2226
+Canada,124,1994,30767
+Central African Republic,140,1994,841
+Chad,148,1994,1055
+Chile,152,1994,10890
+China,156,1994,2331
+Colombia,170,1994,8331
+Comoros,174,1994,2305
+Congo,178,1994,5506
+Costa Rica,188,1994,8645
+Croatia,191,1994,9979
+Cuba,192,1994,3266
+Cyprus,196,1994,24226
+Czechia,203,1994,18272
+CÃ´te d'Ivoire,384,1994,2600
+Denmark,208,1994,35550
+Djibouti,262,1994,1881
+Dominica,212,1994,6674
+Dominican Republic,214,1994,6033
+Ecuador,218,1994,7420
+Egypt,818,1994,6156
+El Salvador,222,1994,5076
+Equatorial Guinea,226,1994,1849
+Eritrea,232,1994,2146
+Estonia,233,1994,10535
+Eswatini (Kingdom of),748,1994,5593
+Ethiopia,231,1994,556
+Fiji,242,1994,5920
+Finland,246,1994,25523
+France,250,1994,30307
+Gabon,266,1994,19119
+Gambia,270,1994,1354
+Georgia,268,1994,2146
+Germany,276,1994,33196
+Ghana,288,1994,1966
+Greece,300,1994,21404
+Grenada,308,1994,6843
+Guatemala,320,1994,5402
+Guinea,324,1994,1368
+Guinea-Bissau,624,1994,1575
+Guyana,328,1994,3199
+Haiti,332,1994,1566
+Honduras,340,1994,2973
+Hong Kong; China (SAR),344,1994,32332
+Hungary,348,1994,14671
+Iceland,352,1994,28551
+India,356,1994,2070
+Indonesia,360,1994,5493
+Iran (Islamic Republic of),364,1994,12080
+Iraq,368,1994,6645
+Ireland,372,1994,22327
+Israel,376,1994,22535
+Italy,380,1994,31717
+Jamaica,388,1994,7797
+Japan,392,1994,31974
+Jordan,400,1994,6354
+Kazakhstan,398,1994,9374
+Kenya,404,1994,2037
+Kiribati,296,1994,2922
+Korea (Republic of),410,1994,15213
+Kuwait,414,1994,82558
+Kyrgyzstan,417,1994,1758
+Lao People's Democratic Republic,418,1994,1961
+Latvia,428,1994,7241
+Lebanon,422,1994,9887
+Lesotho,426,1994,2021
+Liberia,430,1994,281
+Libya,434,1994,20524
+Liechtenstein,438,1994,71074
+Lithuania,440,1994,9068
+Luxembourg,442,1994,65181
+Madagascar,450,1994,1354
+Malawi,454,1994,689
+Malaysia,458,1994,13073
+Maldives,462,1994,7112
+Mali,466,1994,1327
+Malta,470,1994,19122
+Marshall Islands,584,1994,4206
+Mauritania,478,1994,2596
+Mauritius,480,1994,8703
+Mexico,484,1994,14260
+Micronesia (Federated States of),583,1994,3276
+Moldova (Republic of),498,1994,2686
+Mongolia,496,1994,3946
+Morocco,504,1994,4095
+Mozambique,508,1994,364
+Myanmar,104,1994,863
+Namibia,516,1994,6051
+Nepal,524,1994,1332
+Netherlands,528,1994,34416
+New Zealand,554,1994,23146
+Nicaragua,558,1994,2421
+Niger,562,1994,775
+Nigeria,566,1994,2912
+North Macedonia,807,1994,7630
+Norway,578,1994,47653
+Oman,512,1994,37085
+Pakistan,586,1994,3276
+Palau,585,1994,10349
+Palestine; State of,275,1994,3641
+Panama,591,1994,9155
+Papua New Guinea,598,1994,2924
+Paraguay,600,1994,7403
+Peru,604,1994,5655
+Philippines,608,1994,4001
+Poland,616,1994,10480
+Portugal,620,1994,21062
+Qatar,634,1994,75236
+Romania,642,1994,9775
+Russian Federation,643,1994,13507
+Rwanda,646,1994,501
+Saint Kitts and Nevis,659,1994,16475
+Saint Lucia,662,1994,9027
+Saint Vincent and the Grenadines,670,1994,5913
+Samoa,882,1994,2988
+Sao Tome and Principe,678,1994,1716
+Saudi Arabia,682,1994,45253
+Senegal,686,1994,2117
+Serbia,688,1994,6932
+Seychelles,690,1994,15326
+Sierra Leone,694,1994,903
+Singapore,702,1994,43910
+Slovakia,703,1994,12358
+Slovenia,705,1994,13684
+Solomon Islands,90,1994,1422
+South Africa,710,1994,8951
+Spain,724,1994,23991
+Sri Lanka,144,1994,4239
+Sudan,729,1994,1781
+Suriname,740,1994,9562
+Sweden,752,1994,29069
+Switzerland,756,1994,47077
+Syrian Arab Republic,760,1994,4426
+Tajikistan,762,1994,1348
+Tanzania (United Republic of),834,1994,1389
+Thailand,764,1994,8592
+Timor-Leste,626,1994,5185
+Togo,768,1994,1082
+Tonga,776,1994,4314
+Trinidad and Tobago,780,1994,11416
+Tunisia,788,1994,5810
+Turkey,792,1994,11317
+Turkmenistan,795,1994,5251
+Tuvalu,798,1994,5477
+Uganda,800,1994,839
+Ukraine,804,1994,5689
+United Arab Emirates,784,1994,103248
+United Kingdom,826,1994,27864
+United States,840,1994,38858
+Uruguay,858,1994,11553
+Uzbekistan,860,1994,2317
+Vanuatu,548,1994,2304
+Venezuela (Bolivarian Republic of),862,1994,14919
+Viet Nam,704,1994,1781
+Yemen,887,1994,2112
+Zambia,894,1994,1900
+Zimbabwe,716,1994,2611
+Afghanistan,4,1995,1244
+Albania,8,1995,4168
+Algeria,12,1995,8904
+Andorra,20,1995,45136
+Angola,24,1995,2858
+Antigua and Barbuda,28,1995,16842
+Argentina,32,1995,13742
+Armenia,51,1995,2167
+Australia,36,1995,29524
+Austria,40,1995,33659
+Azerbaijan,31,1995,3430
+Bahamas,44,1995,31405
+Bahrain,48,1995,43105
+Bangladesh,50,1995,1531
+Barbados,52,1995,12930
+Belarus,112,1995,5443
+Belgium,56,1995,33350
+Belize,84,1995,5932
+Benin,204,1995,1482
+Bhutan,64,1995,2447
+Bolivia (Plurinational State of),68,1995,3976
+Bosnia and Herzegovina,70,1995,1594
+Botswana,72,1995,9249
+Brazil,76,1995,10901
+Brunei Darussalam,96,1995,86600
+Bulgaria,100,1995,8271
+Burkina Faso,854,1995,893
+Burundi,108,1995,812
+Cabo Verde,132,1995,2428
+Cambodia,116,1995,1084
+Cameroon,120,1995,2237
+Canada,124,1995,31302
+Central African Republic,140,1995,882
+Chad,148,1995,1036
+Chile,152,1995,11736
+China,156,1995,2522
+Colombia,170,1995,8613
+Comoros,174,1995,2325
+Congo,178,1995,4001
+Costa Rica,188,1995,8742
+Croatia,191,1995,12742
+Cuba,192,1995,3308
+Cyprus,196,1995,24254
+Czechia,203,1995,19080
+CÃ´te d'Ivoire,384,1995,2704
+Denmark,208,1995,36598
+Djibouti,262,1995,1969
+Dominica,212,1995,6823
+Dominican Republic,214,1995,6263
+Ecuador,218,1995,7450
+Egypt,818,1995,6322
+El Salvador,222,1995,5260
+Equatorial Guinea,226,1995,1902
+Eritrea,232,1995,2250
+Estonia,233,1995,11443
+Eswatini (Kingdom of),748,1995,6092
+Ethiopia,231,1995,573
+Fiji,242,1995,6162
+Finland,246,1995,26722
+France,250,1995,30836
+Gabon,266,1995,19311
+Gambia,270,1995,1331
+Georgia,268,1995,2224
+Germany,276,1995,33594
+Ghana,288,1995,1992
+Greece,300,1995,21752
+Grenada,308,1995,6837
+Guatemala,320,1995,5535
+Guinea,324,1995,1394
+Guinea-Bissau,624,1995,1592
+Guyana,328,1995,3409
+Haiti,332,1995,1697
+Honduras,340,1995,3062
+Hong Kong; China (SAR),344,1995,32678
+Hungary,348,1995,14829
+Iceland,352,1995,28511
+India,356,1995,2188
+Indonesia,360,1995,5838
+Iran (Islamic Republic of),364,1995,12362
+Iraq,368,1995,6578
+Ireland,372,1995,23944
+Israel,376,1995,23489
+Italy,380,1995,32742
+Jamaica,388,1995,7963
+Japan,392,1995,32731
+Jordan,400,1995,6563
+Kazakhstan,398,1995,8740
+Kenya,404,1995,2098
+Kiribati,296,1995,3041
+Korea (Republic of),410,1995,16482
+Kuwait,414,1995,95142
+Kyrgyzstan,417,1995,1634
+Lao People's Democratic Republic,418,1995,2047
+Latvia,428,1995,8345
+Lebanon,422,1995,10228
+Lesotho,426,1995,1989
+Liberia,430,1995,261
+Libya,434,1995,19677
+Liechtenstein,438,1995,74144
+Lithuania,440,1995,9340
+Luxembourg,442,1995,67316
+Madagascar,450,1995,1334
+Malawi,454,1995,799
+Malaysia,458,1995,13997
+Maldives,462,1995,7388
+Mali,466,1995,1295
+Malta,470,1995,20040
+Marshall Islands,584,1995,4592
+Mauritania,478,1995,2779
+Mauritius,480,1995,9016
+Mexico,484,1995,12963
+Micronesia (Federated States of),583,1995,3299
+Moldova (Republic of),498,1995,3104
+Mongolia,496,1995,4176
+Morocco,504,1995,3797
+Mozambique,508,1995,365
+Myanmar,104,1995,912
+Namibia,516,1995,6289
+Nepal,524,1995,1342
+Netherlands,528,1995,35534
+New Zealand,554,1995,24019
+Nicaragua,558,1995,2618
+Niger,562,1995,762
+Nigeria,566,1995,2872
+North Macedonia,807,1995,7570
+Norway,578,1995,49556
+Oman,512,1995,38098
+Pakistan,586,1995,3361
+Palau,585,1995,10758
+Palestine; State of,275,1995,3749
+Panama,591,1995,8958
+Papua New Guinea,598,1995,2809
+Paraguay,600,1995,7827
+Peru,604,1995,5940
+Philippines,608,1995,4102
+Poland,616,1995,11137
+Portugal,620,1995,22018
+Qatar,634,1995,76081
+Romania,642,1995,10385
+Russian Federation,643,1995,12897
+Rwanda,646,1995,694
+Saint Kitts and Nevis,659,1995,17337
+Saint Lucia,662,1995,9013
+Saint Vincent and the Grenadines,670,1995,6383
+Samoa,882,1995,3103
+Sao Tome and Principe,678,1995,1695
+Saudi Arabia,682,1995,44744
+Senegal,686,1995,2177
+Serbia,688,1995,7309
+Seychelles,690,1995,14514
+Sierra Leone,694,1995,893
+Singapore,702,1995,45938
+Slovakia,703,1995,13245
+Slovenia,705,1995,18515
+Solomon Islands,90,1995,1482
+South Africa,710,1995,9023
+Spain,724,1995,24982
+Sri Lanka,144,1995,4408
+Sudan,729,1995,1855
+Suriname,740,1995,9463
+Sweden,752,1995,30122
+Switzerland,756,1995,47382
+Syrian Arab Republic,760,1995,4608
+Tajikistan,762,1995,1386
+Tanzania (United Republic of),834,1995,1407
+Thailand,764,1995,9180
+Timor-Leste,626,1995,5669
+Togo,768,1995,1155
+Tonga,776,1995,4346
+Trinidad and Tobago,780,1995,11937
+Tunisia,788,1995,5891
+Turkey,792,1995,12089
+Turkmenistan,795,1995,4635
+Tuvalu,798,1995,5241
+Uganda,800,1995,912
+Ukraine,804,1995,4993
+United Arab Emirates,784,1995,106644
+United Kingdom,826,1995,28410
+United States,840,1995,39449
+Uruguay,858,1995,11336
+Uzbekistan,860,1995,2257
+Vanuatu,548,1995,2421
+Venezuela (Bolivarian Republic of),862,1995,15290
+Viet Nam,704,1995,1944
+Yemen,887,1995,1796
+Zambia,894,1995,1909
+Zimbabwe,716,1995,2574
+Afghanistan,4,1996,1130
+Albania,8,1996,4594
+Algeria,12,1996,9069
+Andorra,20,1996,46861
+Angola,24,1996,2826
+Antigua and Barbuda,28,1996,17665
+Argentina,32,1996,14297
+Armenia,51,1996,2403
+Australia,36,1996,30234
+Austria,40,1996,34520
+Azerbaijan,31,1996,3415
+Bahamas,44,1996,34558
+Bahrain,48,1996,43978
+Bangladesh,50,1996,1559
+Barbados,52,1996,13344
+Belarus,112,1996,5620
+Belgium,56,1996,33854
+Belize,84,1996,5802
+Benin,204,1996,1500
+Bhutan,64,1996,2584
+Bolivia (Plurinational State of),68,1996,4075
+Bosnia and Herzegovina,70,1996,3239
+Botswana,72,1996,9131
+Brazil,76,1996,10835
+Brunei Darussalam,96,1996,86896
+Bulgaria,100,1996,8307
+Burkina Faso,854,1996,971
+Burundi,108,1996,735
+Cabo Verde,132,1996,2631
+Cambodia,116,1996,1106
+Cameroon,120,1996,2271
+Canada,124,1996,31510
+Central African Republic,140,1996,823
+Chad,148,1996,1021
+Chile,152,1996,12421
+China,156,1996,2747
+Colombia,170,1996,8601
+Comoros,174,1996,2229
+Congo,178,1996,4024
+Costa Rica,188,1996,8681
+Croatia,191,1996,13650
+Cuba,192,1996,3558
+Cyprus,196,1996,24222
+Czechia,203,1996,19789
+CÃ´te d'Ivoire,384,1996,2865
+Denmark,208,1996,37386
+Djibouti,262,1996,1824
+Dominica,212,1996,6933
+Dominican Republic,214,1996,6572
+Ecuador,218,1996,7395
+Egypt,818,1996,6512
+El Salvador,222,1996,5235
+Equatorial Guinea,226,1996,2958
+Eritrea,232,1996,2408
+Estonia,233,1996,12174
+Eswatini (Kingdom of),748,1996,6391
+Ethiopia,231,1996,626
+Fiji,242,1996,6429
+Finland,246,1996,27824
+France,250,1996,31323
+Gabon,266,1996,19454
+Gambia,270,1996,1320
+Georgia,268,1996,2622
+Germany,276,1996,33807
+Ghana,288,1996,2030
+Greece,300,1996,22203
+Grenada,308,1996,7070
+Guatemala,320,1996,5550
+Guinea,324,1996,1416
+Guinea-Bissau,624,1996,1745
+Guyana,328,1996,3958
+Haiti,332,1996,1740
+Honduras,340,1996,3034
+Hong Kong; China (SAR),344,1996,31988
+Hungary,348,1996,14780
+Iceland,352,1996,29864
+India,356,1996,2313
+Indonesia,360,1996,6217
+Iran (Islamic Republic of),364,1996,12585
+Iraq,368,1996,7080
+Ireland,372,1996,25744
+Israel,376,1996,23984
+Italy,380,1996,33237
+Jamaica,388,1996,8099
+Japan,392,1996,33768
+Jordan,400,1996,6489
+Kazakhstan,398,1996,8897
+Kenya,404,1996,2157
+Kiribati,296,1996,2620
+Korea (Republic of),410,1996,17573
+Kuwait,414,1996,93274
+Kyrgyzstan,417,1996,1728
+Lao People's Democratic Republic,418,1996,2142
+Latvia,428,1996,8630
+Lebanon,422,1996,10997
+Lesotho,426,1996,2065
+Liberia,430,1996,277
+Libya,434,1996,19747
+Liechtenstein,438,1996,78080
+Lithuania,440,1996,9809
+Luxembourg,442,1996,67406
+Madagascar,450,1996,1334
+Malawi,454,1996,856
+Malaysia,458,1996,15003
+Maldives,462,1996,7826
+Mali,466,1996,1350
+Malta,470,1996,20490
+Marshall Islands,584,1996,3947
+Mauritania,478,1996,3047
+Mauritius,480,1996,9374
+Mexico,484,1996,13671
+Micronesia (Federated States of),583,1996,3163
+Moldova (Republic of),498,1996,3062
+Mongolia,496,1996,4269
+Morocco,504,1996,4240
+Mozambique,508,1996,456
+Myanmar,104,1996,960
+Namibia,516,1996,6235
+Nepal,524,1996,1381
+Netherlands,528,1996,36660
+New Zealand,554,1996,24213
+Nicaragua,558,1996,2786
+Niger,562,1996,771
+Nigeria,566,1996,2924
+North Macedonia,807,1996,7616
+Norway,578,1996,51806
+Oman,512,1996,38567
+Pakistan,586,1996,3386
+Palau,585,1996,11088
+Palestine; State of,275,1996,3595
+Panama,591,1996,9184
+Papua New Guinea,598,1996,2854
+Paraguay,600,1996,8239
+Peru,604,1996,6069
+Philippines,608,1996,4275
+Poland,616,1996,11891
+Portugal,620,1996,22608
+Qatar,634,1996,78027
+Romania,642,1996,10805
+Russian Federation,643,1996,12363
+Rwanda,646,1996,750
+Saint Kitts and Nevis,659,1996,17956
+Saint Lucia,662,1996,9234
+Saint Vincent and the Grenadines,670,1996,6530
+Samoa,882,1996,3437
+Sao Tome and Principe,678,1996,1721
+Saudi Arabia,682,1996,44303
+Senegal,686,1996,2194
+Serbia,688,1996,7509
+Seychelles,690,1996,15143
+Sierra Leone,694,1996,931
+Singapore,702,1996,46719
+Slovakia,703,1996,14149
+Slovenia,705,1996,19133
+Solomon Islands,90,1996,1420
+South Africa,710,1996,9210
+Spain,724,1996,25463
+Sri Lanka,144,1996,4540
+Sudan,729,1996,1967
+Suriname,740,1996,9380
+Sweden,752,1996,30587
+Switzerland,756,1996,47545
+Syrian Arab Republic,760,1996,4815
+Tajikistan,762,1996,1104
+Tanzania (United Republic of),834,1996,1449
+Thailand,764,1996,9530
+Timor-Leste,626,1996,6302
+Togo,768,1996,1236
+Tonga,776,1996,4353
+Trinidad and Tobago,780,1996,12534
+Tunisia,788,1996,6182
+Turkey,792,1996,12804
+Turkmenistan,795,1996,4853
+Tuvalu,798,1996,4687
+Uganda,800,1996,968
+Ukraine,804,1996,4548
+United Arab Emirates,784,1996,106927
+United Kingdom,826,1996,29072
+United States,840,1996,40470
+Uruguay,858,1996,11907
+Uzbekistan,860,1996,2246
+Vanuatu,548,1996,2358
+Venezuela (Bolivarian Republic of),862,1996,14943
+Viet Nam,704,1996,2084
+Yemen,887,1996,2364
+Zambia,894,1996,1988
+Zimbabwe,716,1996,2833
+Afghanistan,4,1997,1039
+Albania,8,1997,4112
+Algeria,12,1997,9099
+Andorra,20,1997,51136
+Angola,24,1997,3335
+Antigua and Barbuda,28,1997,18401
+Argentina,32,1997,15263
+Armenia,51,1997,2595
+Australia,36,1997,31130
+Austria,40,1997,35057
+Azerbaijan,31,1997,3606
+Bahamas,44,1997,28504
+Bahrain,48,1997,42635
+Bangladesh,50,1997,1598
+Barbados,52,1997,13992
+Belarus,112,1997,6271
+Belgium,56,1997,35061
+Belize,84,1997,5834
+Benin,204,1997,1549
+Bhutan,64,1997,2749
+Bolivia (Plurinational State of),68,1997,4205
+Bosnia and Herzegovina,70,1997,4469
+Botswana,72,1997,9897
+Brazil,76,1997,10973
+Brunei Darussalam,96,1997,83605
+Bulgaria,100,1997,8282
+Burkina Faso,854,1997,1000
+Burundi,108,1997,719
+Cabo Verde,132,1997,2864
+Cambodia,116,1997,1133
+Cameroon,120,1997,2324
+Canada,124,1997,32608
+Central African Republic,140,1997,849
+Chad,148,1997,1037
+Chile,152,1997,13182
+China,156,1997,2978
+Colombia,170,1997,8737
+Comoros,174,1997,2257
+Congo,178,1997,4484
+Costa Rica,188,1997,8942
+Croatia,191,1997,14668
+Cuba,192,1997,3642
+Cyprus,196,1997,24348
+Czechia,203,1997,19701
+CÃ´te d'Ivoire,384,1997,2925
+Denmark,208,1997,38503
+Djibouti,262,1997,1858
+Dominica,212,1997,7184
+Dominican Republic,214,1997,7037
+Ecuador,218,1997,7584
+Egypt,818,1997,6733
+El Salvador,222,1997,5326
+Equatorial Guinea,226,1997,7721
+Eritrea,232,1997,2617
+Estonia,233,1997,13292
+Eswatini (Kingdom of),748,1997,6468
+Ethiopia,231,1997,622
+Fiji,242,1997,6191
+Finland,246,1997,29720
+France,250,1997,32057
+Gabon,266,1997,19913
+Gambia,270,1997,1328
+Georgia,268,1997,3173
+Germany,276,1997,34311
+Ghana,288,1997,2065
+Greece,300,1997,23101
+Grenada,308,1997,7374
+Guatemala,320,1997,5670
+Guinea,324,1997,1442
+Guinea-Bissau,624,1997,1850
+Guyana,328,1997,4108
+Haiti,332,1997,1752
+Honduras,340,1997,3125
+Hong Kong; China (SAR),344,1997,33624
+Hungary,348,1997,15057
+Iceland,352,1997,30490
+India,356,1997,2364
+Indonesia,360,1997,6399
+Iran (Islamic Republic of),364,1997,12585
+Iraq,368,1997,8215
+Ireland,372,1997,27828
+Israel,376,1997,24212
+Italy,380,1997,34007
+Jamaica,388,1997,7882
+Japan,392,1997,34084
+Jordan,400,1997,6651
+Kazakhstan,398,1997,9164
+Kenya,404,1997,2117
+Kiribati,296,1997,3114
+Korea (Republic of),410,1997,18400
+Kuwait,414,1997,94232
+Kyrgyzstan,417,1997,1846
+Lao People's Democratic Republic,418,1997,2198
+Latvia,428,1997,9506
+Lebanon,422,1997,10881
+Lesotho,426,1997,2082
+Liberia,430,1997,531
+Libya,434,1997,20462
+Liechtenstein,438,1997,82454
+Lithuania,440,1997,10609
+Luxembourg,442,1997,72978
+Madagascar,450,1997,1358
+Malawi,454,1997,869
+Malaysia,458,1997,15591
+Maldives,462,1997,8285
+Mali,466,1997,1377
+Malta,470,1997,21394
+Marshall Islands,584,1997,3773
+Mauritania,478,1997,2840
+Mauritius,480,1997,9840
+Mexico,484,1997,14502
+Micronesia (Federated States of),583,1997,3133
+Moldova (Republic of),498,1997,3104
+Mongolia,496,1997,4401
+Morocco,504,1997,4114
+Mozambique,508,1997,495
+Myanmar,104,1997,1001
+Namibia,516,1997,6352
+Nepal,524,1997,1419
+Netherlands,528,1997,37796
+New Zealand,554,1997,24725
+Nicaragua,558,1997,2898
+Niger,562,1997,764
+Nigeria,566,1997,2946
+North Macedonia,807,1997,7666
+Norway,578,1997,54283
+Oman,512,1997,40569
+Pakistan,586,1997,3307
+Palau,585,1997,10885
+Palestine; State of,275,1997,3987
+Panama,591,1997,9465
+Papua New Guinea,598,1997,2746
+Paraguay,600,1997,8120
+Peru,604,1997,6363
+Philippines,608,1997,4468
+Poland,616,1997,12647
+Portugal,620,1997,23334
+Qatar,634,1997,99021
+Romania,642,1997,10302
+Russian Federation,643,1997,12471
+Rwanda,646,1997,801
+Saint Kitts and Nevis,659,1997,18899
+Saint Lucia,662,1997,9024
+Saint Vincent and the Grenadines,670,1997,6700
+Samoa,882,1997,3438
+Sao Tome and Principe,678,1997,1695
+Saudi Arabia,682,1997,43906
+Senegal,686,1997,2205
+Serbia,688,1997,8107
+Seychelles,690,1997,16896
+Sierra Leone,694,1997,885
+Singapore,702,1997,50261
+Slovakia,703,1997,14876
+Slovenia,705,1997,20076
+Solomon Islands,90,1997,2241
+South Africa,710,1997,9286
+Spain,724,1997,26307
+Sri Lanka,144,1997,4815
+Sudan,729,1997,2139
+Suriname,740,1997,9585
+Sweden,752,1997,31489
+Switzerland,756,1997,49353
+Syrian Arab Republic,760,1997,5027
+Tajikistan,762,1997,1153
+Tanzania (United Republic of),834,1997,1457
+Thailand,764,1997,9117
+Timor-Leste,626,1997,6872
+Togo,768,1997,1371
+Tonga,776,1997,4336
+Trinidad and Tobago,780,1997,13789
+Tunisia,788,1997,6487
+Turkey,792,1997,13562
+Turkmenistan,795,1997,4347
+Tuvalu,798,1997,5505
+Uganda,800,1997,994
+Ukraine,804,1997,4451
+United Arab Emirates,784,1997,108850
+United Kingdom,826,1997,30283
+United States,840,1997,41718
+Uruguay,858,1997,12923
+Uzbekistan,860,1997,2303
+Vanuatu,548,1997,2402
+Venezuela (Bolivarian Republic of),862,1997,15524
+Viet Nam,704,1997,2217
+Yemen,887,1997,2760
+Zambia,894,1997,2006
+Zimbabwe,716,1997,2851
+Afghanistan,4,1998,967
+Albania,8,1998,4530
+Algeria,12,1998,9502
+Andorra,20,1998,52922
+Angola,24,1998,3269
+Antigua and Barbuda,28,1998,18943
+Argentina,32,1998,15619
+Armenia,51,1998,2725
+Australia,36,1998,32284
+Austria,40,1998,36218
+Azerbaijan,31,1998,3928
+Bahamas,44,1998,29326
+Bahrain,48,1998,43808
+Bangladesh,50,1998,1646
+Barbados,52,1998,14457
+Belarus,112,1998,6829
+Belgium,56,1998,35678
+Belize,84,1998,5755
+Benin,204,1998,1577
+Bhutan,64,1998,2648
+Bolivia (Plurinational State of),68,1998,4354
+Bosnia and Herzegovina,70,1998,6595
+Botswana,72,1998,10223
+Brazil,76,1998,10707
+Brunei Darussalam,96,1998,81266
+Bulgaria,100,1998,8964
+Burkina Faso,854,1998,1044
+Burundi,108,1998,748
+Cabo Verde,132,1998,3148
+Cambodia,116,1998,1148
+Cameroon,120,1998,2396
+Canada,124,1998,33524
+Central African Republic,140,1998,865
+Chad,148,1998,1084
+Chile,152,1998,13675
+China,156,1998,3167
+Colombia,170,1998,8683
+Comoros,174,1998,2222
+Congo,178,1998,5178
+Costa Rica,188,1998,9246
+Croatia,191,1998,14861
+Cuba,192,1998,3637
+Cyprus,196,1998,27786
+Czechia,203,1998,19644
+CÃ´te d'Ivoire,384,1998,3025
+Denmark,208,1998,39365
+Djibouti,262,1998,1801
+Dominica,212,1998,7568
+Dominican Republic,214,1998,7381
+Ecuador,218,1998,7641
+Egypt,818,1998,6991
+El Salvador,222,1998,5424
+Equatorial Guinea,226,1998,8211
+Eritrea,232,1998,2678
+Estonia,233,1998,14075
+Eswatini (Kingdom of),748,1998,6256
+Ethiopia,231,1998,585
+Fiji,242,1998,6114
+Finland,246,1998,31096
+France,250,1998,33115
+Gabon,266,1998,20875
+Gambia,270,1998,1332
+Georgia,268,1998,3406
+Germany,276,1998,34853
+Ghana,288,1998,2108
+Greece,300,1998,23840
+Grenada,308,1998,8127
+Guatemala,320,1998,5845
+Guinea,324,1998,1451
+Guinea-Bissau,624,1998,1287
+Guyana,328,1998,4151
+Haiti,332,1998,1756
+Honduras,340,1998,3159
+Hong Kong; China (SAR),344,1998,32084
+Hungary,348,1998,15702
+Iceland,352,1998,32247
+India,356,1998,2465
+Indonesia,360,1998,5328
+Iran (Islamic Republic of),364,1998,12781
+Iraq,368,1998,10737
+Ireland,372,1998,29704
+Israel,376,1998,24526
+Italy,380,1998,34513
+Jamaica,388,1998,7638
+Japan,392,1998,33586
+Jordan,400,1998,6804
+Kazakhstan,398,1998,9152
+Kenya,404,1998,2135
+Kiribati,296,1998,3448
+Korea (Republic of),410,1998,17121
+Kuwait,414,1998,92690
+Kyrgyzstan,417,1998,1843
+Lao People's Democratic Republic,418,1998,2232
+Latvia,428,1998,10214
+Lebanon,422,1998,11050
+Lesotho,426,1998,2019
+Liberia,430,1998,642
+Libya,434,1998,19476
+Liechtenstein,438,1998,87531
+Lithuania,440,1998,11444
+Luxembourg,442,1998,73360
+Madagascar,450,1998,1375
+Malawi,454,1998,871
+Malaysia,458,1998,14053
+Maldives,462,1998,8771
+Mali,466,1998,1445
+Malta,470,1998,21911
+Marshall Islands,584,1998,3800
+Mauritania,478,1998,2866
+Mauritius,480,1998,10306
+Mexico,484,1998,15021
+Micronesia (Federated States of),583,1998,3019
+Moldova (Republic of),498,1998,2892
+Mongolia,496,1998,4558
+Morocco,504,1998,4383
+Mozambique,508,1998,538
+Myanmar,104,1998,1046
+Namibia,516,1998,6474
+Nepal,524,1998,1432
+Netherlands,528,1998,38813
+New Zealand,554,1998,25064
+Nicaragua,558,1998,3024
+Niger,562,1998,818
+Nigeria,566,1998,2936
+North Macedonia,807,1998,7874
+Norway,578,1998,55359
+Oman,512,1998,41176
+Pakistan,586,1998,3291
+Palau,585,1998,10535
+Palestine; State of,275,1998,4584
+Panama,591,1998,9929
+Papua New Guinea,598,1998,2566
+Paraguay,600,1998,7939
+Peru,604,1998,6289
+Philippines,608,1998,4695
+Poland,616,1998,13230
+Portugal,620,1998,24291
+Qatar,634,1998,103043
+Romania,642,1998,10085
+Russian Federation,643,1998,11592
+Rwanda,646,1998,803
+Saint Kitts and Nevis,659,1998,18373
+Saint Lucia,662,1998,9439
+Saint Vincent and the Grenadines,670,1998,6977
+Samoa,882,1998,3587
+Sao Tome and Principe,678,1998,1684
+Saudi Arabia,682,1998,44726
+Senegal,686,1998,2289
+Serbia,688,1998,8304
+Seychelles,690,1998,17728
+Sierra Leone,694,1998,862
+Singapore,702,1998,47286
+Slovakia,703,1998,15443
+Slovenia,705,1998,20759
+Solomon Islands,90,1998,2214
+South Africa,710,1998,9167
+Spain,724,1998,27308
+Sri Lanka,144,1998,4993
+Sudan,729,1998,2164
+Suriname,740,1998,9713
+Sweden,752,1998,33132
+Switzerland,756,1998,50883
+Syrian Arab Republic,760,1998,5111
+Tajikistan,762,1998,1203
+Tanzania (United Republic of),834,1998,1485
+Thailand,764,1998,8244
+Timor-Leste,626,1998,6791
+Togo,768,1998,1300
+Tonga,776,1998,4513
+Trinidad and Tobago,780,1998,15046
+Tunisia,788,1998,6739
+Turkey,792,1998,13719
+Turkmenistan,795,1998,4497
+Tuvalu,798,1998,5922
+Uganda,800,1998,1014
+Ukraine,804,1998,4374
+United Arab Emirates,784,1998,103821
+United Kingdom,826,1998,31365
+United States,840,1998,43049
+Uruguay,858,1998,13417
+Uzbekistan,860,1998,2376
+Vanuatu,548,1998,2675
+Venezuela (Bolivarian Republic of),862,1998,15322
+Viet Nam,704,1998,2315
+Yemen,887,1998,3447
+Zambia,894,1998,1935
+Zimbabwe,716,1998,2871
+Afghanistan,4,1999,894
+Albania,8,1999,5141
+Algeria,12,1999,9596
+Andorra,20,1999,54896
+Angola,24,1999,2952
+Antigua and Barbuda,28,1999,19230
+Argentina,32,1999,14903
+Armenia,51,1999,2827
+Australia,36,1999,33555
+Austria,40,1999,37059
+Azerbaijan,31,1999,4162
+Bahamas,44,1999,31477
+Bahrain,48,1999,43385
+Bangladesh,50,1999,1691
+Barbados,52,1999,14372
+Belarus,112,1999,7103
+Belgium,56,1999,36822
+Belize,84,1999,5984
+Benin,204,1999,1615
+Bhutan,64,1999,2723
+Bolivia (Plurinational State of),68,1999,4268
+Bosnia and Herzegovina,70,1999,6962
+Botswana,72,1999,10225
+Brazil,76,1999,10518
+Brunei Darussalam,96,1999,81932
+Bulgaria,100,1999,8293
+Burkina Faso,854,1999,1089
+Burundi,108,1999,727
+Cabo Verde,132,1999,3420
+Cambodia,116,1999,1250
+Cameroon,120,1999,2440
+Canada,124,1999,34963
+Central African Republic,140,1999,885
+Chad,148,1999,1038
+Chile,152,1999,13379
+China,156,1999,3389
+Colombia,170,1999,8193
+Comoros,174,1999,2211
+Congo,178,1999,4034
+Costa Rica,188,1999,9239
+Croatia,191,1999,14585
+Cuba,192,1999,3844
+Cyprus,196,1999,26406
+Czechia,203,1999,19865
+CÃ´te d'Ivoire,384,1999,2975
+Denmark,208,1999,40538
+Djibouti,262,1999,1845
+Dominica,212,1999,7394
+Dominican Republic,214,1999,7683
+Ecuador,218,1999,6969
+Egypt,818,1999,7238
+El Salvador,222,1999,5435
+Equatorial Guinea,226,1999,10591
+Eritrea,232,1999,2648
+Estonia,233,1999,13934
+Eswatini (Kingdom of),748,1999,6458
+Ethiopia,231,1999,599
+Fiji,242,1999,6603
+Finland,246,1999,32739
+France,250,1999,34307
+Gabon,266,1999,18165
+Gambia,270,1999,1366
+Georgia,268,1999,3576
+Germany,276,1999,35458
+Ghana,288,1999,2145
+Greece,300,1999,24194
+Grenada,308,1999,8631
+Guatemala,320,1999,5925
+Guinea,324,1999,1486
+Guinea-Bissau,624,1999,1281
+Guyana,328,1999,4202
+Haiti,332,1999,1770
+Honduras,340,1999,3072
+Hong Kong; China (SAR),344,1999,32598
+Hungary,348,1999,16222
+Iceland,352,1999,33156
+India,356,1999,2637
+Indonesia,360,1999,5185
+Iran (Islamic Republic of),364,1999,12584
+Iraq,368,1999,12192
+Ireland,372,1999,31589
+Israel,376,1999,24420
+Italy,380,1999,35174
+Jamaica,388,1999,7630
+Japan,392,1999,33437
+Jordan,400,1999,6900
+Kazakhstan,398,1999,9308
+Kenya,404,1999,2116
+Kiribati,296,1999,3085
+Korea (Republic of),410,1999,18974
+Kuwait,414,1999,81480
+Kyrgyzstan,417,1999,1859
+Lao People's Democratic Republic,418,1999,2386
+Latvia,428,1999,10402
+Lebanon,422,1999,10872
+Lesotho,426,1999,2046
+Liberia,430,1999,619
+Libya,434,1999,19271
+Liechtenstein,438,1999,93739
+Lithuania,440,1999,11378
+Luxembourg,442,1999,76148
+Madagascar,450,1999,1406
+Malawi,454,1999,873
+Malaysia,458,1999,14330
+Maldives,462,1999,9135
+Mali,466,1999,1495
+Malta,470,1999,23432
+Marshall Islands,584,1999,3806
+Mauritania,478,1999,3015
+Mauritius,480,1999,10468
+Mexico,484,1999,15264
+Micronesia (Federated States of),583,1999,3056
+Moldova (Republic of),498,1999,2799
+Mongolia,496,1999,4656
+Morocco,504,1999,4378
+Mozambique,508,1999,571
+Myanmar,104,1999,1146
+Namibia,516,1999,6402
+Nepal,524,1999,1467
+Netherlands,528,1999,41174
+New Zealand,554,1999,25928
+Nicaragua,558,1999,3186
+Niger,562,1999,786
+Nigeria,566,1999,2932
+North Macedonia,807,1999,8126
+Norway,578,1999,56202
+Oman,512,1999,41093
+Pakistan,586,1999,3321
+Palau,585,1999,10365
+Palestine; State of,275,1999,4834
+Panama,591,1999,9990
+Papua New Guinea,598,1999,2519
+Paraguay,600,1999,7649
+Peru,604,1999,6280
+Philippines,608,1999,4718
+Poland,616,1999,13857
+Portugal,620,1999,25095
+Qatar,634,1999,103712
+Romania,642,1999,10058
+Russian Federation,643,1999,12417
+Rwanda,646,1999,779
+Saint Kitts and Nevis,659,1999,18717
+Saint Lucia,662,1999,9609
+Saint Vincent and the Grenadines,670,1999,7072
+Samoa,882,1999,3628
+Sao Tome and Principe,678,1999,1739
+Saudi Arabia,682,1999,42345
+Senegal,686,1999,2365
+Serbia,688,1999,7298
+Seychelles,690,1999,17609
+Sierra Leone,694,1999,843
+Singapore,702,1999,49422
+Slovakia,703,1999,15298
+Slovenia,705,1999,21853
+Solomon Islands,90,1999,2151
+South Africa,710,1999,9244
+Spain,724,1999,28422
+Sri Lanka,144,1999,5168
+Sudan,729,1999,2147
+Suriname,740,1999,9311
+Sweden,752,1999,35231
+Switzerland,756,1999,51880
+Syrian Arab Republic,760,1999,4814
+Tajikistan,762,1999,1228
+Tanzania (United Republic of),834,1999,1521
+Thailand,764,1999,8608
+Timor-Leste,626,1999,3371
+Togo,768,1999,1280
+Tonga,776,1999,4546
+Trinidad and Tobago,780,1999,16186
+Tunisia,788,1999,7073
+Turkey,792,1999,13010
+Turkmenistan,795,1999,5102
+Tuvalu,798,1999,5670
+Uganda,800,1999,1063
+Ukraine,804,1999,4371
+United Arab Emirates,784,1999,101107
+United Kingdom,826,1999,32056
+United States,840,1999,44612
+Uruguay,858,1999,13177
+Uzbekistan,860,1999,2444
+Vanuatu,548,1999,2670
+Venezuela (Bolivarian Republic of),862,1999,14286
+Viet Nam,704,1999,2408
+Yemen,887,1999,2579
+Zambia,894,1999,2001
+Zimbabwe,716,1999,2854
+Afghanistan,4,2000,817
+Albania,8,2000,5562
+Algeria,12,2000,9700
+Andorra,20,2000,44215
+Angola,24,2000,3092
+Antigua and Barbuda,28,2000,19676
+Argentina,32,2000,14617
+Armenia,51,2000,3006
+Australia,36,2000,34533
+Austria,40,2000,38502
+Azerbaijan,31,2000,4426
+Bahamas,44,2000,32303
+Bahrain,48,2000,44495
+Bangladesh,50,2000,1750
+Barbados,52,2000,14922
+Belarus,112,2000,7549
+Belgium,56,2000,38152
+Belize,84,2000,6476
+Benin,204,2000,1659
+Bhutan,64,2000,3429
+Bolivia (Plurinational State of),68,2000,4279
+Bosnia and Herzegovina,70,2000,7024
+Botswana,72,2000,10056
+Brazil,76,2000,11090
+Brunei Darussalam,96,2000,82508
+Bulgaria,100,2000,8642
+Burkina Faso,854,2000,1069
+Burundi,108,2000,729
+Cabo Verde,132,2000,3795
+Cambodia,116,2000,1338
+Cameroon,120,2000,2413
+Canada,124,2000,36681
+Central African Republic,140,2000,839
+Chad,148,2000,978
+Chile,152,2000,13844
+China,156,2000,3651
+Colombia,170,2000,8254
+Comoros,174,2000,2391
+Congo,178,2000,3564
+Costa Rica,188,2000,9313
+Croatia,191,2000,15316
+Cuba,192,2000,4047
+Cyprus,196,2000,26855
+Czechia,203,2000,20752
+CÃ´te d'Ivoire,384,2000,2713
+Denmark,208,2000,41414
+Djibouti,262,2000,1822
+Dominica,212,2000,7251
+Dominican Republic,214,2000,7930
+Ecuador,218,2000,6897
+Egypt,818,2000,7545
+El Salvador,222,2000,5480
+Equatorial Guinea,226,2000,9269
+Eritrea,232,2000,2484
+Estonia,233,2000,15180
+Eswatini (Kingdom of),748,2000,6286
+Ethiopia,231,2000,617
+Fiji,242,2000,6807
+Finland,246,2000,34658
+France,250,2000,35261
+Gabon,266,2000,16125
+Gambia,270,2000,1393
+Georgia,268,2000,3664
+Germany,276,2000,36529
+Ghana,288,2000,2152
+Greece,300,2000,24924
+Grenada,308,2000,8919
+Guatemala,320,2000,6002
+Guinea,324,2000,1486
+Guinea-Bissau,624,2000,1366
+Guyana,328,2000,4332
+Haiti,332,2000,1762
+Honduras,340,2000,3188
+Hong Kong; China (SAR),344,2000,34330
+Hungary,348,2000,17091
+Iceland,352,2000,33726
+India,356,2000,2683
+Indonesia,360,2000,5422
+Iran (Islamic Republic of),364,2000,13228
+Iraq,368,2000,12135
+Ireland,372,2000,34066
+Israel,376,2000,25092
+Italy,380,2000,36394
+Jamaica,388,2000,7621
+Japan,392,2000,34386
+Jordan,400,2000,7312
+Kazakhstan,398,2000,9910
+Kenya,404,2000,2077
+Kiribati,296,2000,3234
+Korea (Republic of),410,2000,20601
+Kuwait,414,2000,81957
+Kyrgyzstan,417,2000,1932
+Lao People's Democratic Republic,418,2000,2419
+Latvia,428,2000,11162
+Lebanon,422,2000,10817
+Lesotho,426,2000,2055
+Liberia,430,2000,1209
+Libya,434,2000,19377
+Liechtenstein,438,2000,96864
+Lithuania,440,2000,11969
+Luxembourg,442,2000,79992
+Madagascar,450,2000,1418
+Malawi,454,2000,866
+Malaysia,458,2000,15071
+Maldives,462,2000,9332
+Mali,466,2000,1457
+Malta,470,2000,24095
+Marshall Islands,584,2000,4015
+Mauritania,478,2000,2896
+Mauritius,480,2000,11219
+Mexico,484,2000,15790
+Micronesia (Federated States of),583,2000,3204
+Moldova (Republic of),498,2000,2852
+Mongolia,496,2000,4646
+Montenegro,499,2000,10917
+Morocco,504,2000,4402
+Mozambique,508,2000,554
+Myanmar,104,2000,1289
+Namibia,516,2000,6720
+Nauru,520,2000,7832
+Nepal,524,2000,1532
+Netherlands,528,2000,42776
+New Zealand,554,2000,26615
+Nicaragua,558,2000,3272
+Niger,562,2000,748
+Nigeria,566,2000,2828
+North Macedonia,807,2000,8458
+Norway,578,2000,57315
+Oman,512,2000,43271
+Pakistan,586,2000,3358
+Palau,585,2000,11421
+Palestine; State of,275,2000,4126
+Panama,591,2000,10226
+Papua New Guinea,598,2000,2453
+Paraguay,600,2000,7003
+Peru,604,2000,6327
+Philippines,608,2000,4972
+Poland,616,2000,14667
+Portugal,620,2000,25510
+Qatar,634,2000,100344
+Romania,642,2000,10368
+Russian Federation,643,2000,13855
+Rwanda,646,2000,796
+Saint Kitts and Nevis,659,2000,20461
+Saint Lucia,662,2000,9464
+Saint Vincent and the Grenadines,670,2000,7197
+Samoa,882,2000,3844
+Sao Tome and Principe,678,2000,1738
+Saudi Arabia,682,2000,43348
+Senegal,686,2000,2381
+Serbia,688,2000,7938
+Seychelles,690,2000,17504
+Sierra Leone,694,2000,880
+Singapore,702,2000,52046
+Slovakia,703,2000,15513
+Slovenia,705,2000,22656
+Solomon Islands,90,2000,1818
+South Africa,710,2000,9498
+Spain,724,2000,29853
+Sri Lanka,144,2000,5441
+Sudan,729,2000,2178
+Suriname,740,2000,9305
+Sweden,752,2000,36928
+Switzerland,756,2000,54127
+Syrian Arab Republic,760,2000,4664
+Tajikistan,762,2000,1286
+Tanzania (United Republic of),834,2000,1549
+Thailand,764,2000,9004
+Timor-Leste,626,2000,4993
+Togo,768,2000,1236
+Tonga,776,2000,4589
+Trinidad and Tobago,780,2000,16923
+Tunisia,788,2000,7309
+Turkey,792,2000,13656
+Turkmenistan,795,2000,5008
+Tuvalu,798,2000,4889
+Uganda,800,2000,1048
+Ukraine,804,2000,4665
+United Arab Emirates,784,2000,108412
+United Kingdom,826,2000,33278
+United States,840,2000,45974
+Uruguay,858,2000,12864
+Uzbekistan,860,2000,2487
+Vanuatu,548,2000,2690
+Venezuela (Bolivarian Republic of),862,2000,14562
+Viet Nam,704,2000,2725
+Yemen,887,2000,2748
+Zambia,894,2000,2034
+Zimbabwe,716,2000,2747
+Afghanistan,4,2001,738
+Albania,8,2001,6093
+Algeria,12,2001,10130
+Andorra,20,2001,44886
+Angola,24,2001,3268
+Antigua and Barbuda,28,2001,18853
+Argentina,32,2001,13791
+Armenia,51,2001,3325
+Australia,36,2001,34748
+Austria,40,2001,38644
+Azerbaijan,31,2001,4816
+Bahamas,44,2001,32448
+Bahrain,48,2001,43081
+Bangladesh,50,2001,1801
+Barbados,52,2001,14445
+Belarus,112,2001,7943
+Belgium,56,2001,38062
+Belize,84,2001,6502
+Benin,204,2001,1694
+Bhutan,64,2001,3635
+Bolivia (Plurinational State of),68,2001,4273
+Bosnia and Herzegovina,70,2001,7235
+Botswana,72,2001,10283
+Brazil,76,2001,11051
+Brunei Darussalam,96,2001,83059
+Bulgaria,100,2001,9372
+Burkina Faso,854,2001,1109
+Burundi,108,2001,707
+Cabo Verde,132,2001,3872
+Cambodia,116,2001,1414
+Cameroon,120,2001,2432
+Canada,124,2001,36862
+Central African Republic,140,2001,862
+Chad,148,2001,1050
+Chile,152,2001,14168
+China,156,2001,3918
+Colombia,170,2001,8239
+Comoros,174,2001,2389
+Congo,178,2001,3998
+Costa Rica,188,2001,9467
+Croatia,191,2001,16477
+Cuba,192,2001,4182
+Cyprus,196,2001,28026
+Czechia,203,2001,21241
+CÃ´te d'Ivoire,384,2001,2590
+Denmark,208,2001,41935
+Djibouti,262,2001,1805
+Dominica,212,2001,7608
+Dominican Republic,214,2001,8007
+Ecuador,218,2001,7170
+Egypt,818,2001,7676
+El Salvador,222,2001,5490
+Equatorial Guinea,226,2001,9046
+Eritrea,232,2001,2598
+Estonia,233,2001,16115
+Eswatini (Kingdom of),748,2001,6598
+Ethiopia,231,2001,650
+Fiji,242,2001,6728
+Finland,246,2001,35692
+France,250,2001,35779
+Gabon,266,2001,17023
+Gambia,270,2001,1417
+Georgia,268,2001,3794
+Germany,276,2001,37019
+Ghana,288,2001,2205
+Greece,300,2001,25891
+Grenada,308,2001,8566
+Guatemala,320,2001,6041
+Guinea,324,2001,1498
+Guinea-Bissau,624,2001,1353
+Guyana,328,2001,4391
+Haiti,332,2001,1705
+Honduras,340,2001,3181
+Hong Kong; China (SAR),344,2001,34822
+Hungary,348,2001,17768
+Iceland,352,2001,34752
+India,356,2001,2769
+Indonesia,360,2001,5717
+Iran (Islamic Republic of),364,2001,13178
+Iraq,368,2001,12040
+Ireland,372,2001,34511
+Israel,376,2001,25073
+Italy,380,2001,37046
+Jamaica,388,2001,7593
+Japan,392,2001,34477
+Jordan,400,2001,7607
+Kazakhstan,398,2001,11427
+Kenya,404,2001,2096
+Kiribati,296,2001,3333
+Korea (Republic of),410,2001,21377
+Kuwait,414,2001,77739
+Kyrgyzstan,417,2001,2056
+Lao People's Democratic Republic,418,2001,2515
+Latvia,428,2001,12087
+Lebanon,422,2001,10568
+Lesotho,426,2001,2413
+Liberia,430,2001,1162
+Libya,434,2001,19208
+Liechtenstein,438,2001,87255
+Lithuania,440,2001,12913
+Luxembourg,442,2001,83182
+Madagascar,450,2001,1464
+Malawi,454,2001,804
+Malaysia,458,2001,14973
+Maldives,462,2001,8931
+Mali,466,2001,1571
+Malta,470,2001,24782
+Marshall Islands,584,2001,4170
+Mauritania,478,2001,2780
+Mauritius,480,2001,11576
+Mexico,484,2001,15554
+Micronesia (Federated States of),583,2001,3251
+Moldova (Republic of),498,2001,3172
+Mongolia,496,2001,4753
+Montenegro,499,2001,10987
+Morocco,504,2001,4673
+Mozambique,508,2001,604
+Myanmar,104,2001,1418
+Namibia,516,2001,6641
+Nauru,520,2001,7071
+Nepal,524,2001,1579
+Netherlands,528,2001,42472
+New Zealand,554,2001,27527
+Nicaragua,558,2001,3300
+Niger,562,2001,774
+Nigeria,566,2001,3011
+North Macedonia,807,2001,8257
+Norway,578,2001,58984
+Oman,512,2001,44795
+Pakistan,586,2001,3339
+Palau,585,2001,11973
+Palestine; State of,275,2001,3521
+Panama,591,2001,10030
+Papua New Guinea,598,2001,2350
+Paraguay,600,2001,6902
+Peru,604,2001,6322
+Philippines,608,2001,5042
+Poland,616,2001,14869
+Portugal,620,2001,25795
+Qatar,634,2001,104649
+Romania,642,2001,11071
+Russian Federation,643,2001,14823
+Rwanda,646,2001,829
+Saint Kitts and Nevis,659,2001,21260
+Saint Lucia,662,2001,8912
+Saint Vincent and the Grenadines,670,2001,7390
+Samoa,882,2001,4113
+Sao Tome and Principe,678,2001,1892
+Saudi Arabia,682,2001,41866
+Senegal,686,2001,2438
+Serbia,688,2001,8353
+Seychelles,690,2001,17513
+Sierra Leone,694,2001,800
+Singapore,702,2001,50091
+Slovakia,703,2001,16150
+Slovenia,705,2001,23325
+Solomon Islands,90,2001,1637
+South Africa,710,2001,9556
+Spain,724,2001,30624
+Sri Lanka,144,2001,5323
+Sudan,729,2001,2233
+Suriname,740,2001,8804
+Sweden,752,2001,37414
+Switzerland,756,2001,53135
+Syrian Arab Republic,760,2001,4764
+Tajikistan,762,2001,1390
+Tanzania (United Republic of),834,2001,1579
+Thailand,764,2001,9155
+Timor-Leste,626,2001,5262
+Togo,768,2001,1182
+Tonga,776,2001,4718
+Trinidad and Tobago,780,2001,17870
+Tunisia,788,2001,7533
+Turkey,792,2001,12518
+Turkmenistan,795,2001,5343
+Tuvalu,798,2001,5811
+Uganda,800,2001,1055
+Ukraine,804,2001,5210
+United Arab Emirates,784,2001,104337
+United Kingdom,826,2001,34209
+United States,840,2001,46032
+Uruguay,858,2001,12344
+Uzbekistan,860,2001,2553
+Vanuatu,548,2001,2624
+Venezuela (Bolivarian Republic of),862,2001,14715
+Viet Nam,704,2001,2868
+Yemen,887,2001,3431
+Zambia,894,2001,2094
+Zimbabwe,716,2001,2792
+Afghanistan,4,2002,1159
+Albania,8,2002,6358
+Algeria,12,2002,10447
+Andorra,20,2002,45943
+Angola,24,2002,3904
+Antigua and Barbuda,28,2002,18396
+Argentina,32,2002,11841
+Armenia,51,2002,3814
+Australia,36,2002,35729
+Austria,40,2002,39405
+Azerbaijan,31,2002,5209
+Bahamas,44,2002,32837
+Bahrain,48,2002,41877
+Bangladesh,50,2002,1852
+Barbados,52,2002,14476
+Belarus,112,2002,8410
+Belgium,56,2002,38510
+Belize,84,2002,6675
+Benin,204,2002,1713
+Bhutan,64,2002,3887
+Bolivia (Plurinational State of),68,2002,4296
+Bosnia and Herzegovina,70,2002,7491
+Botswana,72,2002,9663
+Brazil,76,2002,11223
+Brunei Darussalam,96,2002,84596
+Bulgaria,100,2002,10327
+Burkina Faso,854,2002,1127
+Burundi,108,2002,717
+Cabo Verde,132,2002,3956
+Cambodia,116,2002,1466
+Cameroon,120,2002,2492
+Canada,124,2002,37676
+Central African Republic,140,2002,874
+Chad,148,2002,1074
+Chile,152,2002,14383
+China,156,2002,4263
+Colombia,170,2002,8300
+Comoros,174,2002,2378
+Congo,178,2002,4054
+Costa Rica,188,2002,9626
+Croatia,191,2002,17372
+Cuba,192,2002,4233
+Cyprus,196,2002,29381
+Czechia,203,2002,21468
+CÃ´te d'Ivoire,384,2002,2462
+Denmark,208,2002,42090
+Djibouti,262,2002,1837
+Dominica,212,2002,7294
+Dominican Republic,214,2002,8251
+Ecuador,218,2002,7372
+Egypt,818,2002,7725
+El Salvador,222,2002,5520
+Equatorial Guinea,226,2002,11720
+Eritrea,232,2002,2548
+Estonia,233,2002,17204
+Eswatini (Kingdom of),748,2002,6430
+Ethiopia,231,2002,640
+Fiji,242,2002,7047
+Finland,246,2002,36333
+France,250,2002,35655
+Gabon,266,2002,17194
+Gambia,270,2002,1312
+Georgia,268,2002,4011
+Germany,276,2002,36821
+Ghana,288,2002,2247
+Greece,300,2002,26724
+Grenada,308,2002,8746
+Guatemala,320,2002,6063
+Guinea,324,2002,1576
+Guinea-Bissau,624,2002,1336
+Guyana,328,2002,4425
+Haiti,332,2002,1662
+Honduras,340,2002,3203
+Hong Kong; China (SAR),344,2002,34629
+Hungary,348,2002,18585
+Iceland,352,2002,35906
+India,356,2002,2832
+Indonesia,360,2002,5938
+Iran (Islamic Republic of),364,2002,13989
+Iraq,368,2002,10774
+Ireland,372,2002,35262
+Israel,376,2002,24713
+Italy,380,2002,37030
+Jamaica,388,2002,7562
+Japan,392,2002,34399
+Jordan,400,2002,7804
+Kazakhstan,398,2002,12669
+Kenya,404,2002,2055
+Kiribati,296,2002,3151
+Korea (Republic of),410,2002,22902
+Kuwait,414,2002,75124
+Kyrgyzstan,417,2002,2043
+Lao People's Democratic Republic,418,2002,2627
+Latvia,428,2002,13080
+Lebanon,422,2002,9972
+Lesotho,426,2002,2440
+Liberia,430,2002,1157
+Libya,434,2002,18774
+Liechtenstein,438,2002,83956
+Lithuania,440,2002,13939
+Luxembourg,442,2002,77611
+Madagascar,450,2002,1236
+Malawi,454,2002,803
+Malaysia,458,2002,15559
+Maldives,462,2002,9350
+Mali,466,2002,1551
+Malta,470,2002,25235
+Marshall Islands,584,2002,4106
+Mauritania,478,2002,2901
+Mauritius,480,2002,11680
+Mexico,484,2002,15356
+Micronesia (Federated States of),583,2002,3267
+Moldova (Republic of),498,2002,3431
+Mongolia,496,2002,4922
+Montenegro,499,2002,11214
+Morocco,504,2002,4777
+Mozambique,508,2002,590
+Myanmar,104,2002,1574
+Namibia,516,2002,6965
+Nauru,520,2002,6427
+Nepal,524,2002,1549
+Netherlands,528,2002,42380
+New Zealand,554,2002,28332
+Nicaragua,558,2002,3299
+Niger,562,2002,765
+Nigeria,566,2002,3381
+North Macedonia,807,2002,8322
+Norway,578,2002,59620
+Oman,512,2002,43043
+Pakistan,586,2002,3430
+Palau,585,2002,12182
+Palestine; State of,275,2002,2958
+Panama,591,2002,10396
+Papua New Guinea,598,2002,2313
+Paraguay,600,2002,6928
+Peru,604,2002,6560
+Philippines,608,2002,5143
+Poland,616,2002,15178
+Portugal,620,2002,25913
+Qatar,634,2002,106944
+Romania,642,2002,11875
+Russian Federation,643,2002,15516
+Rwanda,646,2002,918
+Saint Kitts and Nevis,659,2002,21424
+Saint Lucia,662,2002,9006
+Saint Vincent and the Grenadines,670,2002,7844
+Samoa,882,2002,4449
+Sao Tome and Principe,678,2002,1906
+Saudi Arabia,682,2002,39509
+Senegal,686,2002,2388
+Serbia,688,2002,8914
+Seychelles,690,2002,15963
+Sierra Leone,694,2002,970
+Singapore,702,2002,50856
+Slovakia,703,2002,16813
+Slovenia,705,2002,23999
+Solomon Islands,90,2002,1531
+South Africa,710,2002,9842
+Spain,724,2002,31044
+Sri Lanka,144,2002,5505
+Sudan,729,2002,2325
+Suriname,740,2002,9847
+Sweden,752,2002,38148
+Switzerland,756,2002,52175
+Syrian Arab Republic,760,2002,5039
+Tajikistan,762,2002,1515
+Tanzania (United Republic of),834,2002,1673
+Thailand,764,2002,9564
+Timor-Leste,626,2002,5668
+Togo,768,2002,1148
+Tonga,776,2002,4975
+Trinidad and Tobago,780,2002,19364
+Tunisia,788,2002,7573
+Turkey,792,2002,13208
+Turkmenistan,795,2002,5316
+Tuvalu,798,2002,7063
+Uganda,800,2002,1122
+Ukraine,804,2002,5555
+United Arab Emirates,784,2002,97501
+United Kingdom,826,2002,35116
+United States,840,2002,46379
+Uruguay,858,2002,11493
+Uzbekistan,860,2002,2630
+Vanuatu,548,2002,2360
+Venezuela (Bolivarian Republic of),862,2002,12974
+Viet Nam,704,2002,3020
+Yemen,887,2002,3366
+Zambia,894,2002,2142
+Zimbabwe,716,2002,2554
+Afghanistan,4,2003,1176
+Albania,8,2003,6760
+Algeria,12,2003,11068
+Andorra,20,2003,49328
+Angola,24,2003,3924
+Antigua and Barbuda,28,2003,19378
+Argentina,32,2003,12910
+Armenia,51,2003,4358
+Australia,36,2003,36308
+Austria,40,2003,39716
+Azerbaijan,31,2003,5689
+Bahamas,44,2003,31999
+Bahrain,48,2003,42112
+Bangladesh,50,2003,1907
+Barbados,52,2003,14688
+Belarus,112,2003,9088
+Belgium,56,2003,38714
+Belize,84,2003,7000
+Benin,204,2003,1718
+Bhutan,64,2003,4075
+Bolivia (Plurinational State of),68,2003,4280
+Bosnia and Herzegovina,70,2003,7692
+Botswana,72,2003,10319
+Brazil,76,2003,11232
+Brunei Darussalam,96,2003,85449
+Bulgaria,100,2003,10901
+Burkina Faso,854,2003,1180
+Burundi,108,2003,683
+Cabo Verde,132,2003,4082
+Cambodia,116,2003,1573
+Cameroon,120,2003,2599
+Canada,124,2003,38021
+Central African Republic,140,2003,815
+Chad,148,2003,976
+Chile,152,2003,14514
+China,156,2003,4678
+Colombia,170,2003,8439
+Comoros,174,2003,2369
+Congo,178,2003,3940
+Costa Rica,188,2003,9888
+Croatia,191,2003,18032
+Cuba,192,2003,4381
+Cyprus,196,2003,30101
+Czechia,203,2003,22284
+CÃ´te d'Ivoire,384,2003,2311
+Denmark,208,2003,42283
+Djibouti,262,2003,1966
+Dominica,212,2003,7772
+Dominican Republic,214,2003,7829
+Ecuador,218,2003,7425
+Egypt,818,2003,7809
+El Salvador,222,2003,5538
+Equatorial Guinea,226,2003,10477
+Eritrea,232,2003,2359
+Estonia,233,2003,18442
+Eswatini (Kingdom of),748,2003,6513
+Ethiopia,231,2003,608
+Fiji,242,2003,7056
+Finland,246,2003,36626
+France,250,2003,35796
+Gabon,266,2003,16870
+Gambia,270,2003,1373
+Georgia,268,2003,4485
+Germany,276,2003,36649
+Ghana,288,2003,2305
+Greece,300,2003,28009
+Grenada,308,2003,9568
+Guatemala,320,2003,6077
+Guinea,324,2003,1470
+Guinea-Bissau,624,2003,1312
+Guyana,328,2003,4481
+Haiti,332,2003,1638
+Honduras,340,2003,3246
+Hong Kong; China (SAR),344,2003,36489
+Hungary,348,2003,19471
+Iceland,352,2003,36075
+India,356,2003,3002
+Indonesia,360,2003,6084
+Iran (Islamic Republic of),364,2003,15013
+Iraq,368,2003,7138
+Ireland,372,2003,36806
+Israel,376,2003,24510
+Italy,380,2003,36907
+Jamaica,388,2003,7826
+Japan,392,2003,34906
+Jordan,400,2003,7997
+Kazakhstan,398,2003,13643
+Kenya,404,2003,2055
+Kiribati,296,2003,2977
+Korea (Republic of),410,2003,23457
+Kuwait,414,2003,85776
+Kyrgyzstan,417,2003,2169
+Lao People's Democratic Republic,418,2003,2698
+Latvia,428,2003,14230
+Lebanon,422,2003,8532
+Lesotho,426,2003,2533
+Liberia,430,2003,781
+Libya,434,2003,21036
+Liechtenstein,438,2003,79121
+Lithuania,440,2003,15310
+Luxembourg,442,2003,71406
+Madagascar,450,2003,1319
+Malawi,454,2003,828
+Malaysia,458,2003,16296
+Maldives,462,2003,10249
+Mali,466,2003,1687
+Malta,470,2003,25447
+Marshall Islands,584,2003,3989
+Mauritania,478,2003,2978
+Mauritius,480,2003,12189
+Mexico,484,2003,15362
+Micronesia (Federated States of),583,2003,3321
+Moldova (Republic of),498,2003,3845
+Mongolia,496,2003,5192
+Montenegro,499,2003,11472
+Morocco,504,2003,5012
+Mozambique,508,2003,666
+Myanmar,104,2003,1775
+Namibia,516,2003,7379
+Nauru,520,2003,6842
+Nepal,524,2003,1587
+Netherlands,528,2003,42816
+New Zealand,554,2003,29105
+Nicaragua,558,2003,3346
+Niger,562,2003,778
+Nigeria,566,2003,3499
+North Macedonia,807,2003,8482
+Norway,578,2003,59979
+Oman,512,2003,41579
+Pakistan,586,2003,3605
+Palau,585,2003,11990
+Palestine; State of,275,2003,3287
+Panama,591,2003,10288
+Papua New Guinea,598,2003,2216
+Paraguay,600,2003,6537
+Peru,604,2003,6703
+Philippines,608,2003,5269
+Poland,616,2003,15631
+Portugal,620,2003,25701
+Qatar,634,2003,107396
+Romania,642,2003,12083
+Russian Federation,643,2003,16532
+Rwanda,646,2003,920
+Saint Kitts and Nevis,659,2003,20126
+Saint Lucia,662,2003,9219
+Saint Vincent and the Grenadines,670,2003,8330
+Samoa,882,2003,4606
+Sao Tome and Principe,678,2003,2022
+Saudi Arabia,682,2003,42567
+Senegal,686,2003,2495
+Serbia,688,2003,9307
+Seychelles,690,2003,15810
+Sierra Leone,694,2003,1017
+Singapore,702,2003,53580
+Slovakia,703,2003,16874
+Slovenia,705,2003,24618
+Solomon Islands,90,2003,1593
+South Africa,710,2003,9985
+Spain,724,2003,31554
+Sri Lanka,144,2003,5816
+Sudan,729,2003,2404
+Suriname,740,2003,10356
+Sweden,752,2003,39454
+Switzerland,756,2003,53812
+Syrian Arab Republic,760,2003,4997
+Tajikistan,762,2003,1637
+Tanzania (United Republic of),834,2003,1725
+Thailand,764,2003,10114
+Timor-Leste,626,2003,4735
+Togo,768,2003,1176
+Tonga,776,2003,5004
+Trinidad and Tobago,780,2003,21889
+Tunisia,788,2003,7889
+Turkey,792,2003,13766
+Turkmenistan,795,2003,5516
+Tuvalu,798,2003,4817
+Uganda,800,2003,1159
+Ukraine,804,2003,6149
+United Arab Emirates,784,2003,98534
+United Kingdom,826,2003,36116
+United States,840,2003,47343
+Uruguay,858,2003,11044
+Uzbekistan,860,2003,2719
+Vanuatu,548,2003,2388
+Venezuela (Bolivarian Republic of),862,2003,11790
+Viet Nam,704,2003,3190
+Yemen,887,2003,3375
+Zambia,894,2003,2248
+Zimbabwe,716,2003,2124
+Afghanistan,4,2004,1126
+Albania,8,2004,7147
+Algeria,12,2004,11305
+Andorra,20,2004,50968
+Angola,24,2004,4130
+Antigua and Barbuda,28,2004,20145
+Argentina,32,2004,12911
+Armenia,51,2004,4822
+Australia,36,2004,37314
+Austria,40,2004,40597
+Azerbaijan,31,2004,6028
+Bahamas,44,2004,31779
+Bahrain,48,2004,42161
+Bangladesh,50,2004,1982
+Barbados,52,2004,14962
+Belarus,112,2004,10195
+Belgium,56,2004,39735
+Belize,84,2004,7000
+Benin,204,2004,1743
+Bhutan,64,2004,4239
+Bolivia (Plurinational State of),68,2004,4344
+Bosnia and Herzegovina,70,2004,8035
+Botswana,72,2004,10266
+Brazil,76,2004,11762
+Brunei Darussalam,96,2004,84413
+Bulgaria,100,2004,11643
+Burkina Faso,854,2004,1197
+Burundi,108,2004,689
+Cabo Verde,132,2004,4424
+Cambodia,116,2004,1704
+Cameroon,120,2004,2735
+Canada,124,2004,38934
+Central African Republic,140,2004,840
+Chad,148,2004,1334
+Chile,152,2004,15033
+China,156,2004,5137
+Colombia,170,2004,8756
+Comoros,174,2004,2355
+Congo,178,2004,3613
+Costa Rica,188,2004,10217
+Croatia,191,2004,19033
+Cuba,192,2004,4618
+Cyprus,196,2004,30670
+Czechia,203,2004,23059
+CÃ´te d'Ivoire,384,2004,2402
+Denmark,208,2004,43731
+Djibouti,262,2004,2022
+Dominica,212,2004,7873
+Dominican Republic,214,2004,7776
+Ecuador,218,2004,7873
+Egypt,818,2004,7986
+El Salvador,222,2004,5553
+Equatorial Guinea,226,2004,12505
+Eritrea,232,2004,2281
+Estonia,233,2004,19785
+Eswatini (Kingdom of),748,2004,6864
+Ethiopia,231,2004,673
+Fiji,242,2004,7412
+Finland,246,2004,38468
+France,250,2004,36558
+Gabon,266,2004,15552
+Gambia,270,2004,1440
+Georgia,268,2004,4831
+Germany,276,2004,37694
+Ghana,288,2004,2372
+Greece,300,2004,29326
+Grenada,308,2004,9232
+Guatemala,320,2004,6108
+Guinea,324,2004,1471
+Guinea-Bissau,624,2004,1322
+Guyana,328,2004,4631
+Haiti,332,2004,1559
+Honduras,340,2004,3344
+Hong Kong; China (SAR),344,2004,39142
+Hungary,348,2004,20315
+Iceland,352,2004,37491
+India,356,2004,3189
+Indonesia,360,2004,6256
+Iran (Islamic Republic of),364,2004,15435
+Iraq,368,2004,10727
+Ireland,372,2004,38755
+Israel,376,2004,25287
+Italy,380,2004,37370
+Jamaica,388,2004,7902
+Japan,392,2004,35770
+Jordan,400,2004,8514
+Kazakhstan,398,2004,14676
+Kenya,404,2004,2107
+Kiribati,296,2004,2880
+Korea (Republic of),410,2004,24556
+Kuwait,414,2004,94816
+Kyrgyzstan,417,2004,2265
+Lao People's Democratic Republic,418,2004,2860
+Latvia,428,2004,15345
+Lebanon,422,2004,10099
+Lesotho,426,2004,2487
+Liberia,430,2004,869
+Libya,434,2004,21029
+Liechtenstein,438,2004,78206
+Lithuania,440,2004,16587
+Luxembourg,442,2004,82808
+Madagascar,450,2004,1342
+Malawi,454,2004,852
+Malaysia,458,2004,17078
+Maldives,462,2004,10633
+Mali,466,2004,1661
+Malta,470,2004,25466
+Marshall Islands,584,2004,3938
+Mauritania,478,2004,3058
+Mauritius,480,2004,12674
+Mexico,484,2004,15781
+Micronesia (Federated States of),583,2004,3267
+Moldova (Republic of),498,2004,4175
+Mongolia,496,2004,5689
+Montenegro,499,2004,11884
+Morocco,504,2004,5211
+Mozambique,508,2004,687
+Myanmar,104,2004,1999
+Namibia,516,2004,7868
+Nauru,520,2004,5656
+Nepal,524,2004,1637
+Netherlands,528,2004,43297
+New Zealand,554,2004,29558
+Nicaragua,558,2004,3494
+Niger,562,2004,755
+Nigeria,566,2004,3699
+North Macedonia,807,2004,8915
+Norway,578,2004,61761
+Oman,512,2004,41322
+Pakistan,586,2004,3748
+Palau,585,2004,12736
+Palestine; State of,275,2004,3501
+Panama,591,2004,10707
+Papua New Guinea,598,2004,2283
+Paraguay,600,2004,6847
+Peru,604,2004,6845
+Philippines,608,2004,5493
+Poland,616,2004,16078
+Portugal,620,2004,26041
+Qatar,634,2004,111551
+Romania,642,2004,13165
+Russian Federation,643,2004,17938
+Rwanda,646,2004,975
+Saint Kitts and Nevis,659,2004,21058
+Saint Lucia,662,2004,9684
+Saint Vincent and the Grenadines,670,2004,8595
+Samoa,882,2004,4813
+Sao Tome and Principe,678,2004,2049
+Saudi Arabia,682,2004,44734
+Senegal,686,2004,2582
+Serbia,688,2004,10151
+Seychelles,690,2004,16601
+Sierra Leone,694,2004,1035
+Singapore,702,2004,55941
+Slovakia,703,2004,17965
+Slovenia,705,2004,25587
+Solomon Islands,90,2004,1650
+South Africa,710,2004,10388
+Spain,724,2004,31961
+Sri Lanka,144,2004,6077
+Sudan,729,2004,2412
+Suriname,740,2004,11058
+Sweden,752,2004,40532
+Switzerland,756,2004,54719
+Syrian Arab Republic,760,2004,5246
+Tajikistan,762,2004,1810
+Tanzania (United Republic of),834,2004,1802
+Thailand,764,2004,10647
+Timor-Leste,626,2004,3385
+Togo,768,2004,1168
+Tonga,776,2004,4974
+Trinidad and Tobago,780,2004,24267
+Tunisia,788,2004,8303
+Turkey,792,2004,14945
+Turkmenistan,795,2004,5718
+Tuvalu,798,2004,5161
+Uganda,800,2004,1191
+Ukraine,804,2004,6940
+United Arab Emirates,784,2004,99013
+United Kingdom,826,2004,36670
+United States,840,2004,48752
+Uruguay,858,2004,11576
+Uzbekistan,860,2004,2910
+Vanuatu,548,2004,2413
+Venezuela (Bolivarian Republic of),862,2004,13592
+Viet Nam,704,2004,3416
+Yemen,887,2004,3386
+Zambia,894,2004,2261
+Zimbabwe,716,2004,1973
+Afghanistan,4,2005,1198
+Albania,8,2005,7557
+Algeria,12,2005,11595
+Andorra,20,2005,52917
+Angola,24,2005,4516
+Antigua and Barbuda,28,2005,21315
+Argentina,32,2005,13886
+Armenia,51,2005,5600
+Australia,36,2005,37669
+Austria,40,2005,41196
+Azerbaijan,31,2005,7184
+Bahamas,44,2005,32139
+Bahrain,48,2005,42760
+Bangladesh,50,2005,2082
+Barbados,52,2005,15311
+Belarus,112,2005,11237
+Belgium,56,2005,40281
+Belize,84,2005,7054
+Benin,204,2005,1730
+Bhutan,64,2005,4511
+Bolivia (Plurinational State of),68,2005,4476
+Bosnia and Herzegovina,70,2005,8686
+Botswana,72,2005,10725
+Brazil,76,2005,12007
+Brunei Darussalam,96,2005,83421
+Bulgaria,100,2005,12461
+Burkina Faso,854,2005,1266
+Burundi,108,2005,682
+Cabo Verde,132,2005,4593
+Cambodia,116,2005,1888
+Cameroon,120,2005,2704
+Canada,124,2005,39837
+Central African Republic,140,2005,834
+Chad,148,2005,1514
+Chile,152,2005,15611
+China,156,2005,5665
+Colombia,170,2005,9131
+Comoros,174,2005,2367
+Congo,178,2005,2975
+Costa Rica,188,2005,10520
+Croatia,191,2005,19692
+Cuba,192,2005,5138
+Cyprus,196,2005,31873
+Czechia,203,2005,24572
+CÃ´te d'Ivoire,384,2005,2580
+Denmark,208,2005,44929
+Djibouti,262,2005,2048
+Dominica,212,2005,7999
+Dominican Republic,214,2005,8665
+Ecuador,218,2005,8197
+Egypt,818,2005,8119
+El Salvador,222,2005,5676
+Equatorial Guinea,226,2005,21113
+Eritrea,232,2005,2265
+Estonia,233,2005,21972
+Eswatini (Kingdom of),748,2005,7662
+Ethiopia,231,2005,734
+Fiji,242,2005,7536
+Finland,246,2005,39285
+France,250,2005,37005
+Gabon,266,2005,16335
+Gambia,270,2005,1383
+Georgia,268,2005,5299
+Germany,276,2005,38051
+Ghana,288,2005,2475
+Greece,300,2005,29203
+Grenada,308,2005,11224
+Guatemala,320,2005,6160
+Guinea,324,2005,1451
+Guinea-Bissau,624,2005,1347
+Guyana,328,2005,4612
+Haiti,332,2005,1549
+Honduras,340,2005,3480
+Hong Kong; China (SAR),344,2005,41166
+Hungary,348,2005,21235
+Iceland,352,2005,38782
+India,356,2005,3387
+Indonesia,360,2005,6506
+Iran (Islamic Republic of),364,2005,15737
+Iraq,368,2005,11092
+Ireland,372,2005,40180
+Israel,376,2005,26375
+Italy,380,2005,37661
+Jamaica,388,2005,7904
+Japan,392,2005,36461
+Jordan,400,2005,8910
+Kazakhstan,398,2005,15417
+Kenya,404,2005,2188
+Kiribati,296,2005,2814
+Korea (Republic of),410,2005,25315
+Kuwait,414,2005,101314
+Kyrgyzstan,417,2005,2258
+Lao People's Democratic Republic,418,2005,3060
+Latvia,428,2005,17347
+Lebanon,422,2005,10413
+Lesotho,426,2005,2447
+Liberia,430,2005,889
+Libya,434,2005,22871
+Liechtenstein,438,2005,84033
+Lithuania,440,2005,18273
+Luxembourg,442,2005,84855
+Madagascar,450,2005,1368
+Malawi,454,2005,859
+Malaysia,458,2005,17757
+Maldives,462,2005,9006
+Mali,466,2005,1715
+Malta,470,2005,25498
+Marshall Islands,584,2005,3982
+Mauritania,478,2005,3221
+Mauritius,480,2005,12835
+Mexico,484,2005,15814
+Micronesia (Federated States of),583,2005,3366
+Moldova (Republic of),498,2005,4457
+Mongolia,496,2005,5938
+Montenegro,499,2005,11885
+Morocco,504,2005,5349
+Mozambique,508,2005,723
+Myanmar,104,2005,2252
+Namibia,516,2005,7732
+Nauru,520,2005,6051
+Nepal,524,2005,1682
+Netherlands,528,2005,43221
+New Zealand,554,2005,29945
+Nicaragua,558,2005,3631
+Niger,562,2005,761
+Nigeria,566,2005,3819
+North Macedonia,807,2005,9216
+Norway,578,2005,63509
+Oman,512,2005,40620
+Pakistan,586,2005,3938
+Palau,585,2005,13786
+Palestine; State of,275,2005,3849
+Panama,591,2005,11200
+Papua New Guinea,598,2005,2439
+Paraguay,600,2005,6956
+Peru,604,2005,7127
+Philippines,608,2005,5674
+Poland,616,2005,16891
+Portugal,620,2005,26182
+Qatar,634,2005,99214
+Romania,642,2005,14032
+Russian Federation,643,2005,19086
+Rwanda,646,2005,1052
+Saint Kitts and Nevis,659,2005,23149
+Saint Lucia,662,2005,9561
+Saint Vincent and the Grenadines,670,2005,8828
+Samoa,882,2005,4942
+Sao Tome and Principe,678,2005,2154
+Saudi Arabia,682,2005,45970
+Senegal,686,2005,2660
+Serbia,688,2005,10714
+Seychelles,690,2005,18002
+Sierra Leone,694,2005,1040
+Singapore,702,2005,58890
+Slovakia,703,2005,19433
+Slovenia,705,2005,26695
+Solomon Islands,90,2005,1687
+South Africa,710,2005,10798
+Spain,724,2005,32422
+Sri Lanka,144,2005,6391
+Sudan,729,2005,2549
+Suriname,740,2005,11656
+Sweden,752,2005,41836
+Switzerland,756,2005,57194
+Syrian Arab Republic,760,2005,5379
+Tajikistan,762,2005,1905
+Tanzania (United Republic of),834,2005,1872
+Thailand,764,2005,11008
+Timor-Leste,626,2005,1818
+Togo,768,2005,1153
+Tonga,776,2005,4952
+Trinidad and Tobago,780,2005,25126
+Tunisia,788,2005,8438
+Turkey,792,2005,16129
+Turkmenistan,795,2005,6044
+Tuvalu,798,2005,4940
+Uganda,800,2005,1224
+Ukraine,804,2005,7207
+United Arab Emirates,784,2005,93174
+United Kingdom,826,2005,37682
+United States,840,2005,49980
+Uruguay,858,2005,12638
+Uzbekistan,860,2005,3084
+Vanuatu,548,2005,2441
+Venezuela (Bolivarian Republic of),862,2005,15010
+Viet Nam,704,2005,3367
+Yemen,887,2005,3141
+Zambia,894,2005,2332
+Zimbabwe,716,2005,1853
+Afghanistan,4,2006,1244
+Albania,8,2006,8125
+Algeria,12,2006,11734
+Andorra,20,2006,53867
+Angola,24,2006,4751
+Antigua and Barbuda,28,2006,23686
+Argentina,32,2006,16185
+Armenia,51,2006,6426
+Australia,36,2006,38060
+Austria,40,2006,42600
+Azerbaijan,31,2006,9329
+Bahamas,44,2006,32259
+Bahrain,48,2006,42375
+Bangladesh,50,2006,2218
+Barbados,52,2006,15834
+Belarus,112,2006,12387
+Belgium,56,2006,41091
+Belize,84,2006,7188
+Benin,204,2006,1743
+Bhutan,64,2006,4807
+Bolivia (Plurinational State of),68,2006,4626
+Bosnia and Herzegovina,70,2006,9057
+Botswana,72,2006,11468
+Brazil,76,2006,12394
+Brunei Darussalam,96,2006,85879
+Bulgaria,100,2006,13065
+Burkina Faso,854,2006,1310
+Burundi,108,2006,702
+Cabo Verde,132,2006,4865
+Cambodia,116,2006,2062
+Cameroon,120,2006,2762
+Canada,124,2006,40655
+Central African Republic,140,2006,856
+Chad,148,2006,1453
+Chile,152,2006,15642
+China,156,2006,6381
+Colombia,170,2006,9612
+Comoros,174,2006,2374
+Congo,178,2006,2674
+Costa Rica,188,2006,11226
+Croatia,191,2006,20598
+Cuba,192,2006,5770
+Cyprus,196,2006,32716
+Czechia,203,2006,25777
+CÃ´te d'Ivoire,384,2006,2559
+Denmark,208,2006,46716
+Djibouti,262,2006,2303
+Dominica,212,2006,8730
+Dominican Republic,214,2006,9373
+Ecuador,218,2006,8447
+Egypt,818,2006,8590
+El Salvador,222,2006,5937
+Equatorial Guinea,226,2006,26834
+Eritrea,232,2006,2177
+Estonia,233,2006,24054
+Eswatini (Kingdom of),748,2006,7665
+Ethiopia,231,2006,792
+Fiji,242,2006,7216
+Finland,246,2006,40934
+France,250,2006,37751
+Gabon,266,2006,14626
+Gambia,270,2006,1353
+Georgia,268,2006,5896
+Germany,276,2006,39828
+Ghana,288,2006,2583
+Greece,300,2006,30556
+Grenada,308,2006,10740
+Guatemala,320,2006,6316
+Guinea,324,2006,1491
+Guinea-Bissau,624,2006,1359
+Guyana,328,2006,5120
+Haiti,332,2006,1580
+Honduras,340,2006,3618
+Hong Kong; China (SAR),344,2006,44578
+Hungary,348,2006,22165
+Iceland,352,2006,38860
+India,356,2006,3602
+Indonesia,360,2006,6816
+Iran (Islamic Republic of),364,2006,16373
+Iraq,368,2006,11972
+Ireland,372,2006,41630
+Israel,376,2006,27494
+Italy,380,2006,38392
+Jamaica,388,2006,8165
+Japan,392,2006,37114
+Jordan,400,2006,9303
+Kazakhstan,398,2006,16254
+Kenya,404,2006,2261
+Kiribati,296,2006,2686
+Korea (Republic of),410,2006,26600
+Kuwait,414,2006,106011
+Kyrgyzstan,417,2006,2343
+Lao People's Democratic Republic,418,2006,3158
+Latvia,428,2006,19305
+Lebanon,422,2006,10623
+Lesotho,426,2006,2456
+Liberia,430,2006,926
+Libya,434,2006,24589
+Liechtenstein,438,2006,93239
+Lithuania,440,2006,19834
+Luxembourg,442,2006,77291
+Madagascar,450,2006,1397
+Malawi,454,2006,876
+Malaysia,458,2006,18661
+Maldives,462,2006,11092
+Mali,466,2006,1726
+Malta,470,2006,25754
+Marshall Islands,584,2006,3951
+Mauritania,478,2006,3511
+Mauritius,480,2006,13506
+Mexico,484,2006,16386
+Micronesia (Federated States of),583,2006,3387
+Moldova (Republic of),498,2006,4673
+Mongolia,496,2006,6417
+Montenegro,499,2006,12959
+Morocco,504,2006,5680
+Mozambique,508,2006,749
+Myanmar,104,2006,2529
+Namibia,516,2006,8205
+Nauru,520,2006,3631
+Nepal,524,2006,1725
+Netherlands,528,2006,45632
+New Zealand,554,2006,30358
+Nicaragua,558,2006,3703
+Niger,562,2006,778
+Nigeria,566,2006,4166
+North Macedonia,807,2006,9808
+Norway,578,2006,63879
+Oman,512,2006,38774
+Pakistan,586,2006,4075
+Palau,585,2006,13358
+Palestine; State of,275,2006,3650
+Panama,591,2006,11967
+Papua New Guinea,598,2006,2366
+Paraguay,600,2006,7459
+Peru,604,2006,7419
+Philippines,608,2006,5822
+Poland,616,2006,17880
+Portugal,620,2006,26102
+Qatar,634,2006,111972
+Romania,642,2006,15171
+Russian Federation,643,2006,20592
+Rwanda,646,2006,1125
+Saint Kitts and Nevis,659,2006,23874
+Saint Lucia,662,2006,11042
+Saint Vincent and the Grenadines,670,2006,9625
+Samoa,882,2006,5037
+Sao Tome and Principe,678,2006,2389
+Saudi Arabia,682,2006,46044
+Senegal,686,2006,2663
+Serbia,688,2006,11784
+Seychelles,690,2006,19281
+Sierra Leone,694,2006,1053
+Singapore,702,2006,64304
+Slovakia,703,2006,21030
+Slovenia,705,2006,28026
+Solomon Islands,90,2006,1772
+South Africa,710,2006,11257
+Spain,724,2006,33110
+Sri Lanka,144,2006,6820
+Sudan,729,2006,2757
+Suriname,740,2006,12219
+Sweden,752,2006,44087
+Switzerland,756,2006,58584
+Syrian Arab Republic,760,2006,5562
+Tajikistan,762,2006,1998
+Tanzania (United Republic of),834,2006,1974
+Thailand,764,2006,11576
+Timor-Leste,626,2006,3199
+Togo,768,2006,1169
+Tonga,776,2006,4960
+Trinidad and Tobago,780,2006,28240
+Tunisia,788,2006,8829
+Turkey,792,2006,17062
+Turkmenistan,795,2006,6691
+Tuvalu,798,2006,4809
+Uganda,800,2006,1320
+Ukraine,804,2006,7759
+United Arab Emirates,784,2006,89202
+United Kingdom,826,2006,37882
+United States,840,2006,50795
+Uruguay,858,2006,13231
+Uzbekistan,860,2006,3262
+Vanuatu,548,2006,2639
+Venezuela (Bolivarian Republic of),862,2006,16443
+Viet Nam,704,2006,3557
+Yemen,887,2006,3279
+Zambia,894,2006,2409
+Zimbabwe,716,2006,1759
+Afghanistan,4,2007,1361
+Albania,8,2007,8671
+Algeria,12,2007,12419
+Andorra,20,2007,52786
+Angola,24,2007,5327
+Antigua and Barbuda,28,2007,25479
+Argentina,32,2007,17586
+Armenia,51,2007,7425
+Australia,36,2007,39025
+Austria,40,2007,43896
+Azerbaijan,31,2007,11155
+Bahamas,44,2007,32076
+Bahrain,48,2007,42696
+Bangladesh,50,2007,2362
+Barbados,52,2007,16405
+Belarus,112,2007,13446
+Belgium,56,2007,42179
+Belize,84,2007,6916
+Benin,204,2007,1791
+Bhutan,64,2007,5552
+Bolivia (Plurinational State of),68,2007,4743
+Bosnia and Herzegovina,70,2007,9599
+Botswana,72,2007,12293
+Brazil,76,2007,13061
+Brunei Darussalam,96,2007,85361
+Bulgaria,100,2007,13447
+Burkina Faso,854,2007,1340
+Burundi,108,2007,704
+Cabo Verde,132,2007,5648
+Cambodia,116,2007,2255
+Cameroon,120,2007,2792
+Canada,124,2007,41136
+Central African Republic,140,2007,880
+Chad,148,2007,1493
+Chile,152,2007,16410
+China,156,2007,7281
+Colombia,170,2007,10100
+Comoros,174,2007,2345
+Congo,178,2007,3131
+Costa Rica,188,2007,12022
+Croatia,191,2007,21755
+Cuba,192,2007,6156
+Cyprus,196,2007,33342
+Czechia,203,2007,26958
+CÃ´te d'Ivoire,384,2007,2548
+Denmark,208,2007,46609
+Djibouti,262,2007,2365
+Dominica,212,2007,9197
+Dominican Republic,214,2007,9927
+Ecuador,218,2007,8485
+Egypt,818,2007,9076
+El Salvador,222,2007,6026
+Equatorial Guinea,226,2007,30141
+Eritrea,232,2007,2153
+Estonia,233,2007,25555
+Eswatini (Kingdom of),748,2007,8015
+Ethiopia,231,2007,861
+Fiji,242,2007,7208
+Finland,246,2007,42604
+France,250,2007,38425
+Gabon,266,2007,14715
+Gambia,270,2007,1369
+Georgia,268,2007,6561
+Germany,276,2007,41080
+Ghana,288,2007,2627
+Greece,300,2007,31243
+Grenada,308,2007,11218
+Guatemala,320,2007,6552
+Guinea,324,2007,1570
+Guinea-Bissau,624,2007,1376
+Guyana,328,2007,5427
+Haiti,332,2007,1607
+Honduras,340,2007,3818
+Hong Kong; China (SAR),344,2007,47452
+Hungary,348,2007,21944
+Iceland,352,2007,42014
+India,356,2007,3833
+Indonesia,360,2007,7164
+Iran (Islamic Republic of),364,2007,17554
+Iraq,368,2007,11972
+Ireland,372,2007,42012
+Israel,376,2007,28643
+Italy,380,2007,38642
+Jamaica,388,2007,8243
+Japan,392,2007,37821
+Jordan,400,2007,9726
+Kazakhstan,398,2007,17233
+Kenya,404,2007,2346
+Kiribati,296,2007,2726
+Korea (Republic of),410,2007,27932
+Kuwait,414,2007,106529
+Kyrgyzstan,417,2007,2527
+Lao People's Democratic Republic,418,2007,3418
+Latvia,428,2007,21284
+Lebanon,422,2007,11852
+Lesotho,426,2007,2868
+Liberia,430,2007,988
+Libya,434,2007,25347
+Liechtenstein,438,2007,103380
+Lithuania,440,2007,21881
+Luxembourg,442,2007,91519
+Madagascar,450,2007,1452
+Malawi,454,2007,938
+Malaysia,458,2007,19606
+Maldives,462,2007,10184
+Mali,466,2007,1747
+Malta,470,2007,26809
+Marshall Islands,584,2007,4035
+Mauritania,478,2007,3536
+Mauritius,480,2007,14491
+Mexico,484,2007,16488
+Micronesia (Federated States of),583,2007,3372
+Moldova (Republic of),498,2007,4727
+Mongolia,496,2007,6905
+Montenegro,499,2007,13767
+Morocco,504,2007,5824
+Mozambique,508,2007,792
+Myanmar,104,2007,2814
+Namibia,516,2007,8246
+Nauru,520,2007,5640
+Nepal,524,2007,1767
+Netherlands,528,2007,46861
+New Zealand,554,2007,30778
+Nicaragua,558,2007,3859
+Niger,562,2007,772
+Nigeria,566,2007,4207
+North Macedonia,807,2007,9985
+Norway,578,2007,64859
+Oman,512,2007,42549
+Pakistan,586,2007,4170
+Palau,585,2007,13772
+Palestine; State of,275,2007,3831
+Panama,591,2007,13036
+Papua New Guinea,598,2007,2627
+Paraguay,600,2007,8123
+Peru,604,2007,8007
+Philippines,608,2007,6058
+Poland,616,2007,18903
+Portugal,620,2007,26694
+Qatar,634,2007,110766
+Romania,642,2007,16494
+Russian Federation,643,2007,22542
+Rwanda,646,2007,1187
+Saint Kitts and Nevis,659,2007,23803
+Saint Lucia,662,2007,11059
+Saint Vincent and the Grenadines,670,2007,9563
+Samoa,882,2007,5348
+Sao Tome and Principe,678,2007,2419
+Saudi Arabia,682,2007,45861
+Senegal,686,2007,2722
+Serbia,688,2007,12506
+Seychelles,690,2007,19508
+Sierra Leone,694,2007,1184
+Singapore,702,2007,67296
+Slovakia,703,2007,23310
+Slovenia,705,2007,29483
+Solomon Islands,90,2007,1711
+South Africa,710,2007,11545
+Spain,724,2007,33494
+Sri Lanka,144,2007,7250
+Sudan,729,2007,2967
+Suriname,740,2007,12952
+Sweden,752,2007,45438
+Switzerland,756,2007,56611
+Syrian Arab Republic,760,2007,5725
+Tajikistan,762,2007,2135
+Tanzania (United Republic of),834,2007,2025
+Thailand,764,2007,12176
+Timor-Leste,626,2007,6646
+Togo,768,2007,1164
+Tonga,776,2007,4742
+Trinidad and Tobago,780,2007,29676
+Tunisia,788,2007,9248
+Turkey,792,2007,17734
+Turkmenistan,795,2007,7590
+Tuvalu,798,2007,5463
+Uganda,800,2007,1394
+Ukraine,804,2007,8400
+United Arab Emirates,784,2007,80087
+United Kingdom,826,2007,38325
+United States,840,2007,51457
+Uruguay,858,2007,14070
+Uzbekistan,860,2007,3685
+Vanuatu,548,2007,2692
+Venezuela (Bolivarian Republic of),862,2007,18014
+Viet Nam,704,2007,3752
+Yemen,887,2007,3703
+Zambia,894,2007,2490
+Zimbabwe,716,2007,1662
+Afghanistan,4,2008,1358
+Albania,8,2008,9199
+Algeria,12,2008,12640
+Andorra,20,2008,47574
+Angola,24,2008,5437
+Antigua and Barbuda,28,2008,24945
+Argentina,32,2008,18137
+Armenia,51,2008,8045
+Australia,36,2008,39780
+Austria,40,2008,44815
+Azerbaijan,31,2008,12858
+Bahamas,44,2008,31323
+Bahrain,48,2008,41154
+Bangladesh,50,2008,2501
+Barbados,52,2008,16160
+Belarus,112,2008,14809
+Belgium,56,2008,42589
+Belize,84,2008,7002
+Benin,204,2008,1838
+Bhutan,64,2008,5678
+Bolivia (Plurinational State of),68,2008,4975
+Bosnia and Herzegovina,70,2008,10214
+Botswana,72,2008,12834
+Brazil,76,2008,13547
+Brunei Darussalam,96,2008,82688
+Bulgaria,100,2008,14811
+Burkina Faso,854,2008,1395
+Burundi,108,2008,716
+Cabo Verde,132,2008,5918
+Cambodia,116,2008,2354
+Cameroon,120,2008,2830
+Canada,124,2008,41093
+Central African Republic,140,2008,878
+Chad,148,2008,1444
+Chile,152,2008,17598
+China,156,2008,7974
+Colombia,170,2008,10254
+Comoros,174,2008,2372
+Congo,178,2008,3614
+Costa Rica,188,2008,12502
+Croatia,191,2008,22037
+Cuba,192,2008,6400
+Cyprus,196,2008,35274
+Czechia,203,2008,27441
+CÃ´te d'Ivoire,384,2008,2562
+Denmark,208,2008,46379
+Djibouti,262,2008,2415
+Dominica,212,2008,9916
+Dominican Republic,214,2008,10265
+Ecuador,218,2008,9013
+Egypt,818,2008,9547
+El Salvador,222,2008,6168
+Equatorial Guinea,226,2008,29473
+Eritrea,232,2008,1895
+Estonia,233,2008,24619
+Eswatini (Kingdom of),748,2008,7917
+Ethiopia,231,2008,928
+Fiji,242,2008,7184
+Finland,246,2008,42656
+France,250,2008,38379
+Gabon,266,2008,13543
+Gambia,270,2008,1414
+Georgia,268,2008,6623
+Germany,276,2008,41393
+Ghana,288,2008,2799
+Greece,300,2008,30930
+Grenada,308,2008,11325
+Guatemala,320,2008,6641
+Guinea,324,2008,1564
+Guinea-Bissau,624,2008,1369
+Guyana,328,2008,5462
+Haiti,332,2008,1596
+Honduras,340,2008,3878
+Hong Kong; China (SAR),344,2008,49409
+Hungary,348,2008,22297
+Iceland,352,2008,35114
+India,356,2008,3887
+Indonesia,360,2008,7539
+Iran (Islamic Republic of),364,2008,17416
+Iraq,368,2008,13200
+Ireland,372,2008,39387
+Israel,376,2008,28431
+Italy,380,2008,37608
+Jamaica,388,2008,8241
+Japan,392,2008,37233
+Jordan,400,2008,9827
+Kazakhstan,398,2008,16858
+Kenya,404,2008,2295
+Kiribati,296,2008,2661
+Korea (Republic of),410,2008,28590
+Kuwait,414,2008,99649
+Kyrgyzstan,417,2008,2649
+Lao People's Democratic Republic,418,2008,3579
+Latvia,428,2008,21111
+Lebanon,422,2008,12767
+Lesotho,426,2008,3008
+Liberia,430,2008,1016
+Libya,434,2008,28539
+Liechtenstein,438,2008,100278
+Lithuania,440,2008,22756
+Luxembourg,442,2008,86052
+Madagascar,450,2008,1515
+Malawi,454,2008,982
+Malaysia,458,2008,19950
+Maldives,462,2008,11215
+Mali,466,2008,1778
+Malta,470,2008,27708
+Marshall Islands,584,2008,3926
+Mauritania,478,2008,3522
+Mauritius,480,2008,15056
+Mexico,484,2008,16476
+Micronesia (Federated States of),583,2008,3284
+Moldova (Republic of),498,2008,5117
+Mongolia,496,2008,7351
+Montenegro,499,2008,14786
+Morocco,504,2008,6104
+Mozambique,508,2008,829
+Myanmar,104,2008,3083
+Namibia,516,2008,8324
+Nauru,520,2008,5824
+Nepal,524,2008,1854
+Netherlands,528,2008,46360
+New Zealand,554,2008,30197
+Nicaragua,558,2008,3937
+Niger,562,2008,812
+Nigeria,566,2008,4375
+North Macedonia,807,2008,10907
+Norway,578,2008,64254
+Oman,512,2008,43322
+Pakistan,586,2008,4155
+Palau,585,2008,13115
+Palestine; State of,275,2008,3965
+Panama,591,2008,14170
+Papua New Guinea,598,2008,2612
+Paraguay,600,2008,8635
+Peru,604,2008,8762
+Philippines,608,2008,6222
+Poland,616,2008,20031
+Portugal,620,2008,26526
+Qatar,634,2008,109401
+Romania,642,2008,18478
+Russian Federation,643,2008,23557
+Rwanda,646,2008,1282
+Saint Kitts and Nevis,659,2008,25126
+Saint Lucia,662,2008,11411
+Saint Vincent and the Grenadines,670,2008,10222
+Samoa,882,2008,5360
+Sao Tome and Principe,678,2008,2468
+Saudi Arabia,682,2008,47603
+Senegal,686,2008,2764
+Serbia,688,2008,13173
+Seychelles,690,2008,18353
+Sierra Leone,694,2008,1251
+Singapore,702,2008,64409
+Slovakia,703,2008,24896
+Slovenia,705,2008,30313
+Solomon Islands,90,2008,1630
+South Africa,710,2008,11777
+South Sudan,728,2008,2399
+Spain,724,2008,33248
+Sri Lanka,144,2008,7537
+Sudan,729,2008,3118
+Suriname,740,2008,13423
+Sweden,752,2008,45030
+Switzerland,756,2008,53101
+Syrian Arab Republic,760,2008,5754
+Tajikistan,762,2008,2273
+Tanzania (United Republic of),834,2008,2085
+Thailand,764,2008,12297
+Timor-Leste,626,2008,7176
+Togo,768,2008,1189
+Tonga,776,2008,4834
+Trinidad and Tobago,780,2008,30565
+Tunisia,788,2008,9486
+Turkey,792,2008,17662
+Turkmenistan,795,2008,8369
+Tuvalu,798,2008,5333
+Uganda,800,2008,1471
+Ukraine,804,2008,8694
+United Arab Emirates,784,2008,70366
+United Kingdom,826,2008,37721
+United States,840,2008,51048
+Uruguay,858,2008,14919
+Uzbekistan,860,2008,4005
+Vanuatu,548,2008,2955
+Venezuela (Bolivarian Republic of),862,2008,18486
+Viet Nam,704,2008,3918
+Yemen,887,2008,3575
+Zambia,894,2008,2705
+Zimbabwe,716,2008,1308
+Afghanistan,4,2009,1498
+Albania,8,2009,9376
+Algeria,12,2009,12602
+Andorra,20,2009,45492
+Angola,24,2009,5863
+Antigua and Barbuda,28,2009,21655
+Argentina,32,2009,16791
+Armenia,51,2009,6811
+Australia,36,2009,39939
+Austria,40,2009,42640
+Azerbaijan,31,2009,14628
+Bahamas,44,2009,29258
+Bahrain,48,2009,37214
+Bangladesh,50,2009,2603
+Barbados,52,2009,15601
+Belarus,112,2009,14764
+Belgium,56,2009,40410
+Belize,84,2009,7266
+Benin,204,2009,1823
+Bhutan,64,2009,5917
+Bolivia (Plurinational State of),68,2009,5028
+Bosnia and Herzegovina,70,2009,9969
+Botswana,72,2009,12128
+Brazil,76,2009,13424
+Brunei Darussalam,96,2009,80279
+Bulgaria,100,2009,14715
+Burkina Faso,854,2009,1393
+Burundi,108,2009,714
+Cabo Verde,132,2009,5776
+Cambodia,116,2009,2313
+Cameroon,120,2009,2847
+Canada,124,2009,39347
+Central African Republic,140,2009,947
+Chad,148,2009,1669
+Chile,152,2009,17299
+China,156,2009,8613
+Colombia,170,2009,10305
+Comoros,174,2009,2391
+Congo,178,2009,4068
+Costa Rica,188,2009,12049
+Croatia,191,2009,20348
+Cuba,192,2009,6428
+Cyprus,196,2009,32678
+Czechia,203,2009,25796
+CÃ´te d'Ivoire,384,2009,2580
+Denmark,208,2009,43817
+Djibouti,262,2009,2451
+Dominica,212,2009,9921
+Dominican Republic,214,2009,10233
+Ecuador,218,2009,8951
+Egypt,818,2009,9734
+El Salvador,222,2009,5951
+Equatorial Guinea,226,2009,29598
+Eritrea,232,2009,1932
+Estonia,233,2009,21516
+Eswatini (Kingdom of),748,2009,7825
+Ethiopia,231,2009,980
+Fiji,242,2009,7165
+Finland,246,2009,39370
+France,250,2009,37135
+Gabon,266,2009,14200
+Gambia,270,2009,1454
+Georgia,268,2009,6455
+Germany,276,2009,39673
+Ghana,288,2009,2863
+Greece,300,2009,29749
+Grenada,308,2009,10209
+Guatemala,320,2009,6501
+Guinea,324,2009,1511
+Guinea-Bissau,624,2009,1386
+Guyana,328,2009,5652
+Haiti,332,2009,1623
+Honduras,340,2009,3681
+Hong Kong; China (SAR),344,2009,46785
+Hungary,348,2009,21195
+Iceland,352,2009,33274
+India,356,2009,4134
+Indonesia,360,2009,7788
+Iran (Islamic Republic of),364,2009,17337
+Iraq,368,2009,13042
+Ireland,372,2009,35691
+Israel,376,2009,27942
+Italy,380,2009,35688
+Jamaica,388,2009,7730
+Japan,392,2009,35175
+Jordan,400,2009,9830
+Kazakhstan,398,2009,17686
+Kenya,404,2009,2306
+Kiribati,296,2009,2489
+Korea (Republic of),410,2009,28579
+Kuwait,414,2009,88457
+Kyrgyzstan,417,2009,2700
+Lao People's Democratic Republic,418,2009,3856
+Latvia,428,2009,19929
+Lebanon,422,2009,13630
+Lesotho,426,2009,2936
+Liberia,430,2009,1004
+Libya,434,2009,28040
+Liechtenstein,438,2009,85104
+Lithuania,440,2009,20672
+Luxembourg,442,2009,62099
+Madagascar,450,2009,1407
+Malawi,454,2009,1028
+Malaysia,458,2009,19515
+Maldives,462,2009,10287
+Mali,466,2009,1798
+Malta,470,2009,25659
+Marshall Islands,584,2009,3858
+Mauritania,478,2009,3461
+Mauritius,480,2009,15351
+Mexico,484,2009,15334
+Micronesia (Federated States of),583,2009,3443
+Moldova (Republic of),498,2009,4648
+Mongolia,496,2009,7057
+Montenegro,499,2009,13706
+Morocco,504,2009,6210
+Mozambique,508,2009,886
+Myanmar,104,2009,3387
+Namibia,516,2009,8176
+Nauru,520,2009,6901
+Nepal,524,2009,1926
+Netherlands,528,2009,45277
+New Zealand,554,2009,30816
+Nicaragua,558,2009,3733
+Niger,562,2009,774
+Nigeria,566,2009,4573
+North Macedonia,807,2009,10911
+Norway,578,2009,63017
+Oman,512,2009,43636
+Pakistan,586,2009,4205
+Palau,585,2009,13342
+Palestine; State of,275,2009,4092
+Panama,591,2009,14004
+Papua New Guinea,598,2009,2728
+Paraguay,600,2009,8461
+Peru,604,2009,8847
+Philippines,608,2009,6407
+Poland,616,2009,20315
+Portugal,620,2009,25753
+Qatar,634,2009,103834
+Romania,642,2009,17801
+Russian Federation,643,2009,21688
+Rwanda,646,2009,1326
+Saint Kitts and Nevis,659,2009,24043
+Saint Lucia,662,2009,11343
+Saint Vincent and the Grenadines,670,2009,10157
+Samoa,882,2009,5142
+Sao Tome and Principe,678,2009,2457
+Saudi Arabia,682,2009,45276
+Senegal,686,2009,2725
+Serbia,688,2009,13006
+Seychelles,690,2009,18468
+Sierra Leone,694,2009,1275
+Singapore,702,2009,61565
+Slovakia,703,2009,23801
+Slovenia,705,2009,27963
+Solomon Islands,90,2009,1300
+South Africa,710,2009,11535
+South Sudan,728,2009,2403
+Spain,724,2009,32044
+Sri Lanka,144,2009,7835
+Sudan,729,2009,3130
+Suriname,740,2009,13608
+Sweden,752,2009,41885
+Switzerland,756,2009,55849
+Syrian Arab Republic,760,2009,5964
+Tajikistan,762,2009,2306
+Tanzania (United Republic of),834,2009,2134
+Thailand,764,2009,12164
+Timor-Leste,626,2009,8220
+Togo,768,2009,1220
+Tonga,776,2009,4971
+Trinidad and Tobago,780,2009,28806
+Tunisia,788,2009,9740
+Turkey,792,2009,16584
+Turkmenistan,795,2009,8674
+Tuvalu,798,2009,5423
+Uganda,800,2009,1523
+Ukraine,804,2009,7359
+United Arab Emirates,784,2009,59484
+United Kingdom,826,2009,35907
+United States,840,2009,49292
+Uruguay,858,2009,15455
+Uzbekistan,860,2009,4134
+Vanuatu,548,2009,2888
+Venezuela (Bolivarian Republic of),862,2009,17417
+Viet Nam,704,2009,3705
+Yemen,887,2009,4490
+Zambia,894,2009,3031
+Zimbabwe,716,2009,1399
+Afghanistan,4,2010,1675
+Albania,8,2010,9828
+Algeria,12,2010,12946
+Andorra,20,2010,43061
+Angola,24,2010,5818
+Antigua and Barbuda,28,2010,20096
+Argentina,32,2010,18279
+Armenia,51,2010,7061
+Australia,36,2010,39982
+Austria,40,2010,43700
+Azerbaijan,31,2010,15425
+Bahamas,44,2010,29085
+Bahrain,48,2010,37246
+Bangladesh,50,2010,2723
+Barbados,52,2010,15874
+Belarus,112,2010,15978
+Belgium,56,2010,42385
+Belize,84,2010,7109
+Benin,204,2010,1805
+Bhutan,64,2010,6435
+Bolivia (Plurinational State of),68,2010,5111
+Bosnia and Herzegovina,70,2010,9923
+Botswana,72,2010,12673
+Brazil,76,2010,14194
+Brunei Darussalam,96,2010,80394
+Bulgaria,100,2010,14975
+Burkina Faso,854,2010,1389
+Burundi,108,2010,730
+Cabo Verde,132,2010,5680
+Cambodia,116,2010,2410
+Cameroon,120,2010,2848
+Canada,124,2010,39996
+Central African Republic,140,2010,987
+Chad,148,2010,1850
+Chile,152,2010,17989
+China,156,2010,9458
+Colombia,170,2010,10567
+Comoros,174,2010,2424
+Congo,178,2010,4051
+Costa Rica,188,2010,12485
+Croatia,191,2010,20177
+Cuba,192,2010,6601
+Cyprus,196,2010,32881
+Czechia,203,2010,26237
+CÃ´te d'Ivoire,384,2010,2573
+Denmark,208,2010,44726
+Djibouti,262,2010,2494
+Dominica,212,2010,10074
+Dominican Republic,214,2010,10955
+Ecuador,218,2010,9168
+Egypt,818,2010,9828
+El Salvador,222,2010,6096
+Equatorial Guinea,226,2010,21716
+Eritrea,232,2010,1941
+Estonia,233,2010,21539
+Eswatini (Kingdom of),748,2010,7819
+Ethiopia,231,2010,1071
+Fiji,242,2010,7125
+Finland,246,2010,40389
+France,250,2010,37674
+Gabon,266,2010,13960
+Gambia,270,2010,1503
+Georgia,268,2010,6769
+Germany,276,2010,41236
+Ghana,288,2010,2977
+Greece,300,2010,28134
+Grenada,308,2010,10445
+Guatemala,320,2010,6537
+Guinea,324,2010,1559
+Guinea-Bissau,624,2010,1424
+Guyana,328,2010,5793
+Haiti,332,2010,1513
+Honduras,340,2010,3731
+Hong Kong; China (SAR),344,2010,49139
+Hungary,348,2010,21359
+Iceland,352,2010,32619
+India,356,2010,4403
+Indonesia,360,2010,8234
+Iran (Islamic Republic of),364,2010,18142
+Iraq,368,2010,13305
+Ireland,372,2010,36300
+Israel,376,2010,29110
+Italy,380,2010,36128
+Jamaica,388,2010,7714
+Japan,392,2010,36685
+Jordan,400,2010,9306
+Kazakhstan,398,2010,17928
+Kenya,404,2010,2427
+Kiribati,296,2010,2565
+Korea (Republic of),410,2010,30387
+Kuwait,414,2010,80290
+Kyrgyzstan,417,2010,2601
+Lao People's Democratic Republic,418,2010,3970
+Latvia,428,2010,18481
+Lebanon,422,2010,14212
+Lesotho,426,2010,3044
+Liberia,430,2010,1020
+Libya,434,2010,28751
+Liechtenstein,438,2010,89070
+Lithuania,440,2010,20672
+Luxembourg,442,2010,66588
+Madagascar,450,2010,1371
+Malawi,454,2010,1061
+Malaysia,458,2010,20374
+Maldives,462,2010,10526
+Mali,466,2010,1804
+Malta,470,2010,26854
+Marshall Islands,584,2010,3923
+Mauritania,478,2010,3398
+Mauritius,480,2010,15783
+Mexico,484,2010,15970
+Micronesia (Federated States of),583,2010,3439
+Moldova (Republic of),498,2010,5073
+Mongolia,496,2010,7086
+Montenegro,499,2010,13921
+Morocco,504,2010,6366
+Mozambique,508,2010,913
+Myanmar,104,2010,3688
+Namibia,516,2010,8348
+Nauru,520,2010,7694
+Nepal,524,2010,2002
+Netherlands,528,2010,46241
+New Zealand,554,2010,30643
+Nicaragua,558,2010,3855
+Niger,562,2010,806
+Nigeria,566,2010,4793
+North Macedonia,807,2010,11192
+Norway,578,2010,62994
+Oman,512,2010,42949
+Pakistan,586,2010,4227
+Palau,585,2010,13539
+Palestine; State of,275,2010,4287
+Panama,591,2010,14182
+Papua New Guinea,598,2010,2854
+Paraguay,600,2010,9275
+Peru,604,2010,9360
+Philippines,608,2010,6737
+Poland,616,2010,20986
+Portugal,620,2010,26318
+Qatar,634,2010,109354
+Romania,642,2010,17207
+Russian Federation,643,2010,22647
+Rwanda,646,2010,1386
+Saint Kitts and Nevis,659,2010,23640
+Saint Lucia,662,2010,11337
+Saint Vincent and the Grenadines,670,2010,9832
+Samoa,882,2010,5240
+Sao Tome and Principe,678,2010,2567
+Saudi Arabia,682,2010,45958
+Senegal,686,2010,2749
+Serbia,688,2010,13083
+Seychelles,690,2010,19226
+Sierra Leone,694,2010,1222
+Singapore,702,2010,72280
+Slovakia,703,2010,24585
+Slovenia,705,2010,28291
+Solomon Islands,90,2010,1364
+South Africa,710,2010,11723
+South Sudan,728,2010,2421
+Spain,724,2010,32045
+Sri Lanka,144,2010,8409
+Sudan,729,2010,3128
+Suriname,740,2010,13793
+Sweden,752,2010,44175
+Switzerland,756,2010,59150
+Syrian Arab Republic,760,2010,6086
+Tajikistan,762,2010,2704
+Tanzania (United Republic of),834,2010,2187
+Thailand,764,2010,12921
+Timor-Leste,626,2010,8155
+Togo,768,2010,1259
+Tonga,776,2010,5153
+Trinidad and Tobago,780,2010,29737
+Tunisia,788,2010,9977
+Turkey,792,2010,17804
+Turkmenistan,795,2010,9109
+Tuvalu,798,2010,4779
+Uganda,800,2010,1559
+Ukraine,804,2010,7715
+United Arab Emirates,784,2010,55342
+United Kingdom,826,2010,36534
+United States,840,2010,50297
+Uruguay,858,2010,16521
+Uzbekistan,860,2010,4373
+Vanuatu,548,2010,2846
+Venezuela (Bolivarian Republic of),862,2010,16783
+Viet Nam,704,2010,4266
+Yemen,887,2010,3688
+Zambia,894,2010,3114
+Zimbabwe,716,2010,1689
+Afghanistan,4,2011,1625
+Albania,8,2011,10210
+Algeria,12,2011,12908
+Andorra,20,2011,41402
+Angola,24,2011,5796
+Antigua and Barbuda,28,2011,19264
+Argentina,32,2011,19251
+Armenia,51,2011,7269
+Australia,36,2011,40281
+Austria,40,2011,44603
+Azerbaijan,31,2011,14676
+Bahamas,44,2011,28953
+Bahrain,48,2011,35445
+Bangladesh,50,2011,2861
+Barbados,52,2011,15281
+Belarus,112,2011,16815
+Belgium,56,2011,41700
+Belize,84,2011,7318
+Benin,204,2011,1817
+Bhutan,64,2011,6814
+Bolivia (Plurinational State of),68,2011,5257
+Bosnia and Herzegovina,70,2011,10057
+Botswana,72,2011,14036
+Brazil,76,2011,14670
+Brunei Darussalam,96,2011,80283
+Bulgaria,100,2011,15184
+Burkina Faso,854,2011,1418
+Burundi,108,2011,733
+Cabo Verde,132,2011,5863
+Cambodia,116,2011,2534
+Cameroon,120,2011,2884
+Canada,124,2011,40880
+Central African Republic,140,2011,1020
+Chad,148,2011,1805
+Chile,152,2011,19112
+China,156,2011,10259
+Colombia,170,2011,11151
+Comoros,174,2011,2463
+Congo,178,2011,3976
+Costa Rica,188,2011,12850
+Croatia,191,2011,20192
+Cuba,192,2011,6821
+Cyprus,196,2011,33145
+Czechia,203,2011,26617
+CÃ´te d'Ivoire,384,2011,2398
+Denmark,208,2011,45340
+Djibouti,262,2011,2562
+Dominica,212,2011,10027
+Dominican Republic,214,2011,11137
+Ecuador,218,2011,9727
+Egypt,818,2011,9727
+El Salvador,222,2011,6295
+Equatorial Guinea,226,2011,22402
+Eritrea,232,2011,2084
+Estonia,233,2011,23313
+Eswatini (Kingdom of),748,2011,8317
+Ethiopia,231,2011,1159
+Fiji,242,2011,7293
+Finland,246,2011,40868
+France,250,2011,38436
+Gabon,266,2011,13814
+Gambia,270,2011,1390
+Georgia,268,2011,7325
+Germany,276,2011,43770
+Ghana,288,2011,3264
+Greece,300,2011,25428
+Grenada,308,2011,10590
+Guatemala,320,2011,6630
+Guinea,324,2011,1604
+Guinea-Bissau,624,2011,1516
+Guyana,328,2011,6085
+Haiti,332,2011,1577
+Honduras,340,2011,3764
+Hong Kong; China (SAR),344,2011,51454
+Hungary,348,2011,21784
+Iceland,352,2011,34552
+India,356,2011,4584
+Indonesia,360,2011,8614
+Iran (Islamic Republic of),364,2011,18402
+Iraq,368,2011,13679
+Ireland,372,2011,36449
+Israel,376,2011,30157
+Italy,380,2011,36251
+Jamaica,388,2011,7821
+Japan,392,2011,36788
+Jordan,400,2011,9041
+Kazakhstan,398,2011,18215
+Kenya,404,2011,2516
+Kiribati,296,2011,2434
+Korea (Republic of),410,2011,31412
+Kuwait,414,2011,82672
+Kyrgyzstan,417,2011,2610
+Lao People's Democratic Republic,418,2011,4181
+Latvia,428,2011,19768
+Lebanon,422,2011,13759
+Lesotho,426,2011,3046
+Liberia,430,2011,1094
+Libya,434,2011,11114
+Liechtenstein,438,2011,79352
+Lithuania,440,2011,22015
+Luxembourg,442,2011,63525
+Madagascar,450,2011,1346
+Malawi,454,2011,1082
+Malaysia,458,2011,21290
+Maldives,462,2011,11162
+Mali,466,2011,1811
+Malta,470,2011,27670
+Marshall Islands,584,2011,3978
+Mauritania,478,2011,3379
+Mauritius,480,2011,16247
+Mexico,484,2011,16258
+Micronesia (Federated States of),583,2011,3519
+Moldova (Republic of),498,2011,5357
+Mongolia,496,2011,8124
+Montenegro,499,2011,14589
+Morocco,504,2011,6591
+Mozambique,508,2011,970
+Myanmar,104,2011,3864
+Namibia,516,2011,8718
+Nauru,520,2011,8162
+Nepal,524,2011,2064
+Netherlands,528,2011,47251
+New Zealand,554,2011,31252
+Nicaragua,558,2011,4047
+Niger,562,2011,793
+Nigeria,566,2011,4924
+North Macedonia,807,2011,11404
+Norway,578,2011,62729
+Oman,512,2011,39387
+Pakistan,586,2011,4278
+Palau,585,2011,14510
+Palestine; State of,275,2011,4721
+Panama,591,2011,16086
+Papua New Guinea,598,2011,2881
+Paraguay,600,2011,9668
+Peru,604,2011,9842
+Philippines,608,2011,6816
+Poland,616,2011,22025
+Portugal,620,2011,26264
+Qatar,634,2011,114214
+Romania,642,2011,17608
+Russian Federation,643,2011,23594
+Rwanda,646,2011,1455
+Saint Kitts and Nevis,659,2011,23898
+Saint Lucia,662,2011,11881
+Saint Vincent and the Grenadines,670,2011,9774
+Samoa,882,2011,5459
+Sao Tome and Principe,678,2011,2621
+Saudi Arabia,682,2011,49173
+Senegal,686,2011,2696
+Serbia,688,2011,13453
+Seychelles,690,2011,20991
+Sierra Leone,694,2011,1238
+Singapore,702,2011,73422
+Slovakia,703,2011,24896
+Slovenia,705,2011,28411
+Solomon Islands,90,2011,1489
+South Africa,710,2011,11868
+South Sudan,728,2011,2381
+Spain,724,2011,31512
+Sri Lanka,144,2011,9064
+Sudan,729,2011,3494
+Suriname,740,2011,13912
+Sweden,752,2011,44717
+Switzerland,756,2011,56832
+Syrian Arab Republic,760,2011,5752
+Tajikistan,762,2011,2863
+Tanzania (United Republic of),834,2011,2286
+Thailand,764,2011,13211
+Timor-Leste,626,2011,7974
+Togo,768,2011,1364
+Tonga,776,2011,5298
+Trinidad and Tobago,780,2011,27546
+Tunisia,788,2011,9661
+Turkey,792,2011,19481
+Turkmenistan,795,2011,10128
+Tuvalu,798,2011,4743
+Uganda,800,2011,1654
+Ukraine,804,2011,8089
+United Arab Emirates,784,2011,56592
+United Kingdom,826,2011,36966
+United States,840,2011,50813
+Uruguay,858,2011,17382
+Uzbekistan,860,2011,4645
+Vanuatu,548,2011,2820
+Venezuela (Bolivarian Republic of),862,2011,16882
+Viet Nam,704,2011,4461
+Yemen,887,2011,3876
+Zambia,894,2011,3251
+Zimbabwe,716,2011,1861
+Afghanistan,4,2012,1776
+Albania,8,2012,10293
+Algeria,12,2012,12910
+Andorra,20,2012,41386
+Angola,24,2012,6128
+Antigua and Barbuda,28,2012,19529
+Argentina,32,2012,18940
+Armenia,51,2012,7793
+Australia,36,2012,41566
+Austria,40,2012,44597
+Azerbaijan,31,2012,15056
+Bahamas,44,2012,29753
+Bahrain,48,2012,36153
+Bangladesh,50,2012,3025
+Barbados,52,2012,15733
+Belarus,112,2012,17069
+Belgium,56,2012,42125
+Belize,84,2012,7274
+Benin,204,2012,1840
+Bhutan,64,2012,6961
+Bolivia (Plurinational State of),68,2012,5360
+Bosnia and Herzegovina,70,2012,10127
+Botswana,72,2012,14576
+Brazil,76,2012,14892
+Brunei Darussalam,96,2012,80203
+Bulgaria,100,2012,15570
+Burkina Faso,854,2012,1494
+Burundi,108,2012,746
+Cabo Verde,132,2012,5832
+Cambodia,116,2012,2657
+Cameroon,120,2012,2919
+Canada,124,2012,41199
+Central African Republic,140,2012,1068
+Chad,148,2012,1902
+Chile,152,2012,20247
+China,156,2012,11090
+Colombia,170,2012,11538
+Comoros,174,2012,2479
+Congo,178,2012,4742
+Costa Rica,188,2012,13339
+Croatia,191,2012,19737
+Cuba,192,2012,7022
+Cyprus,196,2012,30718
+Czechia,203,2012,26761
+CÃ´te d'Ivoire,384,2012,2609
+Denmark,208,2012,45340
+Djibouti,262,2012,2638
+Dominica,212,2012,9746
+Dominican Republic,214,2012,11290
+Ecuador,218,2012,10136
+Egypt,818,2012,9750
+El Salvador,222,2012,6373
+Equatorial Guinea,226,2012,23988
+Eritrea,232,2012,1572
+Estonia,233,2012,24661
+Eswatini (Kingdom of),748,2012,8663
+Ethiopia,231,2012,1224
+Fiji,242,2012,7331
+Finland,246,2012,40120
+France,250,2012,38194
+Gabon,266,2012,15005
+Gambia,270,2012,1429
+Georgia,268,2012,8012
+Germany,276,2012,43827
+Ghana,288,2012,3408
+Greece,300,2012,24521
+Grenada,308,2012,10382
+Guatemala,320,2012,6747
+Guinea,324,2012,1676
+Guinea-Bissau,624,2012,1449
+Guyana,328,2012,6398
+Haiti,332,2012,1603
+Honduras,340,2012,3799
+Hong Kong; China (SAR),344,2012,51114
+Hungary,348,2012,21692
+Iceland,352,2012,35944
+India,356,2012,4760
+Indonesia,360,2012,9011
+Iran (Islamic Republic of),364,2012,16938
+Iraq,368,2012,15106
+Ireland,372,2012,36116
+Israel,376,2012,29852
+Italy,380,2012,35178
+Jamaica,388,2012,7886
+Japan,392,2012,37341
+Jordan,400,2012,8759
+Kazakhstan,398,2012,19169
+Kenya,404,2012,2550
+Kiribati,296,2012,2730
+Korea (Republic of),410,2012,32099
+Kuwait,414,2012,84858
+Kyrgyzstan,417,2012,2761
+Lao People's Democratic Republic,418,2012,4506
+Latvia,428,2012,20687
+Lebanon,422,2012,13291
+Lesotho,426,2012,3119
+Liberia,430,2012,1108
+Libya,434,2012,24327
+Liechtenstein,438,2012,70267
+Lithuania,440,2012,23326
+Luxembourg,442,2012,62078
+Madagascar,450,2012,1326
+Malawi,454,2012,1062
+Malaysia,458,2012,21836
+Maldives,462,2012,11105
+Mali,466,2012,1734
+Malta,470,2012,27927
+Marshall Islands,584,2012,3956
+Mauritania,478,2012,3449
+Mauritius,480,2012,17590
+Mexico,484,2012,16568
+Micronesia (Federated States of),583,2012,3468
+Moldova (Republic of),498,2012,5454
+Mongolia,496,2012,8981
+Montenegro,499,2012,14310
+Morocco,504,2012,6671
+Mozambique,508,2012,1021
+Myanmar,104,2012,3951
+Namibia,516,2012,8863
+Nauru,520,2012,9474
+Nepal,524,2012,2172
+Netherlands,528,2012,46735
+New Zealand,554,2012,31911
+Nicaragua,558,2012,4245
+Niger,562,2012,843
+Nigeria,566,2012,5017
+North Macedonia,807,2012,11296
+Norway,578,2012,63523
+Oman,512,2012,40034
+Pakistan,586,2012,4360
+Palau,585,2012,14923
+Palestine; State of,275,2012,4926
+Panama,591,2012,17235
+Papua New Guinea,598,2012,2947
+Paraguay,600,2012,9406
+Peru,604,2012,10497
+Philippines,608,2012,7179
+Poland,616,2012,22356
+Portugal,620,2012,25180
+Qatar,634,2012,112528
+Romania,642,2012,18044
+Russian Federation,643,2012,24388
+Rwanda,646,2012,1538
+Saint Kitts and Nevis,659,2012,23690
+Saint Lucia,662,2012,11626
+Saint Vincent and the Grenadines,670,2012,10036
+Samoa,882,2012,5458
+Sao Tome and Principe,678,2012,2590
+Saudi Arabia,682,2012,50283
+Senegal,686,2012,2754
+Serbia,688,2012,13282
+Seychelles,690,2012,21340
+Sierra Leone,694,2012,1460
+Singapore,702,2012,74094
+Slovakia,703,2012,25716
+Slovenia,705,2012,27545
+Solomon Islands,90,2012,1840
+South Africa,710,2012,11923
+South Sudan,728,2012,2234
+Spain,724,2012,30888
+Sri Lanka,144,2012,9804
+Sudan,729,2012,3758
+Suriname,740,2012,14435
+Sweden,752,2012,44360
+Switzerland,756,2012,57403
+Syrian Arab Republic,760,2012,4567
+Tajikistan,762,2012,3006
+Tanzania (United Republic of),834,2012,2328
+Thailand,764,2012,13797
+Timor-Leste,626,2012,4717
+Togo,768,2012,1361
+Tonga,776,2012,5393
+Trinidad and Tobago,780,2012,28402
+Tunisia,788,2012,9991
+Turkey,792,2012,20106
+Turkmenistan,795,2012,11077
+Tuvalu,798,2012,3971
+Uganda,800,2012,1656
+Ukraine,804,2012,8179
+United Arab Emirates,784,2012,57900
+United Kingdom,826,2012,36707
+United States,840,2012,51533
+Uruguay,858,2012,17192
+Uzbekistan,860,2012,4980
+Vanuatu,548,2012,2700
+Venezuela (Bolivarian Republic of),862,2012,17532
+Viet Nam,704,2012,4655
+Yemen,887,2012,3365
+Zambia,894,2012,3520
+Zimbabwe,716,2012,2158
+Afghanistan,4,2013,1814
+Albania,8,2013,10669
+Algeria,12,2013,12946
+Andorra,20,2013,42376
+Angola,24,2013,6294
+Antigua and Barbuda,28,2013,19276
+Argentina,32,2013,19228
+Armenia,51,2013,8169
+Australia,36,2013,42201
+Austria,40,2013,44420
+Azerbaijan,31,2013,15846
+Bahamas,44,2013,29372
+Bahrain,48,2013,37643
+Bangladesh,50,2013,3158
+Barbados,52,2013,15617
+Belarus,112,2013,17006
+Belgium,56,2013,41688
+Belize,84,2013,7185
+Benin,204,2013,1919
+Bhutan,64,2013,7096
+Bolivia (Plurinational State of),68,2013,5627
+Bosnia and Herzegovina,70,2013,10603
+Botswana,72,2013,15326
+Brazil,76,2013,15351
+Brunei Darussalam,96,2013,78725
+Bulgaria,100,2013,15596
+Burkina Faso,854,2013,1538
+Burundi,108,2013,761
+Cabo Verde,132,2013,5850
+Cambodia,116,2013,2836
+Cameroon,120,2013,2982
+Canada,124,2013,41818
+Central African Republic,140,2013,681
+Chad,148,2013,1899
+Chile,152,2013,20960
+China,156,2013,11823
+Colombia,170,2013,11996
+Comoros,174,2013,2534
+Congo,178,2013,5108
+Costa Rica,188,2013,13408
+Croatia,191,2013,19888
+Cuba,192,2013,7208
+Cyprus,196,2013,28727
+Czechia,203,2013,26672
+CÃ´te d'Ivoire,384,2013,2741
+Denmark,208,2013,45983
+Djibouti,262,2013,2823
+Dominica,212,2013,9777
+Dominican Republic,214,2013,11613
+Ecuador,218,2013,10482
+Egypt,818,2013,9712
+El Salvador,222,2013,6454
+Equatorial Guinea,226,2013,23247
+Eritrea,232,2013,1613
+Estonia,233,2013,25678
+Eswatini (Kingdom of),748,2013,9288
+Ethiopia,231,2013,1316
+Fiji,242,2013,7812
+Finland,246,2013,39563
+France,250,2013,38240
+Gabon,266,2013,15519
+Gambia,270,2013,1468
+Georgia,268,2013,8225
+Germany,276,2013,43888
+Ghana,288,2013,3687
+Greece,300,2013,23714
+Grenada,308,2013,10640
+Guatemala,320,2013,6867
+Guinea,324,2013,1714
+Guinea-Bissau,624,2013,1422
+Guyana,328,2013,6622
+Haiti,332,2013,1639
+Honduras,340,2013,3825
+Hong Kong; China (SAR),344,2013,52725
+Hungary,348,2013,22515
+Iceland,352,2013,40400
+India,356,2013,5001
+Indonesia,360,2013,9370
+Iran (Islamic Republic of),364,2013,16696
+Iraq,368,2013,15401
+Ireland,372,2013,38059
+Israel,376,2013,30679
+Italy,380,2013,34161
+Jamaica,388,2013,7802
+Japan,392,2013,38387
+Jordan,400,2013,8574
+Kazakhstan,398,2013,21010
+Kenya,404,2013,2614
+Kiribati,296,2013,3092
+Korea (Republic of),410,2013,32781
+Kuwait,414,2013,81594
+Kyrgyzstan,417,2013,2923
+Lao People's Democratic Republic,418,2013,4826
+Latvia,428,2013,21518
+Lebanon,422,2013,12771
+Lesotho,426,2013,3122
+Liberia,430,2013,1174
+Libya,434,2013,11856
+Liechtenstein,438,2013,92611
+Lithuania,440,2013,24492
+Luxembourg,442,2013,60205
+Madagascar,450,2013,1320
+Malawi,454,2013,1078
+Malaysia,458,2013,22641
+Maldives,462,2013,11185
+Mali,466,2013,1744
+Malta,470,2013,28688
+Marshall Islands,584,2013,4148
+Mauritania,478,2013,3566
+Mauritius,480,2013,18760
+Mexico,484,2013,16411
+Micronesia (Federated States of),583,2013,3395
+Moldova (Republic of),498,2013,5956
+Mongolia,496,2013,10079
+Montenegro,499,2013,14847
+Morocco,504,2013,6923
+Mozambique,508,2013,1065
+Myanmar,104,2013,4284
+Namibia,516,2013,9534
+Nauru,520,2013,12321
+Nepal,524,2013,2267
+Netherlands,528,2013,46374
+New Zealand,554,2013,32521
+Nicaragua,558,2013,4397
+Niger,562,2013,849
+Nigeria,566,2013,5220
+North Macedonia,807,2013,11589
+Norway,578,2013,63573
+Oman,512,2013,39832
+Pakistan,586,2013,4457
+Palau,585,2013,14267
+Palestine; State of,275,2013,4980
+Panama,591,2013,17914
+Papua New Guinea,598,2013,2833
+Paraguay,600,2013,10092
+Peru,604,2013,11163
+Philippines,608,2013,7637
+Poland,616,2013,22766
+Portugal,620,2013,25305
+Qatar,634,2013,112039
+Romania,642,2013,18654
+Russian Federation,643,2013,24675
+Rwanda,646,2013,1564
+Saint Kitts and Nevis,659,2013,25084
+Saint Lucia,662,2013,11502
+Saint Vincent and the Grenadines,670,2013,9994
+Samoa,882,2013,5303
+Sao Tome and Principe,678,2013,2736
+Saudi Arabia,682,2013,50244
+Senegal,686,2013,2752
+Serbia,688,2013,13634
+Seychelles,690,2013,22225
+Sierra Leone,694,2013,1661
+Singapore,702,2013,75742
+Slovakia,703,2013,26328
+Slovenia,705,2013,27253
+Solomon Islands,90,2013,1961
+South Africa,710,2013,12038
+South Sudan,728,2013,2372
+Spain,724,2013,30516
+Sri Lanka,144,2013,9996
+Sudan,729,2013,2685
+Suriname,740,2013,14896
+Sweden,752,2013,44514
+Switzerland,756,2013,57718
+Syrian Arab Republic,760,2013,3538
+Tajikistan,762,2013,3190
+Tanzania (United Republic of),834,2013,2410
+Thailand,764,2013,13840
+Timor-Leste,626,2013,6233
+Togo,768,2013,1413
+Tonga,776,2013,5252
+Trinidad and Tobago,780,2013,29770
+Tunisia,788,2013,10126
+Turkey,792,2013,21414
+Turkmenistan,795,2013,12083
+Tuvalu,798,2013,4845
+Uganda,800,2013,1658
+Ukraine,804,2013,8194
+United Arab Emirates,784,2013,60675
+United Kingdom,826,2013,36825
+United States,840,2013,52092
+Uruguay,858,2013,18306
+Uzbekistan,860,2013,5351
+Vanuatu,548,2013,2835
+Venezuela (Bolivarian Republic of),862,2013,17459
+Viet Nam,704,2013,4843
+Yemen,887,2013,3351
+Zambia,894,2013,3482
+Zimbabwe,716,2013,2239
+Afghanistan,4,2014,1796
+Albania,8,2014,10797
+Algeria,12,2014,13169
+Andorra,20,2014,44197
+Angola,24,2014,6484
+Antigua and Barbuda,28,2014,19780
+Argentina,32,2014,18562
+Armenia,51,2014,8301
+Australia,36,2014,42594
+Austria,40,2014,44306
+Azerbaijan,31,2014,16444
+Bahamas,44,2014,28661
+Bahrain,48,2014,36619
+Bangladesh,50,2014,3270
+Barbados,52,2014,15580
+Belarus,112,2014,17370
+Belgium,56,2014,41632
+Belize,84,2014,7235
+Benin,204,2014,1988
+Bhutan,64,2014,7410
+Bolivia (Plurinational State of),68,2014,5932
+Bosnia and Herzegovina,70,2014,10858
+Botswana,72,2014,15817
+Brazil,76,2014,15177
+Brunei Darussalam,96,2014,76778
+Bulgaria,100,2014,16193
+Burkina Faso,854,2014,1538
+Burundi,108,2014,767
+Cabo Verde,132,2014,5721
+Cambodia,116,2014,2959
+Cameroon,120,2014,3108
+Canada,124,2014,42546
+Central African Republic,140,2014,679
+Chad,148,2014,1971
+Chile,152,2014,21300
+China,156,2014,12742
+Colombia,170,2014,12513
+Comoros,174,2014,2529
+Congo,178,2014,5942
+Costa Rica,188,2014,13648
+Croatia,191,2014,19960
+Cuba,192,2014,7258
+Cyprus,196,2014,28908
+Czechia,203,2014,27119
+CÃ´te d'Ivoire,384,2014,2962
+Denmark,208,2014,46714
+Djibouti,262,2014,3003
+Dominica,212,2014,10163
+Dominican Republic,214,2014,12334
+Ecuador,218,2014,10702
+Egypt,818,2014,9793
+El Salvador,222,2014,6534
+Equatorial Guinea,226,2014,22773
+Eritrea,232,2014,1626
+Estonia,233,2014,26334
+Eswatini (Kingdom of),748,2014,9331
+Ethiopia,231,2014,1410
+Fiji,242,2014,8016
+Finland,246,2014,39372
+France,250,2014,38397
+Gabon,266,2014,16906
+Gambia,270,2014,1409
+Georgia,268,2014,8688
+Germany,276,2014,44529
+Ghana,288,2014,3663
+Greece,300,2014,24242
+Grenada,308,2014,10689
+Guatemala,320,2014,6976
+Guinea,324,2014,1775
+Guinea-Bissau,624,2014,1477
+Guyana,328,2014,6846
+Haiti,332,2014,1666
+Honduras,340,2014,3836
+Hong Kong; China (SAR),344,2014,53886
+Hungary,348,2014,23154
+Iceland,352,2014,40701
+India,356,2014,5315
+Indonesia,360,2014,9679
+Iran (Islamic Republic of),364,2014,17177
+Iraq,368,2014,15024
+Ireland,372,2014,41208
+Israel,376,2014,31728
+Italy,380,2014,33946
+Jamaica,388,2014,7806
+Japan,392,2014,38669
+Jordan,400,2014,8432
+Kazakhstan,398,2014,21706
+Kenya,404,2014,2676
+Kiribati,296,2014,3453
+Korea (Republic of),410,2014,33534
+Kuwait,414,2014,79290
+Kyrgyzstan,417,2014,3021
+Lao People's Democratic Republic,418,2014,5166
+Latvia,428,2014,22094
+Lebanon,422,2014,12197
+Lesotho,426,2014,3121
+Liberia,430,2014,1152
+Libya,434,2014,9285
+Liechtenstein,438,2014,95536
+Lithuania,440,2014,25912
+Luxembourg,442,2014,60323
+Madagascar,450,2014,1332
+Malawi,454,2014,1112
+Malaysia,458,2014,23686
+Maldives,462,2014,11654
+Mali,466,2014,1813
+Malta,470,2014,30663
+Marshall Islands,584,2014,4314
+Mauritania,478,2014,3629
+Mauritius,480,2014,19421
+Mexico,484,2014,16757
+Micronesia (Federated States of),583,2014,3272
+Moldova (Republic of),498,2014,6212
+Mongolia,496,2014,10384
+Montenegro,499,2014,15001
+Morocco,504,2014,6939
+Mozambique,508,2014,1103
+Myanmar,104,2014,4547
+Namibia,516,2014,10011
+Nauru,520,2014,14991
+Nepal,524,2014,2426
+Netherlands,528,2014,46129
+New Zealand,554,2014,33193
+Nicaragua,558,2014,4561
+Niger,562,2014,884
+Nigeria,566,2014,5494
+North Macedonia,807,2014,12057
+Norway,578,2014,65438
+Oman,512,2014,37675
+Pakistan,586,2014,4590
+Palau,585,2014,15092
+Palestine; State of,275,2014,4957
+Panama,591,2014,17985
+Papua New Guinea,598,2014,3469
+Paraguay,600,2014,10477
+Peru,604,2014,11392
+Philippines,608,2014,7947
+Poland,616,2014,23447
+Portugal,620,2014,25572
+Qatar,634,2014,111753
+Romania,642,2014,19558
+Russian Federation,643,2014,24465
+Rwanda,646,2014,1634
+Saint Kitts and Nevis,659,2014,24854
+Saint Lucia,662,2014,10787
+Saint Vincent and the Grenadines,670,2014,10535
+Samoa,882,2014,5320
+Sao Tome and Principe,678,2014,2883
+Saudi Arabia,682,2014,50755
+Senegal,686,2014,2846
+Serbia,688,2014,13488
+Seychelles,690,2014,22638
+Sierra Leone,694,2014,1673
+Singapore,702,2014,79236
+Slovakia,703,2014,26939
+Slovenia,705,2014,28149
+Solomon Islands,90,2014,1967
+South Africa,710,2014,12063
+South Sudan,728,2014,2310
+Spain,724,2014,31088
+Sri Lanka,144,2014,10399
+Sudan,729,2014,3772
+Suriname,740,2014,14955
+Sweden,752,2014,45157
+Switzerland,756,2014,57463
+Syrian Arab Republic,760,2014,2830
+Tajikistan,762,2014,3133
+Tanzania (United Republic of),834,2014,2494
+Thailand,764,2014,14101
+Timor-Leste,626,2014,5666
+Togo,768,2014,1463
+Tonga,776,2014,5306
+Trinidad and Tobago,780,2014,29142
+Tunisia,788,2014,10419
+Turkey,792,2014,22146
+Turkmenistan,795,2014,13041
+Tuvalu,798,2014,4186
+Uganda,800,2014,1684
+Ukraine,804,2014,8145
+United Arab Emirates,784,2014,63062
+United Kingdom,826,2014,37627
+United States,840,2014,52982
+Uruguay,858,2014,18632
+Uzbekistan,860,2014,5573
+Vanuatu,548,2014,2840
+Venezuela (Bolivarian Republic of),862,2014,17111
+Viet Nam,704,2014,5052
+Yemen,887,2014,3296
+Zambia,894,2014,3615
+Zimbabwe,716,2014,2259
+Afghanistan,4,2015,1783
+Albania,8,2015,11098
+Algeria,12,2015,13330
+Andorra,20,2015,45260
+Angola,24,2015,6440
+Antigua and Barbuda,28,2015,20279
+Argentina,32,2015,18901
+Armenia,51,2015,8482
+Australia,36,2015,43246
+Austria,40,2015,43822
+Azerbaijan,31,2015,16259
+Bahamas,44,2015,28763
+Bahrain,48,2015,42125
+Bangladesh,50,2015,3439
+Barbados,52,2015,15635
+Belarus,112,2015,16450
+Belgium,56,2015,41598
+Belize,84,2015,7523
+Benin,204,2015,1971
+Bhutan,64,2015,7807
+Bolivia (Plurinational State of),68,2015,6260
+Bosnia and Herzegovina,70,2015,11351
+Botswana,72,2015,15414
+Brazil,76,2015,14490
+Brunei Darussalam,96,2015,79110
+Bulgaria,100,2015,16662
+Burkina Faso,854,2015,1545
+Burundi,108,2015,715
+Cabo Verde,132,2015,5782
+Cambodia,116,2015,3085
+Cameroon,120,2015,3178
+Canada,124,2015,42567
+Central African Republic,140,2015,706
+Chad,148,2015,1999
+Chile,152,2015,21653
+China,156,2015,13485
+Colombia,170,2015,12951
+Comoros,174,2015,2504
+Congo,178,2015,7631
+Costa Rica,188,2015,13952
+Croatia,191,2015,20890
+Cuba,192,2015,7567
+Cyprus,196,2015,31057
+Czechia,203,2015,28498
+CÃ´te d'Ivoire,384,2015,3126
+Denmark,208,2015,47213
+Djibouti,262,2015,3231
+Dominica,212,2015,9804
+Dominican Republic,214,2015,13127
+Ecuador,218,2015,10524
+Egypt,818,2015,10069
+El Salvador,222,2015,6645
+Equatorial Guinea,226,2015,23456
+Eritrea,232,2015,1633
+Estonia,233,2015,27001
+Eswatini (Kingdom of),748,2015,9362
+Ethiopia,231,2015,1512
+Fiji,242,2015,8391
+Finland,246,2015,39473
+France,250,2015,38668
+Gabon,266,2015,16336
+Gambia,270,2015,1446
+Georgia,268,2015,8748
+Germany,276,2015,45012
+Ghana,288,2015,3735
+Greece,300,2015,24165
+Grenada,308,2015,11011
+Guatemala,320,2015,7128
+Guinea,324,2015,1805
+Guinea-Bissau,624,2015,1513
+Guyana,328,2015,7032
+Haiti,332,2015,1661
+Honduras,340,2015,3955
+Hong Kong; China (SAR),344,2015,54608
+Hungary,348,2015,23965
+Iceland,352,2015,42182
+India,356,2015,5674
+Indonesia,360,2015,10029
+Iran (Islamic Republic of),364,2015,16720
+Iraq,368,2015,14853
+Ireland,372,2015,45809
+Israel,376,2015,31814
+Italy,380,2015,34105
+Jamaica,388,2015,7751
+Japan,392,2015,39297
+Jordan,400,2015,8308
+Kazakhstan,398,2015,23175
+Kenya,404,2015,2768
+Kiribati,296,2015,4050
+Korea (Republic of),410,2015,34276
+Kuwait,414,2015,75582
+Kyrgyzstan,417,2015,3082
+Lao People's Democratic Republic,418,2015,5460
+Latvia,428,2015,22890
+Lebanon,422,2015,11755
+Lesotho,426,2015,3217
+Liberia,430,2015,1137
+Libya,434,2015,9048
+Liechtenstein,438,2015,96869
+Lithuania,440,2015,25924
+Luxembourg,442,2015,62935
+Madagascar,450,2015,1323
+Malawi,454,2015,1110
+Malaysia,458,2015,24703
+Maldives,462,2015,11658
+Mali,466,2015,1868
+Malta,470,2015,32640
+Marshall Islands,584,2015,4605
+Mauritania,478,2015,3622
+Mauritius,480,2015,20188
+Mexico,484,2015,17074
+Micronesia (Federated States of),583,2015,3728
+Moldova (Republic of),498,2015,6032
+Mongolia,496,2015,10435
+Montenegro,499,2015,15647
+Morocco,504,2015,7183
+Mozambique,508,2015,1133
+Myanmar,104,2015,4863
+Namibia,516,2015,10402
+Nauru,520,2015,15203
+Nepal,524,2015,2496
+Netherlands,528,2015,46976
+New Zealand,554,2015,33983
+Nicaragua,558,2015,4709
+Niger,562,2015,884
+Nigeria,566,2015,5540
+North Macedonia,807,2015,12338
+Norway,578,2015,66584
+Oman,512,2015,38837
+Pakistan,586,2015,4727
+Palau,585,2015,16045
+Palestine; State of,275,2015,5103
+Panama,591,2015,18636
+Papua New Guinea,598,2015,3739
+Paraguay,600,2015,10649
+Peru,604,2015,11760
+Philippines,608,2015,8290
+Poland,616,2015,24369
+Portugal,620,2015,25860
+Qatar,634,2015,114105
+Romania,642,2015,20157
+Russian Federation,643,2015,24032
+Rwanda,646,2015,1731
+Saint Kitts and Nevis,659,2015,25298
+Saint Lucia,662,2015,10480
+Saint Vincent and the Grenadines,670,2015,11497
+Samoa,882,2015,5456
+Sao Tome and Principe,678,2015,2880
+Saudi Arabia,682,2015,51509
+Senegal,686,2015,2933
+Serbia,688,2015,13677
+Seychelles,690,2015,23355
+Sierra Leone,694,2015,1309
+Singapore,702,2015,77686
+Slovakia,703,2015,27693
+Slovenia,705,2015,28128
+Solomon Islands,90,2015,2033
+South Africa,710,2015,12052
+South Sudan,728,2015,2096
+Spain,724,2015,32265
+Sri Lanka,144,2015,10789
+Sudan,729,2015,3904
+Suriname,740,2015,14448
+Sweden,752,2015,46168
+Switzerland,756,2015,58723
+Syrian Arab Republic,760,2015,2658
+Tajikistan,762,2015,3089
+Tanzania (United Republic of),834,2015,2562
+Thailand,764,2015,14466
+Timor-Leste,626,2015,8284
+Togo,768,2015,1539
+Tonga,776,2015,5534
+Trinidad and Tobago,780,2015,31160
+Tunisia,788,2015,10484
+Turkey,792,2015,23048
+Turkmenistan,795,2015,14115
+Tuvalu,798,2015,5315
+Uganda,800,2015,1717
+Ukraine,804,2015,7373
+United Arab Emirates,784,2015,66093
+United Kingdom,826,2015,38116
+United States,840,2015,54039
+Uruguay,858,2015,19036
+Uzbekistan,860,2015,5759
+Vanuatu,548,2015,2680
+Venezuela (Bolivarian Republic of),862,2015,15101
+Viet Nam,704,2015,5314
+Yemen,887,2015,2668
+Zambia,894,2015,3617
+Zimbabwe,716,2015,2226
+Afghanistan,4,2016,1766
+Albania,8,2016,11534
+Algeria,12,2016,13832
+Andorra,20,2016,46553
+Angola,24,2016,6051
+Antigua and Barbuda,28,2016,20909
+Argentina,32,2016,18249
+Armenia,51,2016,8310
+Australia,36,2016,43653
+Austria,40,2016,44621
+Azerbaijan,31,2016,15146
+Bahamas,44,2016,27791
+Bahrain,48,2016,41499
+Bangladesh,50,2016,3620
+Barbados,52,2016,15881
+Belarus,112,2016,15997
+Belgium,56,2016,42260
+Belize,84,2016,7272
+Benin,204,2016,2001
+Bhutan,64,2016,8202
+Bolivia (Plurinational State of),68,2016,6535
+Bosnia and Herzegovina,70,2016,11810
+Botswana,72,2016,15353
+Brazil,76,2016,13907
+Brunei Darussalam,96,2016,77492
+Bulgaria,100,2016,17757
+Burkina Faso,854,2016,1582
+Burundi,108,2016,689
+Cabo Verde,132,2016,5989
+Cambodia,116,2016,3248
+Cameroon,120,2016,3229
+Canada,124,2016,42691
+Central African Republic,140,2016,732
+Chad,148,2016,1836
+Chile,152,2016,21776
+China,156,2016,14311
+Colombia,170,2016,13087
+Comoros,174,2016,2504
+Congo,178,2016,6765
+Costa Rica,188,2016,14393
+Croatia,191,2016,21216
+Cuba,192,2016,7597
+Cyprus,196,2016,31358
+Czechia,203,2016,29211
+CÃ´te d'Ivoire,384,2016,3387
+Denmark,208,2016,47729
+Djibouti,262,2016,3431
+Dominica,212,2016,10179
+Dominican Republic,214,2016,13801
+Ecuador,218,2016,10208
+Egypt,818,2016,10323
+El Salvador,222,2016,6745
+Equatorial Guinea,226,2016,21365
+Eritrea,232,2016,1627
+Estonia,233,2016,27915
+Eswatini (Kingdom of),748,2016,9457
+Ethiopia,231,2016,1612
+Fiji,242,2016,8588
+Finland,246,2016,40609
+France,250,2016,38926
+Gabon,266,2016,16339
+Gambia,270,2016,1416
+Georgia,268,2016,8768
+Germany,276,2016,45577
+Ghana,288,2016,3756
+Greece,300,2016,24187
+Grenada,308,2016,11650
+Guatemala,320,2016,7199
+Guinea,324,2016,1971
+Guinea-Bissau,624,2016,1570
+Guyana,328,2016,7294
+Haiti,332,2016,1666
+Honduras,340,2016,4032
+Hong Kong; China (SAR),344,2016,55816
+Hungary,348,2016,25081
+Iceland,352,2016,44809
+India,356,2016,6075
+Indonesia,360,2016,10419
+Iran (Islamic Republic of),364,2016,18710
+Iraq,368,2016,16387
+Ireland,372,2016,50911
+Israel,376,2016,32428
+Italy,380,2016,34818
+Jamaica,388,2016,7721
+Japan,392,2016,39407
+Jordan,400,2016,8253
+Kazakhstan,398,2016,22062
+Kenya,404,2016,2875
+Kiribati,296,2016,3985
+Korea (Republic of),410,2016,35122
+Kuwait,414,2016,76145
+Kyrgyzstan,417,2016,3108
+Lao People's Democratic Republic,418,2016,5748
+Latvia,428,2016,23648
+Lebanon,422,2016,11547
+Lesotho,426,2016,3347
+Liberia,430,2016,1091
+Libya,434,2016,8799
+Liechtenstein,438,2016,97351
+Lithuania,440,2016,26860
+Luxembourg,442,2016,62818
+Madagascar,450,2016,1339
+Malawi,454,2016,1130
+Malaysia,458,2016,25394
+Maldives,462,2016,11978
+Mali,466,2016,1904
+Malta,470,2016,32619
+Marshall Islands,584,2016,4506
+Mauritania,478,2016,3636
+Mauritius,480,2016,20893
+Mexico,484,2016,17344
+Micronesia (Federated States of),583,2016,3635
+Moldova (Republic of),498,2016,6292
+Mongolia,496,2016,10324
+Montenegro,499,2016,15883
+Morocco,504,2016,7169
+Mozambique,508,2016,1138
+Myanmar,104,2016,5155
+Namibia,516,2016,10171
+Nauru,520,2016,16239
+Nepal,524,2016,2486
+Netherlands,528,2016,47008
+New Zealand,554,2016,34538
+Nicaragua,558,2016,4859
+Niger,562,2016,892
+Nigeria,566,2016,5336
+North Macedonia,807,2016,12552
+Norway,578,2016,66746
+Oman,512,2016,39066
+Pakistan,586,2016,4891
+Palau,585,2016,16325
+Palestine; State of,275,2016,5253
+Panama,591,2016,19212
+Papua New Guinea,598,2016,3810
+Paraguay,600,2016,10922
+Peru,604,2016,11956
+Philippines,608,2016,8701
+Poland,616,2016,25042
+Portugal,620,2016,26559
+Qatar,634,2016,113965
+Romania,642,2016,21173
+Russian Federation,643,2016,24096
+Rwanda,646,2016,1785
+Saint Kitts and Nevis,659,2016,25894
+Saint Lucia,662,2016,11142
+Saint Vincent and the Grenadines,670,2016,11337
+Samoa,882,2016,5795
+Sao Tome and Principe,678,2016,2962
+Saudi Arabia,682,2016,51099
+Senegal,686,2016,3018
+Serbia,688,2016,14078
+Seychelles,690,2016,23671
+Sierra Leone,694,2016,1228
+Singapore,702,2016,78759
+Slovakia,703,2016,28706
+Slovenia,705,2016,29114
+Solomon Islands,90,2016,1986
+South Africa,710,2016,11908
+South Sudan,728,2016,1686
+Spain,724,2016,33379
+Sri Lanka,144,2016,11124
+Sudan,729,2016,3994
+Suriname,740,2016,12792
+Sweden,752,2016,46662
+Switzerland,756,2016,58138
+Syrian Arab Republic,760,2016,2551
+Tajikistan,762,2016,3168
+Tanzania (United Republic of),834,2016,2648
+Thailand,764,2016,14966
+Timor-Leste,626,2016,8350
+Togo,768,2016,1545
+Tonga,776,2016,5678
+Trinidad and Tobago,780,2016,28854
+Tunisia,788,2016,10531
+Turkey,792,2016,23409
+Turkmenistan,795,2016,15236
+Tuvalu,798,2016,5239
+Uganda,800,2016,1733
+Ukraine,804,2016,7601
+United Arab Emirates,784,2016,67410
+United Kingdom,826,2016,38421
+United States,840,2016,54443
+Uruguay,858,2016,19196
+Uzbekistan,860,2016,5968
+Vanuatu,548,2016,2751
+Venezuela (Bolivarian Republic of),862,2016,12570
+Viet Nam,704,2016,5638
+Yemen,887,2016,1966
+Zambia,894,2016,3622
+Zimbabwe,716,2016,2246
+Afghanistan,4,2017,1767
+Albania,8,2017,11831
+Algeria,12,2017,13656
+Andorra,20,2017,47550
+Angola,24,2017,5950
+Antigua and Barbuda,28,2017,21349
+Argentina,32,2017,18462
+Armenia,51,2017,9064
+Australia,36,2017,43756
+Austria,40,2017,45375
+Azerbaijan,31,2017,15312
+Bahamas,44,2017,28067
+Bahrain,48,2017,41645
+Bangladesh,50,2017,3792
+Barbados,52,2017,16033
+Belarus,112,2017,16542
+Belgium,56,2017,43300
+Belize,84,2017,7059
+Benin,204,2017,2055
+Bhutan,64,2017,8472
+Bolivia (Plurinational State of),68,2017,6640
+Bosnia and Herzegovina,70,2017,12220
+Botswana,72,2017,15596
+Brazil,76,2017,13975
+Brunei Darussalam,96,2017,77188
+Bulgaria,100,2017,18874
+Burkina Faso,854,2017,1640
+Burundi,108,2017,670
+Cabo Verde,132,2017,6164
+Cambodia,116,2017,3418
+Cameroon,120,2017,3250
+Canada,124,2017,43496
+Central African Republic,140,2017,756
+Chad,148,2017,1736
+Chile,152,2017,21415
+China,156,2017,15212
+Colombia,170,2017,12963
+Comoros,174,2017,2515
+Congo,178,2017,6068
+Costa Rica,188,2017,14619
+Croatia,191,2017,22426
+Cuba,192,2017,7726
+Cyprus,196,2017,32219
+Czechia,203,2017,30530
+CÃ´te d'Ivoire,384,2017,3426
+Denmark,208,2017,48338
+Djibouti,262,2017,3469
+Dominica,212,2017,9218
+Dominican Republic,214,2017,14197
+Ecuador,218,2017,10220
+Egypt,818,2017,10473
+El Salvador,222,2017,6832
+Equatorial Guinea,226,2017,19494
+Eritrea,232,2017,1670
+Estonia,233,2017,29320
+Eswatini (Kingdom of),748,2017,9396
+Ethiopia,231,2017,1714
+Fiji,242,2017,8799
+Finland,246,2017,41142
+France,250,2017,39935
+Gabon,266,2017,16213
+Gambia,270,2017,1437
+Georgia,268,2017,9146
+Germany,276,2017,46438
+Ghana,288,2017,3943
+Greece,300,2017,24647
+Grenada,308,2017,12155
+Guatemala,320,2017,7283
+Guinea,324,2017,2201
+Guinea-Bissau,624,2017,1580
+Guyana,328,2017,7443
+Haiti,332,2017,1664
+Honduras,340,2017,4148
+Hong Kong; China (SAR),344,2017,58553
+Hungary,348,2017,25774
+Iceland,352,2017,46817
+India,356,2017,6446
+Indonesia,360,2017,10811
+Iran (Islamic Republic of),364,2017,19127
+Iraq,368,2017,15650
+Ireland,372,2017,52799
+Israel,376,2017,32860
+Italy,380,2017,35573
+Jamaica,388,2017,7870
+Japan,392,2017,40343
+Jordan,400,2017,8253
+Kazakhstan,398,2017,22025
+Kenya,404,2017,2936
+Kiribati,296,2017,3971
+Korea (Republic of),410,2017,35945
+Kuwait,414,2017,73742
+Kyrgyzstan,417,2017,3199
+Lao People's Democratic Republic,418,2017,5985
+Latvia,428,2017,24853
+Lebanon,422,2017,11635
+Lesotho,426,2017,3228
+Liberia,430,2017,1085
+Libya,434,2017,10997
+Liechtenstein,438,2017,98006
+Lithuania,440,2017,28375
+Luxembourg,442,2017,65101
+Madagascar,450,2017,1374
+Malawi,454,2017,1149
+Malaysia,458,2017,26555
+Maldives,462,2017,12234
+Mali,466,2017,1964
+Malta,470,2017,33461
+Marshall Islands,584,2017,4587
+Mauritania,478,2017,3682
+Mauritius,480,2017,21966
+Mexico,484,2017,17533
+Micronesia (Federated States of),583,2017,3700
+Moldova (Republic of),498,2017,6603
+Mongolia,496,2017,9892
+Montenegro,499,2017,16855
+Morocco,504,2017,7342
+Mozambique,508,2017,1139
+Myanmar,104,2017,5443
+Namibia,516,2017,9779
+Nauru,520,2017,17345
+Nepal,524,2017,2639
+Netherlands,528,2017,48994
+New Zealand,554,2017,34668
+Nicaragua,558,2017,5025
+Niger,562,2017,901
+Nigeria,566,2017,5203
+North Macedonia,807,2017,12570
+Norway,578,2017,67529
+Oman,512,2017,37379
+Pakistan,586,2017,5033
+Palau,585,2017,15981
+Palestine; State of,275,2017,5284
+Panama,591,2017,20066
+Papua New Guinea,598,2017,3765
+Paraguay,600,2017,11430
+Peru,604,2017,11987
+Philippines,608,2017,9133
+Poland,616,2017,26182
+Portugal,620,2017,27404
+Qatar,634,2017,113133
+Romania,642,2017,22828
+Russian Federation,643,2017,24472
+Rwanda,646,2017,1849
+Saint Kitts and Nevis,659,2017,26287
+Saint Lucia,662,2017,11599
+Saint Vincent and the Grenadines,670,2017,11333
+Samoa,882,2017,5876
+Sao Tome and Principe,678,2017,3002
+Saudi Arabia,682,2017,49371
+Senegal,686,2017,3139
+Serbia,688,2017,14280
+Seychelles,690,2017,24431
+Sierra Leone,694,2017,1360
+Singapore,702,2017,81500
+Slovakia,703,2017,29544
+Slovenia,705,2017,30777
+Solomon Islands,90,2017,1970
+South Africa,710,2017,11864
+South Sudan,728,2017,1518
+Spain,724,2017,34226
+Sri Lanka,144,2017,11378
+Sudan,729,2017,4092
+Suriname,740,2017,11607
+Sweden,752,2017,47398
+Switzerland,756,2017,57301
+Syrian Arab Republic,760,2017,2633
+Tajikistan,762,2017,3262
+Tanzania (United Republic of),834,2017,2743
+Thailand,764,2017,15548
+Timor-Leste,626,2017,7434
+Togo,768,2017,1560
+Tonga,776,2017,5836
+Trinidad and Tobago,780,2017,28786
+Tunisia,788,2017,10564
+Turkey,792,2017,24702
+Turkmenistan,795,2017,15710
+Tuvalu,798,2017,5075
+Uganda,800,2017,1727
+Ukraine,804,2017,7670
+United Arab Emirates,784,2017,67136
+United Kingdom,826,2017,39216
+United States,840,2017,55351
+Uruguay,858,2017,19400
+Uzbekistan,860,2017,6190
+Vanuatu,548,2017,2799
+Venezuela (Bolivarian Republic of),862,2017,10670
+Viet Nam,704,2017,5916
+Yemen,887,2017,1508
+Zambia,894,2017,3553
+Zimbabwe,716,2017,2318
+Afghanistan,4,2018,1746
+Albania,8,2018,12300
+Algeria,12,2018,13639
+Andorra,20,2018,48641
+Angola,24,2018,5555
+Antigua and Barbuda,28,2018,22201
+Argentina,32,2018,17611
+Armenia,51,2018,9277
+Australia,36,2018,44097
+Austria,40,2018,46231
+Azerbaijan,31,2018,15240
+Bahamas,44,2018,28395
+Bahrain,48,2018,40399
+Bangladesh,50,2018,4057
+Barbados,52,2018,15912
+Belarus,112,2018,17039
+Belgium,56,2018,43821
+Belize,84,2018,7136
+Benin,204,2018,2135
+Bhutan,64,2018,8609
+Bolivia (Plurinational State of),68,2018,6849
+Bosnia and Herzegovina,70,2018,12690
+Botswana,72,2018,15951
+Brazil,76,2018,14068
+Brunei Darussalam,96,2018,76389
+Bulgaria,100,2018,19646
+Burkina Faso,854,2018,1705
+Burundi,108,2018,660
+Cabo Verde,132,2018,6513
+Cambodia,116,2018,3597
+Cameroon,120,2018,3291
+Canada,124,2018,43602
+Central African Republic,140,2018,777
+Chad,148,2018,1716
+Chile,152,2018,21972
+China,156,2018,16127
+Colombia,170,2018,12896
+Comoros,174,2018,2426
+Congo,178,2018,5804
+Costa Rica,188,2018,14790
+Croatia,191,2018,23061
+Cuba,192,2018,7811
+Cyprus,196,2018,33100
+Czechia,203,2018,31597
+CÃ´te d'Ivoire,384,2018,3589
+Denmark,208,2018,48836
+Djibouti,262,2018,3601
+Dominica,212,2018,9245
+Dominican Republic,214,2018,15074
+Ecuador,218,2018,10141
+Egypt,818,2018,10744
+El Salvador,222,2018,6973
+Equatorial Guinea,226,2018,17796
+Eritrea,232,2018,1708
+Estonia,233,2018,30379
+Eswatini (Kingdom of),748,2018,9359
+Ethiopia,231,2018,1782
+Fiji,242,2018,9110
+Finland,246,2018,41779
+France,250,2018,40511
+Gabon,266,2018,15794
+Gambia,270,2018,1490
+Georgia,268,2018,9570
+Germany,276,2018,46946
+Ghana,288,2018,4099
+Greece,300,2018,24909
+Grenada,308,2018,12684
+Guatemala,320,2018,7378
+Guinea,324,2018,2211
+Guinea-Bissau,624,2018,1593
+Guyana,328,2018,7615
+Haiti,332,2018,1665
+Honduras,340,2018,4258
+Hong Kong; China (SAR),344,2018,60221
+Hungary,348,2018,27144
+Iceland,352,2018,47566
+India,356,2018,6829
+Indonesia,360,2018,11256
+Iran (Islamic Republic of),364,2018,18166
+Iraq,368,2018,15365
+Ireland,372,2018,55660
+Israel,376,2018,33650
+Italy,380,2018,36141
+Jamaica,388,2018,7932
+Japan,392,2018,40799
+Jordan,400,2018,8268
+Kazakhstan,398,2018,22168
+Kenya,404,2018,3052
+Kiribati,296,2018,3917
+Korea (Republic of),410,2018,36757
+Kuwait,414,2018,71164
+Kyrgyzstan,417,2018,3317
+Lao People's Democratic Republic,418,2018,6317
+Latvia,428,2018,26301
+Lebanon,422,2018,11136
+Lesotho,426,2018,3244
+Liberia,430,2018,1040
+Libya,434,2018,11685
+Liechtenstein,438,2018,99732
+Lithuania,440,2018,29775
+Luxembourg,442,2018,65543
+Madagascar,450,2018,1404
+Malawi,454,2018,1159
+Malaysia,458,2018,27227
+Maldives,462,2018,12549
+Mali,466,2018,1965
+Malta,470,2018,34795
+Marshall Islands,584,2018,4633
+Mauritania,478,2018,3746
+Mauritius,480,2018,22724
+Mexico,484,2018,17628
+Micronesia (Federated States of),583,2018,3700
+Moldova (Republic of),498,2018,6833
+Mongolia,496,2018,10784
+Montenegro,499,2018,17511
+Morocco,504,2018,7480
+Mozambique,508,2018,1154
+Myanmar,104,2018,5764
+Namibia,516,2018,9683
+Nauru,520,2018,17313
+Nepal,524,2018,2748
+Netherlands,528,2018,50013
+New Zealand,554,2018,35108
+Nicaragua,558,2018,4790
+Niger,562,2018,912
+Nigeria,566,2018,5086
+North Macedonia,807,2018,12874
+Norway,578,2018,68059
+Oman,512,2018,37039
+Pakistan,586,2018,5190
+Palau,585,2018,16720
+Palestine; State of,275,2018,5314
+Panama,591,2018,20455
+Papua New Guinea,598,2018,3686
+Paraguay,600,2018,11720
+Peru,604,2018,12323
+Philippines,608,2018,9540
+Poland,616,2018,27626
+Portugal,620,2018,27935
+Qatar,634,2018,110489
+Romania,642,2018,23906
+Russian Federation,643,2018,25036
+Rwanda,646,2018,1959
+Saint Kitts and Nevis,659,2018,26770
+Saint Lucia,662,2018,11528
+Saint Vincent and the Grenadines,670,2018,11746
+Samoa,882,2018,5885
+Sao Tome and Principe,678,2018,3024
+Saudi Arabia,682,2018,49338
+Senegal,686,2018,3256
+Serbia,688,2018,15218
+Seychelles,690,2018,25077
+Sierra Leone,694,2018,1381
+Singapore,702,2018,83793
+Slovakia,703,2018,30672
+Slovenia,705,2018,32143
+Solomon Islands,90,2018,2027
+South Africa,710,2018,11756
+South Sudan,728,2018,1455
+Spain,724,2018,35041
+Sri Lanka,144,2018,11611
+Sudan,729,2018,3962
+Suriname,740,2018,11933
+Sweden,752,2018,47955
+Switzerland,756,2018,59375
+Syrian Arab Republic,760,2018,2725
+Tajikistan,762,2018,3482
+Tanzania (United Republic of),834,2018,2805
+Thailand,764,2018,16129
+Timor-Leste,626,2018,7527
+Togo,768,2018,1593
+Tonga,776,2018,5783
+Trinidad and Tobago,780,2018,28497
+Tunisia,788,2018,10677
+Turkey,792,2018,24905
+Turkmenistan,795,2018,16407
+Tuvalu,798,2018,5409
+Uganda,800,2018,1752
+Ukraine,804,2018,7994
+United Arab Emirates,784,2018,66912
+United Kingdom,826,2018,39507
+United States,840,2018,56140
+Uruguay,858,2018,19435
+Uzbekistan,860,2018,6462
+Vanuatu,548,2018,2808
+Venezuela (Bolivarian Republic of),862,2018,9070
+Viet Nam,704,2018,6220
+Yemen,887,2018,1433
+Zambia,894,2018,3582
+Zimbabwe,716,2018,2661
