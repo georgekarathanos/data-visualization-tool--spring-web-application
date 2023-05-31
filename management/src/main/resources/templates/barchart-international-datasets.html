@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+    <title>Barchart</title>
+
+    <!-- D3.js library -->
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+   	<style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f2f2f2;
+        }
+        
+        .container {
+		    max-width: 800px;
+		     margin:auto;
+		    background-color: #ffcc99;
+		    padding: 20px;
+		    border-radius: 5px;
+		    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+		}
+
+        
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        
+        .form-group {
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        
+        .form-group label {
+            margin-right: 10px;
+            font-weight: bold;
+        }
+        
+        .form-group select {
+            width: 200px;
+            padding: 5px;
+        }
+        
+        .form-group button {
+            padding: 8px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+        .form-group button:hover {
+            background-color: #0056b3;
+        }
+        
+        .list-group-data{
+        	height: 13000px;
+        	max-width: 350px;
+        	margin-top: 20px; /* Adjust the margin as needed */
+        }
+        
+        .list-group{
+        	height: 13000px;
+        	max-width: 350px;
+        	position: relative;
+        	margin-top: 20px; /* Adjust the margin as needed */
+        }
+    </style>
+    
+    <script src="scripts/timelines.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Barchart</h1><br><br>
+        <button id="scrollToBottomBtn" class="btn btn-primary">Scroll to Bottom</button>
+         <div class="row">
+         <form action="/barcharts/datasets" method="post" onsubmit="return validateForm()">
+            <div class="form-group row">
+                <div class="col-md-6">
+                    <h3>Countries</h3>
+                    <ul class="list-group">
+                        <th:block th:unless="${#lists.isEmpty(countries)}">
+                            <tr th:each="tempCountry : ${countries}" th:if="${tempCountry.officialName != null and tempCountry.officialName != ''}">
+                                <li class="list-group-item">
+                                    <input class="form-check-input me-1" type="checkbox" name="selectedCountries" th:value="${tempCountry.isoCode}">
+                                    <label class="form-check-label" th:text="${tempCountry.officialName}"></label>
+                                </li>
+                            </tr>
+                        </th:block>
+                    </ul>
+                </div>
+                <div class=class="col-md-6">
+                    <h3>International Datasets</h3>
+                    <ul class="list-group-data">
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate1519">
+					        <label class="form-check-label">Fertility Rate 15-19</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate2024">
+					        <label class="form-check-label">Fertility Rate 20-24</label>
+					    </li>
+					    <!-- Add other field options -->
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate2529">
+					        <label class="form-check-label">Fertility Rate 25-29</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate3034">
+					        <label class="form-check-label">Fertility Rate 30-34</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate3539">
+					        <label class="form-check-label">Fertility Rate 35-39</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate4044">
+					        <label class="form-check-label">Fertility Rate 40-44</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="fertilityRate4549">
+					        <label class="form-check-label">Fertility Rate 45-49</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="totalFertilityRate">
+					        <label class="form-check-label">Total Fertility Rate</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="grossReproductionRate">
+					        <label class="form-check-label">Gross Reproduction Rate</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="sexRatioAtBirth">
+					        <label class="form-check-label">Sex Ratio at Birth</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="crudeBirthRate">
+					        <label class="form-check-label">Crude Birth Rate</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="crudeDeathRate">
+					        <label class="form-check-label">Crude Death Rate</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="netMigration">
+					        <label class="form-check-label">Net Migration</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="rateNaturalIncrease">
+					        <label class="form-check-label">Rate of Natural Increase</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="growthRate">
+					        <label class="form-check-label">Growth Rate</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="midyearPopulation">
+					        <label class="form-check-label">Midyear Population</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="totalFlag">
+					        <label class="form-check-label">Total Flag</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="startingAge">
+					        <label class="form-check-label">Starting Age</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="ageGroupIndicator">
+					        <label class="form-check-label">Age Group Indicator</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="endingAge">
+					        <label class="form-check-label">Ending Age</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="midyearPopulationSex">
+					        <label class="form-check-label">Midyear Population (Sex)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="midyearPopulationMale">
+					        <label class="form-check-label">Midyear Population (Male)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="midyearPopulationFemale">
+					        <label class="form-check-label">Midyear Population (Female)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="infantMortality">
+					        <label class="form-check-label">Infant Mortality</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="infantMortalityMale">
+					        <label class="form-check-label">Infant Mortality (Male)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="infantMortalityFemale">
+					        <label class="form-check-label">Infant Mortality (Female)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="lifeExpectancy">
+					        <label class="form-check-label">Life Expectancy</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="lifeExpectancyMale">
+					        <label class="form-check-label">Life Expectancy (Male)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="lifeExpectancyFemale">
+					        <label class="form-check-label">Life Expectancy (Female)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="mortalityRateUnder5">
+					        <label class="form-check-label">Mortality Rate Under 5</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="mortalityRateUnder5Male">
+					        <label class="form-check-label">Mortality Rate Under 5 (Male)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="mortalityRateUnder5Female">
+					        <label class="form-check-label">Mortality Rate Under 5 (Female)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="mortalityRate1to4">
+					        <label class="form-check-label">Mortality Rate 1-4</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="mortalityRate1to4Male">
+					        <label class="form-check-label">Mortality Rate 1-4 (Male)</label>
+					    </li>
+					    <li class="list-group-item">
+					        <input class="form-check-input me-1" type="checkbox" name="selectedFields" value="mortalityRate1to4Female">
+					        <label class="form-check-label">Mortality Rate 1-4 (Female)</label>
+					    </li>
+					    <li class="list-group-item">
+	                        <label for="firstYear">First Year:</label>
+	                        <input class="form-control" type="text" name="firstYear" id="firstYear">
+	                    </li>
+	                    <li class="list-group-item">
+	                        <label for="lastYear">Last Year:</label>
+	                        <input class="form-control" type="text" name="lastYear" id="lastYear">
+	                    </li>
+                    </ul>
+					</div>
+                </div>
+            </div>
+        <div class="form-group row">
+        <div class="col-md-12">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+        </form>
+    </div>   
+
+    
+    <button id="scrollToStartBtn" class="btn btn-primary">Scroll Up</button>
+    
+    <div style="position: fixed; bottom: 10px; right: 10px;">
+	    <a href="javascript:history.back()" class="btn btn-primary">Go Back</a>
+	</div>
+
+    <script>
+    function validateForm() {
+        var countryCheckboxes = document.getElementsByName("selectedCountries");
+        var fieldCheckboxes = document.getElementsByName("selectedFields");
+        var countryChecked = false;
+        var fieldChecked = false;
+
+        var firstYearInput = document.getElementById("firstYear");
+        var lastYearInput = document.getElementById("lastYear");
+        var firstYear = parseInt(firstYearInput.value);
+        var lastYear = parseInt(lastYearInput.value);
+        
+        // Check if at least one country is selected
+        for (var i = 0; i < countryCheckboxes.length; i++) {
+            if (countryCheckboxes[i].checked) {
+                countryChecked = true;
+                break;
+            }
+        }
+
+        // Check if at least one field is selected
+        for (var i = 0; i < fieldCheckboxes.length; i++) {
+            if (fieldCheckboxes[i].checked) {
+                fieldChecked = true;
+                break;
+            }
+        }
+
+        // Validate country selection
+        if (!countryChecked) {
+            alert("Please select at least one country.");
+            return false;
+        }
+
+        // Validate field selection
+        if (!fieldChecked) {
+            alert("Please select at least one field.");
+            return false;
+        }
+        
+        // Validate years
+        if (isNaN(firstYear) || isNaN(lastYear) || firstYear >= lastYear) {
+            alert("Please enter valid years. First year must be less than last year.");
+            return false;
+        }
+
+        // Form validation passed, allow form submission
+        return true;
+    }
+    var scrollToBottomBtn = document.getElementById('scrollToBottomBtn');
+    scrollToBottomBtn.addEventListener('click', function() {
+        // Scroll to the bottom of the page
+        window.scrollTo(0, document.body.scrollHeight);
+    });
+    var scrollToStartBtn = document.getElementById('scrollToStartBtn');
+    scrollToStartBtn.addEventListener('click', function() {
+    	window.scrollTo(0, 0);
+    });
+    
+    var countryCheckboxes = document.getElementsByName("selectedCountries");
+    var limit = 2;
+
+    for (var i = 0; i < countryCheckboxes.length; i++) {
+        countryCheckboxes[i].addEventListener('change', function(evt) {
+            var checkedCount = 0;
+            for (var j = 0; j < countryCheckboxes.length; j++) {
+                if (countryCheckboxes[j].checked) {
+                    checkedCount++;
+                }
+            }
+            if (checkedCount > limit) {
+                this.checked = false;
+            }
+        });
+    }
+    
+    var fieldCheckboxes = document.getElementsByName("selectedFields");
+    var limit = 2;
+
+    for (var i = 0; i < fieldCheckboxes.length; i++) {
+    	fieldCheckboxes[i].addEventListener('change', function(evt) {
+            var checkedCount = 0;
+            for (var j = 0; j < fieldCheckboxes.length; j++) {
+                if (fieldCheckboxes[j].checked) {
+                    checkedCount++;
+                }
+            }
+            if (checkedCount > limit) {
+                this.checked = false;
+            }
+        });
+    }
+
+    </script>
+</body>
+
+</html>

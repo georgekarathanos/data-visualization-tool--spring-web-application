@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+    <title>Timeline</title>
+    <style> /* set the CSS */
+        .line {
+            fill: none;
+            stroke-width: 2px;
+        }
+
+        /* Add custom styles for the container */
+        .timeline-container {
+            position: relative;
+            margin-top: 20px;
+            margin-left: 20px;
+            z-index: 2; 
+        }
+
+        /* Add custom styles for the graph container */
+        .graph-container {
+            position: relative;
+            margin-top: 100px;
+            margin-left: 20px;
+        }
+    </style>
+</head>
+
+<body>
+	<!-- <div id="debug">
+		<p>What follows is a paragraph that shows what was passed as a JSON object</p>
+		<p><span th:text="${dataGiven}"></span></p> 
+	</div> -->
+	<div class="timeline-container">
+	    <h2>Timeline</h2>
+	</div>
+	<div class="graph-container">
+    <div id="jsonData" style="display: none;">[[${dataGiven}]]</div>
+
+    <!-- append the svg obgect to the body of the page -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script>
+        if (typeof d3 === 'undefined') {
+            console.log("D3.js library is not loaded.");
+        } else {
+            console.log("D3.js library is loaded.");
+        }
+
+        // set the dimensions and margins of the graph
+        var margin = { top: 20, right: 20, bottom: 30, left: 50 },
+            width = 960 - margin.left - margin.right,
+            height = 500 - margin.top - margin.bottom;
+
+        // parse the date / time
+        var parseTime = d3.timeParse("%Y");
+
+        // set the ranges
+        var x = d3.scaleTime().range([0, width]);
+        var y = d3.scaleLinear().range([height, 0]);
+
+        // append the svg object to the body of the page
+        var svg = d3
+            .select("body")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+        function draw(data) {
+            var countries = Object.keys(data);
+            var fields = Object.keys(data[countries[0]][0]).filter(key => key !== 'Year');
+            var color = d3.scaleOrdinal(d3.schemeCategory10);
+            var lineGenerators = [];
+
+            // Format the data
+            countries.forEach(country => {
+                fields.forEach(field => {
+                    data[country].forEach(d => {
+                        d.Date = parseTime(d.Year);
+                        d[field] = +d[field];
+                    });
+                });
+            });
+
+            // Set the domains
+            x.domain(d3.extent(data[countries[0]], function (d) { return d.Date; }));
+            /*y.domain([
+                d3.min(countries, function (country) {
+                    return d3.min(data[country], function (d) {
+                        return d3.min(fields, function (field) {
+                            return d[field];
+                        });
+                    });
+                }),
+                d3.max(countries, function (country) {
+                    return d3.max(data[country], function (d) {
+                        return d3.max(fields, function (field) {
+                            return d[field];
+                        });
+                    });
+                })
+            ]);*/
+            
+            var maxValue = d3.max(countries, function (country) {
+                return d3.max(data[country], function (d) {
+                    return d3.max(fields, function (field) {
+                        return d[field];
+                    });
+                });
+            });
+
+            var yMax = maxValue + (maxValue * 0.2); // Add 20% to the max value
+
+            y.domain([0, yMax]);
+
+            // Generate line generators for each country and field combination
+            countries.forEach(country => {
+                fields.forEach(field => {
+                    var lineGenerator = d3.line()
+                        .x(function (d) { return x(d.Date); })
+                        .y(function (d) { return y(d[field]); });
+
+                    lineGenerators.push({
+                        country: country,
+                        field: field,
+                        lineGenerator: lineGenerator
+                    });
+                });
+            });
+
+            // Draw the lines
+            lineGenerators.forEach(function (lineData, index) {
+                svg.append("path")
+                    .datum(data[lineData.country])
+                    .attr("class", "line")
+                    .style("stroke", color(index))
+                    .attr("d", lineData.lineGenerator);
+            });
+
+            // Create a new SVG element for combination labels
+            var labelSvg = d3
+                .select("body")
+                .append("svg")
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", 100)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + ", 20)");
+
+            // Draw the combination labels
+            lineGenerators.forEach(function (lineData, index) {
+                labelSvg
+                    .append("text")
+                    .attr("x", (index % countries.length) * (width / countries.length))
+                    .attr("y", Math.floor(index / countries.length) * 20)
+                    .attr("fill", color(index))
+                    .text(lineData.country + " - " + lineData.field);
+            });
+
+            // Add the X Axis
+            svg.append("g")
+                .attr("transform", "translate(0," + height + ")")
+                .call(d3.axisBottom(x));
+
+            // Add the Y Axis
+            //svg.append("g").call(d3.axisLeft(y));
+            var tickValues = d3.range(0, yMax, yMax / 10); // Use yMax instead of maxValue
+
+            svg.append("g")
+                .call(d3.axisLeft(y).tickValues(tickValues));
+            
+            // Add the "Go Back" button
+            d3.select("body")
+                .append("a")
+                .attr("href", "javascript:history.back()")
+                .text("Go Back");
+        }
+
+        // Get the JSON data
+        var jsonString = document.querySelector("#jsonData").textContent;
+
+        // Assign the jsonData value to the jsonString variable
+        console.log(jsonString); // Print the JSON string to the console
+
+        var data;
+        try {
+          data = JSON.parse(jsonString); // Attempt to parse the JSON string
+        } catch (error) {
+          console.error('Error parsing JSON:', error); // Log any error that occurs during parsing
+        }
+
+        // Use the `data` variable in your `draw` function
+        draw(data);
+    </script>
+</body>
+</html>
+
