@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+    <title>Homepage</title>
+
+    <style>
+	    body {
+	        font-family: Arial, sans-serif;
+	        text-align: center;
+	        margin: 0;
+	        padding: 20px;
+	        background-color: #ffcc99; /* Smooth orange background color */
+	    }
+	
+	    .container {
+	        max-width: 600px;
+	        margin: 0 auto;
+	        background-color: #e6f1fb; /* Light blue background color */
+	        padding: 20px;
+	        border-radius: 5px;
+	        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Smooth shadow effect */
+	        opacity: 0; /* Initially hide the container */
+        	animation: fade-in 2s ease forwards; /* Fade-in animation */
+	    }
+	    
+	    @keyframes fade-in {
+	        0% {
+	            transform: translateY(100%);
+	        }
+	        100% {
+	            transform: translateY(0);
+	            opacity: 1;
+	        }
+	    }
+	
+	    h1 {
+	        font-size: 24px;
+	        margin-bottom: 20px;
+	        color: #333; /* Heading text color */
+	    }
+	
+	    p {
+	        font-size: 18px;
+	        margin-bottom: 10px;
+	        color: #555; /* Paragraph text color */
+	    }
+	
+	    .options {
+	        display: flex;
+	        justify-content: center;
+	        align-items: center;
+	        flex-wrap: wrap;
+	        margin-top: 20px;
+	    }
+	
+	    .graph-button {
+	        font-size: 14px;
+	        padding: 6px 12px;
+	        margin: 5px;
+	        background-color: #ffddcc; /* Smooth button color */
+	        border: none;
+	        border-radius: 5px;
+	        cursor: pointer;
+	        transition: background-color 0.3s ease;
+	    }
+	
+	    .graph-button:hover {
+	        background-color: #ffaa88; /* Smooth hover color */
+	        color: #fff; /* Text color on hover */
+	    }
+	
+	    .graph-button img {
+	        width: 100px;
+	        height: 100px;
+	        margin-right: 5px;
+	        vertical-align: middle;
+	    }
+	</style>
+
+</head>
+
+
+<body>
+    <div class="container">
+        <h1>Welcome to the GlobalScope</h1>
+        <p>Please select a graph option:</p>
+        <div class="options">
+            <button class="graph-button" onclick="window.location.href='/timelineGeneralMetrics'">
+                <img src="images/timeseries.png" alt="Timelines"> Timeline for General Metrics
+            </button>
+            <button class="graph-button" onclick="window.location.href='/timelineInternational'">
+                <img src="images/timeseries.png" alt="Timelines"> Timeline for International Data
+            </button>
+            <button class="graph-button" onclick="window.location.href='/timelineMidyearFemale'">
+                <img src="images/timeseries.png" alt="Timelines"> Timeline for Midyear Population Data - Female
+            </button>
+            <button class="graph-button" onclick="window.location.href='/timelineMidyearMale'">
+                <img src="images/timeseries.png" alt="Timelines"> Timeline for Midyear Population Data - Male
+            </button>
+            
+            <button class="graph-button" onclick="window.location.href='/barchartCountryArea'">
+                <img src="images/barchart.png" alt="Bar Charts"> Bar Charts for Country Area
+            </button>
+            <button class="graph-button" onclick="window.location.href='/barchartGeneralMetrics'">
+                <img src="images/barchart.png" alt="Bar Charts"> Bar Charts for General Metrics
+            </button>
+            <button class="graph-button" onclick="window.location.href='/barchartInternational'">
+                <img src="images/barchart.png" alt="Bar Charts"> Bar Charts for International Data
+            </button>
+            <button class="graph-button" onclick="window.location.href='/barchartMidyearFemale'">
+                <img src="images/barchart.png" alt="Bar Charts"> Bar Charts for Midyear Population Data - Female
+            </button>
+            <button class="graph-button" onclick="window.location.href='/barchartMidyearMale'">
+                <img src="images/barchart.png" alt="Bar Charts"> Bar Charts for Midyear Population Data - Male
+            </button>
+            
+            <button class="graph-button" onclick="window.location.href='/scatter'">
+                <img src="images/scatterplot.png" alt="Scatter Plots"> Scatter Plots
+            </button>
+        </div>
+    </div>
+</body>
+
+</html>
