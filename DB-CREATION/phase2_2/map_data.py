@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv("C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\countries_utf8.csv")
+df = pd.read_csv("countries_utf8.csv")
 
 # Create an empty dictionary to hold the mapping
 iso_to_fips = {}
@@ -54,28 +54,28 @@ def map_fips_to_iso(input_csv_path, output_csv_path, iso_to_fips_dict):
     df.to_csv(output_csv_path, index=False, encoding='utf-8')
 
 # Example usage:
-input1_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\age_specific_fertility_rates_utf8.csv"
-output1_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\age_specific_fertility_rates_utf8_with_iso.csv"
+input1_csv_path = "age_specific_fertility_rates_utf8.csv"
+output1_csv_path = "age_specific_fertility_rates_utf8_with_iso.csv"
 #map_fips_to_iso(input1_csv_path, output1_csv_path, iso_to_fips)
-input2_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\birth_death_growth_rates_utf8.csv"
-output2_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\birth_death_growth_rates_utf8_with_iso.csv"
+input2_csv_path = "birth_death_growth_rates_utf8.csv"
+output2_csv_path = "birth_death_growth_rates_utf8_with_iso.csv"
 #map_fips_to_iso(input2_csv_path, output2_csv_path, iso_to_fips)
-input3_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\country_names_area_utf8.csv"
-output3_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\country_names_area_utf8_with_iso.csv"
+input3_csv_path = "country_names_area_utf8.csv"
+output3_csv_path = "country_names_area_utf8_with_iso.csv"
 #map_fips_to_iso(input3_csv_path, output3_csv_path, iso_to_fips)
-input4_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\midyear_population_5yr_age_sex_utf8.csv"
-output4_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\midyear_population_5yr_age_sex_utf8_with_iso.csv"
+input4_csv_path = "midyear_population_5yr_age_sex_utf8.csv"
+output4_csv_path = "midyear_population_5yr_age_sex_utf8_with_iso.csv"
 #map_fips_to_iso(input4_csv_path, output4_csv_path, iso_to_fips)
-input5_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\midyear_population_age_sex_utf8.csv"
-output5_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\midyear_population_age_sex_utf8_with_iso.csv"
+input5_csv_path = "midyear_population_age_sex_utf8.csv"
+output5_csv_path = "midyear_population_age_sex_utf8_with_iso.csv"
 #map_fips_to_iso(input5_csv_path, output5_csv_path, iso_to_fips)
-input6_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\midyear_population_utf8.csv"
-output6_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\midyear_population_utf8_with_iso.csv"
+input6_csv_path = "midyear_population_utf8.csv"
+output6_csv_path = "midyear_population_utf8_with_iso.csv"
 #map_fips_to_iso(input6_csv_path, output6_csv_path, iso_to_fips)
-input7_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUtf\\mortality_life_expectancy_utf8.csv"
-output7_csv_path = "C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\mortality_life_expectancy_utf8_with_iso.csv"
+input7_csv_path = "mortality_life_expectancy_utf8.csv"
+output7_csv_path = "mortality_life_expectancy_utf8_with_iso.csv"
 #map_fips_to_iso(input7_csv_path, output7_csv_path, iso_to_fips)
 
-df = pd.read_csv("C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\midyear_population_5yr_age_sex_utf8_with_iso.csv")
+df = pd.read_csv("midyear_population_5yr_age_sex_utf8_with_iso.csv")
 df.drop_duplicates(subset=["ISO_Code","year"] , keep='first', inplace=True)
-df.to_csv("C:\\Users\\steli\\Advanced Technologies In Data Bases\\Project\\InternationalDatasetsSmallUpdated\\midyear_population_5yr_age_sex_utf8_with_iso_test.csv", index=False)
+df.to_csv("midyear_population_5yr_age_sex_utf8_with_iso_test.csv", index=False)
